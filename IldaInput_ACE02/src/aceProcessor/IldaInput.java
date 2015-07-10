@@ -1,8 +1,10 @@
 package aceProcessor;
 
+import java.util.List;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -23,13 +25,18 @@ import xmlConversion.TagTypes;
 import xmlConversion.XmlHelper;
 
 public class IldaInput {
-	public Mention ment;                                  // word porperties
-	
 	public HashMap<Integer, HashMap<String, Integer>> dw; // fileId --> (word --> count)
 	public HashMap<String, Integer> wn;                   // word --> sum of this word in corpus
 	public HashMap<String, Integer> wmn;                  // word --> appearing in sum of files 
 	public HashMap<Integer, String> wid;                  // word --> id(descending sorted)
-	
+	/**
+	 * main class constructor
+	 * 
+	 * @param dirName
+	 *           input directory
+	 * @param outDir
+	 *           output directory
+	 */
 	public IldaInput(String dirName, String outDir) throws IOException, ParserConfigurationException, SAXException {
 		// 主类
 		dw = new HashMap<Integer, HashMap<String, Integer>>();
@@ -38,9 +45,16 @@ public class IldaInput {
 		wid = new HashMap<Integer, String>();
 		this.process(dirName, outDir);
 	}
-
+	/**
+	 * addressing sgm file
+	 * 
+	 * @param dirName
+	 *           input directory
+	 * @param outDir
+	 *           output directory
+	 */
 	private void process(String dirName, String outDir) throws IOException, ParserConfigurationException, SAXException {
-		// addressing sgm file，get content of the file
+		// addressing sgm file
 		FileWriter fw1 = null;                           // nips.corpus
 		FileWriter fw2 = null;                           // nips.vocab
 		FileWriter fw3 = null;                           // nips.docnames
@@ -60,6 +74,7 @@ public class IldaInput {
 			fw1 = new FileWriter(outDir + "/nips.docnames.txt");
 			fw2 = new FileWriter(outDir + "/nips.corpus.txt");
 			fw3 = new FileWriter(outDir + "/nips.vocab.txt");
+			fw4 = new FileWriter(outDir + "/nips.mention.txt");
 			File files[] = dFile.listFiles();
 			for (int i = 0; i < files.length; i++) {
 				if (files[i].isFile()) {
@@ -75,8 +90,19 @@ public class IldaInput {
 						}
 					}else if (filename.endsWith(".xml")) {
 						System.out.println("xml name: " + filename);
+						List<Mention> wm = 
+								new ArrayList<Mention>();             // word --> property
 						HashMap<String, Integer> mp = processEntities(files[i]
-								.getAbsolutePath());
+								.getAbsolutePath(), wm);
+						//nips.mentionPos
+						for(int k = 0; k < wm.size(); k++)
+						{
+							String mention = wm.get(k).getContent();
+							int pos = wm.get(k).getExtentSt();
+							fw4.write(mention+"="+pos);
+							if(k < wm.size() - 1) fw4.write("=");
+						}
+						fw4.write("\r\n");
 						dw.put(fileId, mp);
 						fileId++;
 					} else {
@@ -114,13 +140,20 @@ public class IldaInput {
 			fw1.close();
 			fw2.close();
 			fw3.close();
+			fw4.close();
 		}
 	}
-
-	private HashMap<String, Integer> processEntities(String annotFname) throws ParserConfigurationException, SAXException, IOException {
+	/**
+	 * addressing xml file
+	 * 
+	 * @param annotFname
+	 *         xml file name
+	 * @param list
+	 *         save mention propery 
+	 */
+	private HashMap<String, Integer> processEntities(String annotFname,List<Mention> list) throws ParserConfigurationException, SAXException, IOException {
 		// 处理xml文件，得到特征词语
 		HashMap<String, Integer> res = new HashMap<String, Integer>();          //word --> count
-		
 		org.w3c.dom.Document document = null;
 		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder builder = factory.newDocumentBuilder();
@@ -140,11 +173,13 @@ public class IldaInput {
 					String ID = childN.getAttributes().getNamedItem(TagTypes.ID).getNodeValue(); 
 					String sPos = XmlHelper.getFirstChildByTagName(entity, TagTypes.START).getTextContent();
 					String ePos = XmlHelper.getFirstChildByTagName(entity, TagTypes.END).getTextContent();
+					Mention ment = new Mention();                                  
 					ment.setType(type);
 					ment.setId(ID);
 					ment.setExtentSt(Integer.parseInt(sPos));
 					ment.setExtentEd(Integer.parseInt(ePos));
 					ment.setContent(mention);
+					list.add(ment);
 					// mention --> count (in single file)
 					if (!res.containsKey(mention)) {
 						res.put(mention, 1);
@@ -171,7 +206,14 @@ public class IldaInput {
 		}
 		return res;
 	}
-	
+	/**
+	 * sort terms by their frequency
+	 * 
+	 * @param m1
+	 *         origin map
+	 * @param m2
+	 *         new map 
+	 */
 	private void sortByCount(HashMap<String, Integer> m1,
 			HashMap<Integer, String> m2) {
 		int id = 0;
@@ -191,7 +233,14 @@ public class IldaInput {
 			id++;
 		}
 	}
-	
+	/**
+	 * get content in quotation,
+	 * 
+	 * for example:"I am a student" -> I am a student
+	 * 
+	 * @param input
+	 *         a string containing quotaion
+	 */
 	private String getContentOfQuotation(String input)
 	{
 		String res = "";
