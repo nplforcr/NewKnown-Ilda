@@ -1,21 +1,1722 @@
-IDENT 15 32
-IDENT 15 35
-IDENT 15 39
-IDENT 15 43
-IDENT 15 53
-IDENT 15 57
-IDENT 32 35
-IDENT 32 39
-IDENT 32 43
-IDENT 32 53
-IDENT 32 57 
-IDENT 35 39
-IDENT 35 43
-IDENT 35 53
-IDENT 35 57
-IDENT 39 43
-IDENT 39 53
-IDENT 39 57
-IDENT 43 53
-IDENT 43 57
-IDENT 53 57
+28: PRI19980112.2000.2076.sgm
+    id = 151
+    authors = none 
+	IDENT 31 you 58 the Irish government
+	IDENT 48 I 63 they
+	IDENT 53 BBC 88 the United Kingdom
+	IDENT 74 northern Ireland 91 British
+
+0: CNN19980603.0130.1490.sgm
+    id = 86
+    authors = none 
+	IDENT 5 Raw foodists 16 Mainstream nutritionists
+	IDENT 6 us 41 New York
+	IDENT 9 our 19 the person
+	IDENT 13 some people 37 They
+	IDENT 14 You 42 few if any heavyweights
+	IDENT 23 the raw foodists 46 a raw foodist
+	IDENT 31 I 36 Rhio
+
+1: CNN19980119.2130.0962.sgm
+    id = 35
+    authors = none 
+	IDENT 0 The slain civil rights leader 1 Americans
+
+2: ed980109.1130.0477.sgm
+    id = 129
+    authors = none 
+	IDENT 0 California 14 Prosecutors
+	IDENT 1 the girl 2 the girl's body
+	IDENT 4 her six hundred eighty pound daughter 15 a jury
+	IDENT 8 her 11 Corrigan
+	IDENT 12 Marlene Corrigan 16 prison
+
+3: VOA19980303.1600.0917.sgm
+    id = 192
+    authors = none 
+	IDENT 0 Some analysts 15 General Abacha's supporters
+	IDENT 7 VOA 29 General Sani Abacha
+	IDENT 10 president 38 people
+	IDENT 13 Nigerian security forces 34 Lagos
+	IDENT 20 Abuja 40 the opposition
+	IDENT 24 him 32 Nigeria's southern commercial capital Lagos
+	IDENT 27 Abacha 37 Nigerian
+	IDENT 30 General Abacha 36 Nigeria
+
+4: CNN19980510.1130.0967.sgm
+    id = 77
+    authors = none 
+	IDENT 0 Our stations 12 many fliers
+	IDENT 1 US Airways 2 Amtrak's passengers
+	IDENT 3 more than half of Amtrak's passengers 26 We
+	IDENT 4 The northeast corridor 22 I
+	IDENT 5 Our 9 the traveler
+	IDENT 14 You 20 more business travelers
+	IDENT 18 center city 39 New York
+	IDENT 24 Amtrak 36 Washington
+	IDENT 28 Delta 32 Stephanie Oswald
+
+5: ABC19980410.1830.0074.sgm
+    id = 12
+    authors = none 
+	IDENT 27 Maine 138 We
+	IDENT 54 I 149 Irish
+	IDENT 61 he 116 their
+	IDENT 62 his 114 Belfast
+	IDENT 71 Mitchell 137 we
+	IDENT 86 Northern Ireland 140 they
+	IDENT 118 They 130 Catholics
+
+6: ea980124.1830.0735.sgm
+    id = 112
+    authors = none 
+	IDENT 25 Monica Lewinsky 111 He
+	IDENT 35 his critics 121 the vice president
+	IDENT 49 ABC 127 Mr. Gore
+	IDENT 81 you 136 White House
+	IDENT 95 the President 103 Mr. Clinton
+	IDENT 110 I 118 his
+	IDENT 119 he 138 the White House
+
+7: VOA19980624.1800.1997.sgm
+    id = 214
+    authors = none 
+	IDENT 53 Chinese 115 Taiwan
+	IDENT 58 China 147 US
+	IDENT 70 the Chinese military 156 they
+	IDENT 77 the area 103 the island
+	IDENT 94 Beijing 122 I
+	IDENT 126 it 160 the Americans
+	IDENT 142 American 149 Washington
+
+8: PRI19980515.2000.0236.sgm
+    id = 186
+    authors = none 
+	IDENT 6 fans 7 the country
+	IDENT 9 New York 19 Sinatra
+
+9: CNN19980203.2130.0992.sgm
+    id = 44
+    authors = none 
+	IDENT 0 UN 5 Egyptian president Hosni Mubarak
+	IDENT 1 the United States 8 Secretary of State Madeleine Albright
+	IDENT 2 the Mideast 7 her
+	IDENT 3 Europe 9 Egyptian
+	IDENT 6 She 10 Iraq
+
+10: CNN19980516.1300.0177.sgm
+    id = 79
+    authors = none 
+	IDENT 0 the Justice Department 7 Microsoft
+	IDENT 2 Sources 8 Competitors
+	IDENT 3 state and federal officials 4 its
+
+11: ea980130.1830.0304.sgm
+    id = 121
+    authors = none 
+	IDENT 1 the Gulf 32 the Russians
+	IDENT 2 Jordan 12 officials
+	IDENT 11 you 17 Middle East
+	IDENT 16 Defense Secretary William Cohen 19 its
+	IDENT 20 the US 34 Russian
+	IDENT 22 US 43 Saddam Hussein
+	IDENT 29 the Russian foreign minister 41 Secretary Albright
+	IDENT 36 State 48 Iraq
+	IDENT 39 she 49 the allies
+
+12: VOA19980430.1800.0232.sgm
+    id = 205
+    authors = none 
+	IDENT 2 North Korea 10 the most active state sponsorer of terrorism
+	IDENT 3 China 8 its
+	IDENT 6 moderate President Mohammed Khatami 15 countries that sponsor terrorism
+	IDENT 7 Syria 14 terrorist groups
+	IDENT 11 Tehran 13 Iran
+
+13: CNN19980321.1130.0616.sgm
+    id = 65
+    authors = none 
+	IDENT 1 the consumer 32 Detroit
+	IDENT 7 they 30 Ed Garsten
+	IDENT 9 your 10 you
+	IDENT 22 the petroleum industry 37 California
+
+14: ea980127.1830.0723.sgm
+    id = 114
+    authors = none 
+	IDENT 0 the one billion people worldwide who are at risk 6 it
+	IDENT 1 We 9 Pharmaceutical giant Smith Kline Beecham
+	IDENT 4 the President 11 The White House
+	IDENT 5 they 8 Smith Kline
+	IDENT 7 the company 10 people with the disease
+
+15: CNN19980117.1600.0439.sgm
+    id = 34
+    authors = none 
+	IDENT 1 gulf 14 Hussein
+	IDENT 2 united nations 16 Baghdad
+	IDENT 4 UN 9 Iraq
+	IDENT 5 US 17 Israeli
+	IDENT 10 Iraqi 19 British
+
+16: ed980122.1130.0066.sgm
+    id = 144
+    authors = none 
+	IDENT 50 CNN 100 her
+	IDENT 66 Vernon Jordan 99 she
+	IDENT 90 White House 111 Lewinsky
+	IDENT 113 we 142 I
+	IDENT 115 our 118 you
+	IDENT 143 he 156 the President
+
+17: ABC19980430.1830.0858.sgm
+    id = 17
+    authors = none 
+	IDENT 15 people 150 their
+	IDENT 29 they 39 us
+	IDENT 60 we 97 me
+	IDENT 86 you 144 I
+	IDENT 101 We 156 the group
+	IDENT 102 them 141 Froistad
+	IDENT 108 others 129 him
+	IDENT 118 her 132 his
+
+18: PRI19980107.2000.0376.sgm
+    id = 149
+    authors = none 
+	IDENT 0 states 5 parents
+	IDENT 1 businesses 2 about two million American children
+	IDENT 3 their children 7 American
+	IDENT 6 working parents 9 his
+	IDENT 11 President Clinton 12 caregivers
+
+19: VOA19980312.1800.2117.sgm
+    id = 198
+    authors = none 
+	IDENT 26 Lisa Schlein 43 He
+	IDENT 28 China 63 it
+	IDENT 52 Algeria 59 the Commission
+
+20: VOA19980330.1700.2838.sgm
+    id = 199
+    authors = none 
+	IDENT 2 Paris 26 a football fan
+	IDENT 8 French men 14 the country
+	IDENT 10 the world 20 itself
+	IDENT 18 France 23 The group
+
+21: CNN19980509.1600.0930.sgm
+    id = 76
+    authors = none 
+	IDENT 0 its 4 Blue Cross Blue Shield policy holders
+	IDENT 1 the company 3 Minnesota
+
+22: PRI19980213.2000.1886.sgm
+    id = 164
+    authors = none 
+	IDENT 5 I 7 President Clinton
+	IDENT 22 UN 26 Iraq
+	IDENT 28 he 31 Kofi Annan
+	IDENT 34 BBC 37 Washington
+
+23: ea980127.1830.0618.sgm
+    id = 113
+    authors = none 
+	IDENT 10 Europe 29 they
+	IDENT 14 Iraq 38 the Pentagon
+
+24: CNN19980129.1130.0599.sgm
+    id = 38
+    authors = none 
+	IDENT 0 the mideast 7 Secretary of state Madeleine Albright
+	IDENT 1 the administration 11 Arab leaders
+	IDENT 2 US 9 The Senate
+	IDENT 4 Europe 8 Iraq
+	IDENT 6 she 10 Arab
+
+25: ed980122.1130.0964.sgm
+    id = 146
+    authors = none 
+	IDENT 1 He 14 Mr. Clinton
+	IDENT 3 he 16 White House
+	IDENT 6 Jordan 15 President Clinton
+	IDENT 7 Vernon Jordan 9 she
+	IDENT 12 Lewinsky 13 the President
+
+26: CNN19980520.1600.1092.sgm
+    id = 81
+    authors = none 
+	IDENT 0 Ameritech 2 upstart carrier Quest
+	IDENT 1 US West 9 Ma bell
+	IDENT 3 their 11 other long distance carriers
+	IDENT 6 the baby bells 10 AT and T
+	IDENT 7 its 12 two of the baby bells
+
+27: PRI19980317.2000.1256.sgm
+    id = 176
+    authors = none 
+	IDENT 14 people 84 China's new premiere
+	IDENT 20 you 97 Ju Rong Zhi
+	IDENT 40 its 95 Ju
+	IDENT 42 the country 69 He
+	IDENT 57 China 98 he
+	IDENT 99 his 121 the world
+	IDENT 110 Alan Dow 116 I
+
+28: PRI19980112.2000.2076.sgm
+    id = 151
+    authors = none 
+	IDENT 31 you 58 the Irish government
+	IDENT 48 I 63 they
+	IDENT 53 BBC 88 the United Kingdom
+	IDENT 74 northern Ireland 91 British
+
+29: CNN19980114.1130.1344.sgm
+    id = 33
+    authors = none 
+	IDENT 4 Richard Hamilton 12 Brad Miller
+	IDENT 6 Huskies 13 Purdue
+	IDENT 7 Number ten U Conn 19 The wildcats
+	IDENT 10 Illinois 18 number six Kentucky
+	IDENT 11 the Illini 17 number fourteen South Carolina
+
+30: ABC19980507.1830.1352.sgm
+    id = 18
+    authors = none 
+	IDENT 16 Earth 33 we
+	IDENT 24 We 31 our
+	IDENT 34 us 38 you
+
+31: CNN19980202.1600.0955.sgm
+    id = 43
+    authors = none 
+	IDENT 1 he 2 the president
+
+32: ABC19980419.1830.0640.sgm
+    id = 14
+    authors = none 
+	IDENT 0 Grand Forks, North Dakota 9 Virginia
+	IDENT 1 Residents of Grand Forks, North Dakota 11 Tennessee
+	IDENT 2 North Dakota 15 no one
+	IDENT 3 fifty thousand people 12 residents
+	IDENT 4 the dike along the Red River 6 parts of the South
+	IDENT 5 the Red River 14 a nursing home
+	IDENT 8 Waynesboro, Virginia 17 elderly residents
+	IDENT 10 an interstate 18 Police
+
+33: PRI19980220.2000.2954.sgm
+    id = 170
+    authors = none 
+	IDENT 0 we 7 neighboring Saudi Arabia
+	IDENT 1 We 4 it
+
+34: ed980111.1130.0089.sgm
+    id = 133
+    authors = none 
+	IDENT 8 people in parts of the northeastern US and eastern Canada 13 five counties that have been declared under a state of emergency
+	IDENT 9 one more 19 parts of the northeastern US and eastern Canada
+	IDENT 14 New York 20 another location
+	IDENT 18 a substantial number of customers 23 a couple in Plattsburg, New York
+	IDENT 21 them 29 about a half million people
+
+35: CNN19980111.1600.1504.sgm
+    id = 29
+    authors = none 
+	IDENT 8 we 43 you
+	IDENT 46 him 52 us
+	IDENT 50 I 82 New York
+	IDENT 64 students 69 they
+
+36: ABC19980223.1830.1676.sgm
+    id = 9
+    authors = none 
+	IDENT 2 we 5 Mr. Clinton
+	IDENT 3 Saddam Hussein 8 UN
+	IDENT 4 his 6 President Clinton
+
+37: CNN19980623.1600.1313.sgm
+    id = 90
+    authors = none 
+	IDENT 0 No successor 6 Murphy
+	IDENT 4 him 11 Vancouver
+	IDENT 5 the Leafs' coach 7 head coach Mike Murphy
+	IDENT 8 they 9 the Leafs
+	IDENT 10 The Toronto Maple Leafs 12 the prime candidate to succeed him
+
+38: ea980120.1830.0434.sgm
+    id = 105
+    authors = none 
+	IDENT 0 Washington 10 Mr. Arafat
+	IDENT 1 President Clinton 9 Palestinian leader Yasser Arafat who was in Paris today
+	IDENT 2 Paris 11 the Holocaust mus- Memorial Museum in Washington
+	IDENT 3 Palestinian 5 itself
+	IDENT 8 him 12 museum officials
+
+39: ea980130.1830.0802.sgm
+    id = 123
+    authors = none 
+	IDENT 13 unnamed sources 63 people
+	IDENT 24 They 115 Ben Bradlee
+	IDENT 26 they 111 I
+	IDENT 29 reporters 93 the President
+	IDENT 102 the White House 133 him
+	IDENT 105 White House 124 their
+	IDENT 120 us 121 we
+	IDENT 122 you 134 he
+
+40: ea980110.1830.0507.sgm
+    id = 94
+    authors = none 
+	IDENT 20 ABC 21 we
+	IDENT 34 Cuba 59 British
+	IDENT 39 his 79 US
+	IDENT 43 their 84 Protestant
+	IDENT 62 Irish 70 Northern Ireland
+
+41: ea980128.1830.1325.sgm
+    id = 118
+    authors = none 
+	IDENT 1 The government 3 campaign contributors
+	IDENT 4 this White House 5 Arlington National Cemetery
+
+42: PRI19980303.2000.2550.sgm
+    id = 172
+    authors = none 
+	IDENT 14 supervisors 67 I
+	IDENT 28 Islam 117 Loudon county
+	IDENT 29 they 45 he
+	IDENT 31 Muslims 110 Virginia
+	IDENT 69 Nancy Marshalll 91 it
+	IDENT 85 Saudi 118 Loudon county, Virginia
+
+43: PRI19980420.2000.2020.sgm
+    id = 180
+    authors = none 
+	IDENT 73 there 109 them
+	IDENT 81 she 107 Alejandra
+	IDENT 119 Zapatista 127 Chiapas
+	IDENT 142 the government 148 you
+	IDENT 150 I 158 they
+
+44: ed980121.1130.0381.sgm
+    id = 138
+    authors = none 
+	IDENT 16 Arafat 28 he
+	IDENT 22 President Clinton 36 our
+	IDENT 26 I 43 Israeli
+	IDENT 31 Netanyahu 35 we
+
+45: ed980122.1130.1565.sgm
+    id = 148
+    authors = none 
+	IDENT 18 Adam 94 his
+	IDENT 33 my father 103 them
+	IDENT 52 him 82 Her
+	IDENT 77 I 87 you
+	IDENT 78 my 79 she
+	IDENT 88 your 91 he
+	IDENT 93 He 100 Elbrick
+
+46: ABC19980217.1830.1615.sgm
+    id = 8
+    authors = none 
+	IDENT 13 heavily favored Canada 54 women
+	IDENT 26 you 47 we
+	IDENT 33 them 44 US
+	IDENT 36 I 38 Nagano
+	IDENT 46 American 48 they
+
+47: PRI19980115.2000.0186.sgm
+    id = 152
+    authors = none 
+	IDENT 4 NPR 15 Keating
+	IDENT 17 Charles Keating 19 the ninth US circuit court of appeals
+	IDENT 18 A federal appeals court 21 NPR's Elaine Corey
+	IDENT 23 San Francisco 25 state court
+
+48: ed980121.1130.0495.sgm
+    id = 140
+    authors = none 
+	IDENT 3 Miami 16 the CNN weather center
+	IDENT 11 Oklahoma City 33 the good ski resorts there
+	IDENT 14 the US 29 Seattle
+	IDENT 22 you 27 Portland
+	IDENT 25 the northeast 31 I
+
+49: ed980104.1130.0245.sgm
+    id = 124
+    authors = none 
+	IDENT 0 the first to float around the world nonstop 17 Fossett
+	IDENT 3 Turkey 18 Balloonist Steve Fossett
+	IDENT 4 Eastern Europe 15 He
+	IDENT 5 the world 8 its
+	IDENT 10 Libya 13 him
+
+50: ABC19980607.1830.1046.sgm
+    id = 20
+    authors = none 
+	IDENT 0 tomorrow's New York Times 52 thirty other heads of state
+	IDENT 2 Ethan Nadelmann 43 ABC's Bob Woodruff
+	IDENT 4 Zeese 32 President Clinton
+	IDENT 7 ABC News 27 them
+	IDENT 8 ABC 39 one UN official
+	IDENT 18 we 23 We
+	IDENT 35 its 48 the UN
+	IDENT 37 the world 41 Pino Arlacchi
+	IDENT 50 UN 51 the United Nations
+
+51: ABC19980112.1830.1402.sgm
+    id = 3
+    authors = none 
+	IDENT 0 you 8 we
+	IDENT 1 They 5 the disabled golfer we told you about last week
+	IDENT 4 He 7 Florida
+
+52: ABC19980120.1830.0957.sgm
+    id = 5
+    authors = none 
+	IDENT 2 man 66 Washington
+	IDENT 7 the rest of the world 52 the US
+	IDENT 11 the world 65 Fidel Castro
+	IDENT 12 The entire world 27 the Cuban government
+	IDENT 16 Havana 26 the government
+	IDENT 35 Cuba 46 it
+	IDENT 40 the Pope 62 Castro
+	IDENT 45 its 55 He
+
+53: ABC19980429.1830.0068.sgm
+    id = 16
+    authors = none 
+	IDENT 2 the grand jury 80 Lewinsky
+	IDENT 17 Arkansas 54 the President
+	IDENT 24 Mrs. Clinton 57 President Clinton
+	IDENT 31 Starr 83 Monica Lewinsky
+	IDENT 72 she 73 her
+
+54: CNN19980622.1600.1284.sgm
+    id = 89
+    authors = none 
+	IDENT 0 Kafelnikov 7 Steffi Graf
+	IDENT 2 Dominic Herbaty 16 Kournikova
+	IDENT 4 Andre Agassi 14 Gala Leon Garcia
+	IDENT 6 second seed Lindsay Davenport 18 an upset victim
+	IDENT 8 fourth seed Steffi Graf 15 her
+
+55: ABC19980417.1830.1500.sgm
+    id = 13
+    authors = none 
+	IDENT 25 your 82 Goodies
+	IDENT 34 a driver 63 his
+	IDENT 40 us 47 him
+	IDENT 55 you 78 they
+	IDENT 74 I 85 NASCAR
+
+56: PRI19980217.2000.1135.sgm
+    id = 166
+    authors = none 
+	IDENT 0 European 15 cellist Julian Lloyd Weber
+	IDENT 2 Corvallis, Oregon 7 us
+	IDENT 6 Bradley Berg from Corvallis, Oregon 14 listener G Francis Malleli
+	IDENT 12 your 13 our
+
+57: ABC19980629.1830.1520.sgm
+    id = 22
+    authors = none 
+	IDENT 46 you 72 Shanghai
+	IDENT 74 here 77 Pudong
+	IDENT 83 China 90 the President
+	IDENT 84 the new China 87 we
+
+58: CNN19980503.1000.0576.sgm
+    id = 74
+    authors = none 
+	IDENT 0 Syracuse 5 a family in upstate New York
+	IDENT 1 a bus station in Syracuse 4 upstate New York
+	IDENT 2 Florida 15 Her fifty-two year old mother
+	IDENT 3 Authorities 8 Police
+	IDENT 6 police 10 the women
+
+59: CNN19980110.1130.1264.sgm
+    id = 28
+    authors = none 
+	IDENT 3 CNN 4 the pistons
+	IDENT 5 Grant Hill 11 Boston
+	IDENT 7 Antonio McDyess 8 Vin Baker
+	IDENT 9 the NBA 34 Phoenix
+	IDENT 10 The sonics 13 the Wizards
+	IDENT 12 the celtics 31 I
+	IDENT 14 the Hawks 15 Steve Smith
+	IDENT 16 Chris Childs 25 its
+	IDENT 18 Jerry Stackhouse 22 the spurs
+	IDENT 19 Number twenty-three 30 the knicks
+	IDENT 20 Michael Jordan 32 Russelll Biven
+	IDENT 24 The suns 33 San Antonio
+	IDENT 26 Seattle 27 the bulls
+	IDENT 28 Chicago 29 New York
+
+60: CNN19980107.2130.1100.sgm
+    id = 26
+    authors = none 
+	IDENT 0 The Detroit lions 1 CNN
+
+61: CNN19980201.1600.0385.sgm
+    id = 42
+    authors = none 
+	IDENT 2 they 40 Chinese
+	IDENT 20 politicians 42 his
+	IDENT 45 the media 61 Steve Nettleton
+	IDENT 48 Japanese 54 he
+	IDENT 51 French 62 the president
+
+62: PRI19980217.2000.1759.sgm
+    id = 167
+    authors = none 
+	IDENT 0 their 1 cyclists
+	IDENT 2 a New York-based scientist 5 man
+	IDENT 3 Saben 4 Inventor Robert Saben
+
+63: PRI19980205.2000.1998.sgm
+    id = 161
+    authors = none 
+	IDENT 2 Bonn 22 Thousands of people in Germany
+	IDENT 5 the German electorate 11 Chancellor Kohl
+	IDENT 14 Caroline Wyatt 20 Germany
+	IDENT 16 the country 19 German
+
+64: ed980121.1130.0562.sgm
+    id = 141
+    authors = none 
+	IDENT 24 you 44 they
+	IDENT 25 us 38 her
+	IDENT 39 she 43 Ann Kellan
+
+65: PRI19980601.2000.0276.sgm
+    id = 188
+    authors = none 
+	IDENT 3 new hirees 18 the French national carrier
+	IDENT 6 the president of Air France 16 the country
+	IDENT 11 Paris 22 Air France
+	IDENT 14 Sarah Chaise 15 here
+
+66: CNN19980602.1130.0573.sgm
+    id = 85
+    authors = none 
+	IDENT 36 Woodward 69 Sharp
+	IDENT 38 Louise Woodward 49 Massachusetts
+	IDENT 42 he 72 Brian Jenkins
+	IDENT 58 she 59 her
+	IDENT 67 Ms. Sharp 73 a liar
+
+67: CNN19980610.1130.0052.sgm
+    id = 87
+    authors = none 
+	IDENT 2 We 4 our
+	IDENT 5 Wall Street 9 US
+	IDENT 6 The Federal Reserve 16 The world
+	IDENT 7 Congress 12 The Federal Reserve chairman
+	IDENT 11 He 13 The world's most powerful banker
+
+68: CNN19980310.1600.0080.sgm
+    id = 61
+    authors = none 
+	IDENT 38 you 46 I
+	IDENT 49 people 63 Dan Ronan
+	IDENT 57 their 60 Alabama
+
+69: ABC19980427.1830.0879.sgm
+    id = 15
+    authors = none 
+	IDENT 14 they 51 I
+	IDENT 19 you 34 American
+	IDENT 32 adults 52 my
+	IDENT 41 She 58 ABC
+
+70: CNN19980415.0130.0189.sgm
+    id = 70
+    authors = none 
+	IDENT 4 you 16 Carl Rochelle
+	IDENT 23 we 24 We
+	IDENT 35 the White House 37 The White House
+
+71: PRI19980218.2000.0431.sgm
+    id = 169
+    authors = none 
+	IDENT 0 You 8 teams without technical skills
+	IDENT 1 us 91 him
+	IDENT 18 defense 125 The World
+	IDENT 20 Harvard 65 it
+	IDENT 27 you 80 Baghdad
+	IDENT 45 British officials 83 Iraq
+	IDENT 57 Saddam 102 his
+	IDENT 71 US 126 White House
+	IDENT 79 they 117 Kofi Annan
+	IDENT 101 he 122 I
+
+72: ea980112.1830.1014.sgm
+    id = 96
+    authors = none 
+	IDENT 38 they 74 I
+	IDENT 40 their 103 the United States
+	IDENT 51 us 107 Asia
+	IDENT 61 the President 102 American
+	IDENT 65 it 82 Congress
+	IDENT 70 Peter 78 Cokie
+	IDENT 75 you 91 we
+
+73: CNN19980205.0130.1028.sgm
+    id = 46
+    authors = none 
+	IDENT 14 your 15 you
+	IDENT 19 Christine Negroni 44 We
+	IDENT 20 they 30 the agency
+	IDENT 23 their 28 its
+	IDENT 37 FAA 40 the FAA
+
+74: CNN19980223.1130.0960.sgm
+    id = 55
+    authors = none 
+	IDENT 3 we 4 ten thousand gas stations nationwide
+	IDENT 6 north sea 7 Iraq
+
+75: PRI19980422.2000.0121.sgm
+    id = 181
+    authors = none 
+	IDENT 0 Human rights groups 16 Rwandan society
+	IDENT 6 UN 17 people
+	IDENT 14 Rwandan 15 Rwanda
+
+76: PRI19980326.2000.2526.sgm
+    id = 178
+    authors = none 
+	IDENT 4 President Clinton 11 we
+	IDENT 5 them 6 the French
+	IDENT 13 South Africa 18 French Corner
+	IDENT 15 This wine producing village 16 our mystery destination
+
+77: ed980121.1130.1483.sgm
+    id = 143
+    authors = none 
+	IDENT 0 CNN 41 The actors
+	IDENT 1 some leading film score composers 3 Francis Ford Coppola
+	IDENT 2 his characters 8 some legendary composers
+	IDENT 12 me 22 director Barry Levinson
+	IDENT 18 Laurin Sydney 24 composer Elliot Goldenthal
+	IDENT 23 I 28 he
+	IDENT 27 Elmer Bernstein, a film composer for the past forty years 43 characters
+	IDENT 36 your 40 you
+
+78: ea980120.1830.1378.sgm
+    id = 107
+    authors = none 
+	IDENT 0 ABC News 1 the positives
+	IDENT 2 negatives 3 Fifty-three percent
+	IDENT 4 forty-six per cent 5 people
+	IDENT 6 the government 7 the federal government
+
+79: PRI19980624.2000.0375.sgm
+    id = 191
+    authors = none 
+	IDENT 11 many people 60 Rob
+	IDENT 16 anybody 79 China
+	IDENT 57 I 77 Chinese
+	IDENT 68 the government 82 the president
+	IDENT 78 Beijing 90 he
+	IDENT 88 President Clinton 99 people
+
+80: ea980119.1830.0643.sgm
+    id = 103
+    authors = none 
+	IDENT 2 Rock and Roll Hall of Fame 18 cat
+	IDENT 4 His 10 Perkins
+	IDENT 5 He 7 sixty-five
+	IDENT 8 a real pioneer of rock and roll 12 everyone from Johnny Cash to The Beatles
+	IDENT 11 Carl Perkins 15 my
+
+81: ea980130.1830.0398.sgm
+    id = 122
+    authors = none 
+	IDENT 0 Turkey 8 Afghanistan
+	IDENT 2 government security forces 15 its
+	IDENT 7 Sudan 19 ten to twenty thousand people
+	IDENT 11 Burma 18 The State Department
+	IDENT 12 Some of the other countries that make the list 13 The government
+
+82: ABC19980625.1830.1648.sgm
+    id = 21
+    authors = none 
+	IDENT 2 they 5 New York's botanical garden
+
+83: ed980122.1130.0601.sgm
+    id = 145
+    authors = none 
+	IDENT 2 an estimated forty thousand men 5 Harvard
+	IDENT 10 Researchers at Harvard University 25 the US
+	IDENT 15 his 21 Markey
+	IDENT 19 he 24 Al Hinman
+	IDENT 27 doctors 28 men in the highest twenty-fifth percentile of IGF one levels
+
+84: CNN19980224.2130.0977.sgm
+    id = 56
+    authors = none 
+	IDENT 0 The US ambassador to the UN 6 weapons inspectors
+	IDENT 1 Iraq 7 the United States
+	IDENT 4 UN 8 US
+
+85: ed980104.1130.0540.sgm
+    id = 127
+    authors = none 
+	IDENT 0 Cape Canaveral 3 its
+	IDENT 2 the moon 4 NASA
+
+86: PRI19980504.2000.0371.sgm
+    id = 184
+    authors = none 
+	IDENT 4 us 63 Benjamin Netanyahu
+	IDENT 10 anybody 85 you
+	IDENT 34 Allen 35 The World's Allen Dow
+	IDENT 47 they 66 They
+	IDENT 50 the Palestinians 83 London
+	IDENT 58 he 72 Israel
+	IDENT 73 Israeli 89 The World
+
+87: ea980110.1830.1310.sgm
+    id = 95
+    authors = none 
+	IDENT 12 Texas 15 ABC News
+	IDENT 37 you 56 I
+	IDENT 62 the country 87 We
+	IDENT 72 They 93 Princeton
+	IDENT 73 we 75 they
+
+88: ed980111.1130.1010.sgm
+    id = 135
+    authors = none 
+	IDENT 1 Charles Molineaux 14 CNN financial news
+	IDENT 2 US 7 the production facilities
+	IDENT 3 there 12 suppliers
+	IDENT 4 Asia 10 Economists
+	IDENT 13 Analysts 15 New York
+
+89: VOA19980604.1700.1937.sgm
+    id = 212
+    authors = none 
+	IDENT 11 John Pitman 15 Northern Ireland
+	IDENT 18 British 28 Washington
+	IDENT 26 US 32 Senator Toracelli
+
+90: PRI19980515.2000.1255.sgm
+    id = 187
+    authors = none 
+	IDENT 28 your 29 you
+	IDENT 110 Cuba 144 Madrid
+	IDENT 119 they 212 the United States
+	IDENT 162 Spanish 184 Spain
+	IDENT 193 its 199 Washington
+
+91: CNN19980424.2130.0237.sgm
+    id = 71
+    authors = none 
+	IDENT 0 employees 15 New Jersey
+	IDENT 1 employers 19 The New York Times
+	IDENT 2 consumers 16 New York
+	IDENT 4 eighty-five percent of employees 9 They
+	IDENT 11 Managed care companies 17 Employees in New York, New Jersey, California, Illinois and Minnesota
+
+92: VOA19980414.1800.1160.sgm
+    id = 203
+    authors = none 
+	IDENT 2 its 9 the Asia Pacific Region
+	IDENT 3 the airline 10 Asia Pacific
+	IDENT 4 the largest US air carrier 12 Analysts
+	IDENT 5 United 6 United Airlines, the largest US air carrier
+	IDENT 7 Boeing 11 US
+
+93: ea980128.1830.0095.sgm
+    id = 116
+    authors = none 
+	IDENT 11 They 102 his
+	IDENT 35 they 103 he
+	IDENT 44 Peter 62 your
+	IDENT 61 you 95 I
+	IDENT 65 me 122 us
+	IDENT 76 ABC 113 the President
+	IDENT 100 him 120 the University of Illinois
+
+94: ed980104.1130.0272.sgm
+    id = 125
+    authors = none 
+	IDENT 0 The first family 2 Washington
+	IDENT 3 the Caribbean 4 He
+	IDENT 5 President Clinton 6 the US Virgin Islands
+
+95: CNN19980405.1000.0591.sgm
+    id = 69
+    authors = none 
+	IDENT 8 you 33 I
+	IDENT 11 themselves 40 his body
+	IDENT 20 nonskiers 50 Italy
+	IDENT 29 CNN 45 here
+	IDENT 34 my 44 Santa Caterina, Italy
+	IDENT 55 his 61 they
+
+96: CNN19980120.1130.1543.sgm
+    id = 36
+    authors = none 
+	IDENT 23 Studio executives 27 He
+	IDENT 26 him 32 Cynthia Tornquist
+	IDENT 34 I 38 you
+
+97: ea980128.1830.0877.sgm
+    id = 117
+    authors = none 
+	IDENT 22 his office 60 his
+	IDENT 47 Secret Service 48 the Secret Service
+	IDENT 61 he 158 their
+	IDENT 62 him 170 We
+	IDENT 85 ABC 161 us
+	IDENT 91 the President 168 we
+	IDENT 109 I 178 They
+	IDENT 165 them 179 they
+	IDENT 171 you 188 Secret Service agents
+
+98: CNN19980113.1600.1130.sgm
+    id = 32
+    authors = none 
+	IDENT 0 some taxpayers 8 it
+	IDENT 5 They 12 IRS
+	IDENT 7 its 10 the IRS
+	IDENT 13 the Internal Revenue Service 14 Treasury Secretary Robert Rubin
+
+99: ABC19980630.1830.0568.sgm
+    id = 23
+    authors = none 
+	IDENT 4 ABC 16 We
+	IDENT 7 we 17 their
+	IDENT 13 you 55 Los Angeles
+	IDENT 27 Owens Lake 44 its
+	IDENT 41 the Owens Valley 58 California
+
+100: PRI19980203.2000.0290.sgm
+    id = 159
+    authors = none 
+	IDENT 0 New York 4 US scientists
+	IDENT 1 Rockefeller University 10 the democratic republic of Congo
+	IDENT 5 The scientists at Rockefeller University in New York 9 US
+
+101: PRI19980417.2000.1548.sgm
+    id = 179
+    authors = none 
+	IDENT 5 Other people 12 Marie Louise Maeur
+
+102: CNN19980107.0130.1475.sgm
+    id = 25
+    authors = none 
+	IDENT 5 we 34 i
+	IDENT 9 You 86 Mark Scheerer
+	IDENT 14 you 84 I
+	IDENT 71 his 76 me
+	IDENT 75 they 81 she
+
+103: ABC19980304.1830.1636.sgm
+    id = 11
+    authors = none 
+	IDENT 4 the crew 6 ABC News
+	IDENT 5 the first astronauts 44 the agency
+	IDENT 7 ABC 17 ABC's Ned Potter
+	IDENT 8 Air Force 53 Nobody
+	IDENT 9 a NASA astronaut 37 she
+	IDENT 12 commander 32 six women
+	IDENT 14 pilots 45 the space agency
+	IDENT 16 Ned Potter 26 us
+	IDENT 19 two hundred and thirty four Americans 40 Colonel Collins
+	IDENT 24 them 34 her
+	IDENT 28 we 55 commander of the Space Shuttle Columbia
+	IDENT 30 they 49 NASA
+	IDENT 39 the co-pilot 43 Air Force Lieutenant Colonel Eileen Collins
+
+104: CNN19980227.2130.0067.sgm
+    id = 58
+    authors = none 
+	IDENT 8 Atlanta 52 they
+	IDENT 10 Atalanta 30 north Carolina
+	IDENT 12 Alabama 33 CNN
+	IDENT 17 an abortion clinic 19 Birmingham
+	IDENT 25 Rudolph 54 authorities
+	IDENT 35 law enforcement sources 45 FBI director Louie Freeh
+
+105: ed980109.1130.0990.sgm
+    id = 131
+    authors = none 
+	IDENT 0 California 4 a mother
+	IDENT 1 a California judge 3 her
+
+106: PRI19980213.2000.0313.sgm
+    id = 163
+    authors = none 
+	IDENT 0 Forecasters 20 member station KQED
+	IDENT 2 the Golden Gate Bridge 16 Experts
+	IDENT 7 officials 18 Auncil Martinez
+	IDENT 18 Auncil Martinez 25 northern California
+
+107: CNN19980215.1600.0624.sgm
+    id = 49
+    authors = none 
+	IDENT 0 dieticians 5 Elizabeth Cohen
+	IDENT 3 us 4 we
+
+108: ed980111.1130.1373.sgm
+    id = 136
+    authors = none 
+	IDENT 9 Montreal 23 Florida
+	IDENT 10 Rangers 17 Colorado
+	IDENT 13 LA 19 Calgary
+	IDENT 14 Edmonton 15 Buffalo
+	IDENT 16 San Jose 20 Toronto
+	IDENT 18 Ottawa 22 Carolina
+	IDENT 21 Chicago 24 Vancouver
+
+109: VOA19980526.1700.0394.sgm
+    id = 211
+    authors = none 
+	IDENT 11 You 83 President Habibie
+	IDENT 33 President Suharto 75 President
+	IDENT 34 Mr. Bintang 60 Mr. Pakpahan
+	IDENT 47 I 82 Mr. Habibie
+	IDENT 64 the men 92 Thousands of protesters
+	IDENT 71 his 100 the government
+	IDENT 73 he 74 He
+	IDENT 83 President Habibie 106 reporters
+	IDENT 84 BJ Habibie 89 them
+	IDENT 86 we 88 our
+
+110: ea980112.1830.1564.sgm
+    id = 99
+    authors = none 
+	IDENT 2 your 26 Medicare
+	IDENT 7 they 31 ABC
+	IDENT 8 suppliers 42 a grocery store
+	IDENT 9 somebody 13 the government
+	IDENT 11 the President 33 the VA
+	IDENT 12 government 29 us
+	IDENT 14 Washington 44 a store
+	IDENT 15 the agency that oversees Medicare 41 Congress
+	IDENT 28 our 32 another government department, the Veterans Administration
+	IDENT 43 The critics 45 those same suppliers
+
+111: PRI19980216.2000.0170.sgm
+    id = 165
+    authors = none 
+	IDENT 6 us 13 Sinn Fein
+	IDENT 10 they 21 the IRA
+	IDENT 13 Sinn Fein 18 Britain
+
+112: ea980112.1830.1402.sgm
+    id = 98
+    authors = none 
+	IDENT 0 They 7 you
+	IDENT 1 the PGA 8 we
+	IDENT 2 Florida 4 He
+	IDENT 5 the disabled golfer we told you about last week 6 Casey Martin, the disabled golfer we told you about last week
+
+113: ed980109.1130.0582.sgm
+    id = 130
+    authors = none 
+	IDENT 56 Republican 99 He
+	IDENT 61 the country 118 Oliver North
+	IDENT 62 the nation 94 my
+	IDENT 77 you 98 his
+	IDENT 96 I 115 North
+	IDENT 97 he 110 Ollie
+
+114: ed980121.1130.0464.sgm
+    id = 139
+    authors = none 
+	IDENT 0 weapons inspection teams 5 President Saddam Hussein's government
+	IDENT 3 It 9 UN
+	IDENT 7 Iraq 15 he
+	IDENT 11 President Saddam Hussein 16 Richard Butler
+	IDENT 12 Iraq's deputy prime minister 13 the UN security council
+
+115: VOA19980507.1800.2958.sgm
+    id = 207
+    authors = none 
+	IDENT 1 his doctors 2 England
+	IDENT 3 Pakistan 13 Twenty-eight-year-old Warren
+	IDENT 4 Australia's cricket team 12 Australian leg spinner, Shane Warren
+	IDENT 5 Australia 14 Warren
+	IDENT 10 he 11 his
+
+116: CNN19980321.1000.0081.sgm
+    id = 64
+    authors = none 
+	IDENT 2 FEMA 11 them
+	IDENT 8 there 21 President Clinton
+	IDENT 18 CNN 19 five counties
+
+117: CNN19980430.0130.1501.sgm
+    id = 72
+    authors = none 
+	IDENT 29 their 40 Fifth Avenue
+	IDENT 33 my 52 You
+	IDENT 38 Jeanne Moos 45 us
+	IDENT 41 I 64 you
+	IDENT 47 We 62 your
+
+118: PRI19980602.2000.0083.sgm
+    id = 189
+    authors = none 
+	IDENT 2 Voters 18 the state
+	IDENT 3 Californians 15 NPR's Kerry Kahn
+	IDENT 9 the front runner 13 Election officials
+	IDENT 14 Kerry Kahn 20 each of the three leading candidates
+	IDENT 17 NPR 21 voters
+
+119: VOA19980512.1700.1001.sgm
+    id = 208
+    authors = none 
+	IDENT 1 the Lagos' offices 35 Lagos
+	IDENT 13 Human Rights Watch 38 Nigeria
+	IDENT 24 his 25 he
+
+120: ea980127.1830.1547.sgm
+    id = 115
+    authors = none 
+	IDENT 48 He 99 his
+	IDENT 64 you 108 the President
+	IDENT 65 I 111 us
+	IDENT 67 Sam 112 they
+	IDENT 74 the House 97 him
+	IDENT 82 the country 92 he
+	IDENT 85 the United States 88 Capitol Hill
+
+121: VOA19980622.1800.1295.sgm
+    id = 213
+    authors = none 
+	IDENT 3 the Bulls' management 5 the Bulls
+	IDENT 9 his 13 Jackson
+
+122: VOA19980309.1800.0385.sgm
+    id = 196
+    authors = none 
+	IDENT 6 Seoul 12 it
+	IDENT 7 New York 16 South Korea
+	IDENT 9 Hong Kong 13 the country
+	IDENT 14 South Korea's government 18 London
+
+123: PRI19980123.2000.0071.sgm
+    id = 155
+    authors = none 
+	IDENT 1 Clinton haters 2 American publics
+	IDENT 3 American 5 the president
+	IDENT 6 Clinton 8 White House
+	IDENT 7 One foreign correspondent 9 Washington
+
+124: CNN19980315.1130.0429.sgm
+    id = 63
+    authors = none 
+	IDENT 1 the Atlanta journal constitution 10 its
+	IDENT 4 the company 11 the plant
+	IDENT 5 Bryan 7 the agency
+	IDENT 6 Bryan Foods 9 the USDA
+	IDENT 12 A Bryan meat plant in Arkansas 14 Arkansas
+
+125: VOA19980331.1700.1533.sgm
+    id = 200
+    authors = none 
+	IDENT 6 you 44 UNOS
+	IDENT 14 their 46 they
+
+126: PRI19980306.2000.1675.sgm
+    id = 173
+    authors = none 
+	IDENT 4 London 28 Pamela McCall
+	IDENT 11 Serb 27 BBC correspondent Karyn Coleman
+	IDENT 12 Serbian 19 the Serbian province of Kosovo
+	IDENT 22 Kosovo 25 BBC
+
+127: VOA19980303.1800.3115.sgm
+    id = 194
+    authors = none 
+	IDENT 11 you 20 Wagner
+	IDENT 63 I 70 her
+	IDENT 69 she 94 VOA
+	IDENT 84 Nadia Solerno Sonnenberg 87 New York
+
+128: ABC19980114.1830.0611.sgm
+    id = 4
+    authors = none 
+	IDENT 0 center 28 Washington
+	IDENT 1 Boston center 23 ABC news
+	IDENT 3 Eastwind 26 ABC's Lisa Stark
+	IDENT 4 someone 34 I
+	IDENT 5 the controller 24 ABC
+	IDENT 9 we 22 controllers
+	IDENT 11 a pilot from a nearby flight 20 TWA pilot Steven Snyder
+	IDENT 18 TWA 30 him
+
+129: CNN19980526.1600.0054.sgm
+    id = 83
+    authors = none 
+	IDENT 1 Jamie McIntyre 17 its
+	IDENT 2 Sources 11 the United States
+	IDENT 4 US intelligence sources 24 One US official
+	IDENT 11 the United States 26 India
+	IDENT 12 US 23 Pakistan
+	IDENT 16 it 31 the Pentagon
+	IDENT 27 we 29 CNN
+
+130: CNN19980518.2130.0603.sgm
+    id = 80
+    authors = none 
+	IDENT 21 you 55 he
+	IDENT 39 Gary Tuchman 81 New York Yankee
+	IDENT 54 I 79 Yankee
+	IDENT 57 his 71 David Wells
+	IDENT 72 Wells 82 the New York Yankee souvenir stores in New York City
+
+131: CNN19980131.0130.0955.sgm
+    id = 40
+    authors = none 
+	IDENT 0 It 2 They
+	IDENT 3 more ground troops 4 UN
+	IDENT 5 Iraq 8 CNN
+	IDENT 6 the Persian Gulf 7 the Pentagon
+
+132: ABC19980207.1830.1626.sgm
+    id = 7
+    authors = none 
+	IDENT 1 people 35 Monica Lewinsky's father
+	IDENT 18 our house 36 her father
+	IDENT 21 his house 41 Betty
+	IDENT 26 Diana 66 Brentwood, California
+	IDENT 31 I 44 you
+	IDENT 40 the President 56 his
+	IDENT 47 her 51 Monica
+	IDENT 54 Monica Lewinsky 67 laid back Los Angeles
+
+133: PRI19980127.2000.1675.sgm
+    id = 157
+    authors = none 
+	IDENT 1 any number of American cities 2 homes
+	IDENT 3 sidewalks 4 American
+	IDENT 5 The city of light 9 the French
+	IDENT 6 Parisians 8 their
+
+134: ABC19980106.1830.0029.sgm
+    id = 0
+    authors = none 
+	IDENT 12 the lifts 48 an advanced skier on an intermediate run, the Orion trail
+	IDENT 14 it 20 the groomed trail
+	IDENT 21 the Orion trail 37 American
+	IDENT 23 the mountain 42 His
+	IDENT 32 the Heavenly Ski Resort 56 Sonny Bono
+	IDENT 36 Congress 52 a songwriter in the nineteen sixties
+	IDENT 40 him 55 Bono
+	IDENT 45 he 46 his
+
+135: PRI19980424.2000.2503.sgm
+    id = 182
+    authors = none 
+	IDENT 6 We 11 it
+	IDENT 8 Russian 20 the Volga river
+	IDENT 9 its 22 our
+	IDENT 12 It 15 This place
+	IDENT 13 Its 18 Tsaritsyn
+
+136: CNN19980523.1000.0414.sgm
+    id = 82
+    authors = none 
+	IDENT 0 Hawaii 3 the United States
+	IDENT 1 Pearl Harbor 5 the Pacific northwest
+	IDENT 2 Japan 4 the Japanese
+
+137: ABC19980130.1830.0398.sgm
+    id = 6
+    authors = none 
+	IDENT 0 ten to twenty thousand people 19 the other countries that make the list
+	IDENT 1 the worst offenders 15 its
+	IDENT 2 Afghanistan 3 Sudan
+	IDENT 5 Cuba 11 Algeria
+	IDENT 6 Iran 13 The government
+	IDENT 8 Some of the other countries that make the list 20 civilians
+	IDENT 14 China 16 the department
+
+138: ed980122.1130.1491.sgm
+    id = 147
+    authors = none 
+	IDENT 0 his own fans 6 Joel
+	IDENT 2 you 5 his
+	IDENT 4 he 8 Singer Billy Joel
+
+139: CNN19980619.0130.0603.sgm
+    id = 88
+    authors = none 
+	IDENT 0 he 4 authorities
+	IDENT 1 The pilot 6 Ontario
+	IDENT 2 Montreal 3 eleven people aboard a small commuter plane
+	IDENT 5 Authorities 7 Mirabel Airport
+
+140: ea980109.1830.0290.sgm
+    id = 93
+    authors = none 
+	IDENT 3 they 22 I
+	IDENT 24 his 34 the world
+	IDENT 28 Rutan 37 we
+
+141: PRI19980311.2000.1726.sgm
+    id = 174
+    authors = none 
+	IDENT 0 a nearby ad agency 13 his jailers
+	IDENT 2 jail 7 Edson
+	IDENT 4 the convict 9 Britain
+	IDENT 5 An inmate who makes fifty-four thousand dollars a year 8 Graham Edson, in jail in Britain on fraud charges
+	IDENT 10 a happy jail bird 12 They
+
+142: ea980119.1830.0555.sgm
+    id = 102
+    authors = none 
+	IDENT 0 the customer 7 Ford
+	IDENT 3 drivers 24 them
+	IDENT 4 people like Featherstone, worried about sitting too close to the steering wheel 25 Sixty-three hundred people
+	IDENT 14 some adults 18 Featherstone
+	IDENT 17 my 30 someone
+	IDENT 26 we 27 our
+
+143: PRI19980121.2000.2591.sgm
+    id = 153
+    authors = none 
+	IDENT 1 most people here 12 the city
+	IDENT 6 here 10 An officially sanctioned one
+	IDENT 9 it 18 central Asia
+	IDENT 20 Afghanistan 26 their
+
+144: PRI19980127.2000.0131.sgm
+    id = 156
+    authors = none 
+	IDENT 1 she 12 Lewinsky
+	IDENT 14 the president 15 President Clinton
+	IDENT 18 A Washington grand jury 20 the pentagon
+
+145: CNN19980218.1130.0716.sgm
+    id = 51
+    authors = none 
+	IDENT 1 women's 23 the Czech republic
+	IDENT 3 men's 21 US
+	IDENT 7 Massachusetts 10 Montana
+	IDENT 12 American Eric Burgost of Missoula Montana 15 your
+	IDENT 16 The team 19 American
+
+146: CNN19980330.1130.0738.sgm
+    id = 67
+    authors = none 
+	IDENT 0 the victims 15 The Environmental Protection Agency
+	IDENT 1 the basement 7 most of the victims
+	IDENT 5 your 13 the United States
+	IDENT 9 home owners 16 CNN
+
+147: ea980124.1830.0306.sgm
+    id = 111
+    authors = none 
+	IDENT 9 everyone else 71 I
+	IDENT 16 Commerce 82 Panetta
+	IDENT 25 Forrest 50 George
+	IDENT 51 us 98 He
+	IDENT 60 Iraq 79 Vice President Gore
+	IDENT 63 the White House 72 you
+	IDENT 100 his 109 the President
+	IDENT 102 he 108 president
+
+148: VOA19980414.1700.3225.sgm
+    id = 202
+    authors = none 
+	IDENT 0 Rome's Olympic stadium 20 Milan
+	IDENT 7 Spartak Moscow 8 Spartak Moscow of Russia
+	IDENT 10 Rome 19 inter Milan
+	IDENT 14 Lazio 17 Inter
+
+149: CNN19980112.1130.1407.sgm
+    id = 30
+    authors = none 
+	IDENT 0 his 5 Martin
+	IDENT 2 Nike 3 Casey Martin who wins his first Nike tour event at the Lakeland classic
+
+150: CNN19980403.1130.0168.sgm
+    id = 68
+    authors = none 
+	IDENT 14 White House 43 her
+	IDENT 25 Lewinsky 40 Paula Jones
+	IDENT 29 CNN 44 she
+	IDENT 59 Starr 62 his
+	IDENT 64 the president 66 President Clinton
+
+151: PRI19980218.2000.0080.sgm
+    id = 168
+    authors = none 
+	IDENT 0 I 1 here
+	IDENT 2 the heartland 4 all those people over there
+	IDENT 3 our 6 Arab leaders
+	IDENT 5 You 7 there
+	IDENT 9 this guy 10 Saddam Hussein
+
+152: ed980104.1130.0473.sgm
+    id = 126
+    authors = none 
+	IDENT 1 You 19 the Mississippi Valley
+	IDENT 2 Montana 7 Florida
+	IDENT 3 northern portions of Montana 15 the mid Rockies
+	IDENT 6 the eastern United States 12 the Texas and Oklahoma panhandles
+	IDENT 18 the southern plains 21 CNN
+
+153: ea980124.1830.0066.sgm
+    id = 109
+    authors = none 
+	IDENT 2 the President 11 President Clinton
+	IDENT 3 advisors 4 close friends
+	IDENT 5 the special prosecutor 7 their
+	IDENT 6 The former White House intern who could challenge President Clinton's sworn testimony 10 his
+	IDENT 8 the White House 9 White House
+
+154: PRI19980121.2000.2956.sgm
+    id = 154
+    authors = none 
+	IDENT 0 Afghanistan 5 Harat
+	IDENT 1 We 2 The city
+	IDENT 3 a city visited by Alexander the great and Gengis Kahn 4 a city in Afghanistan with a glorious past
+	IDENT 6 Public Radio International 7 PRI, Public Radio International
+	IDENT 8 Gengis Kahn 9 Alexander the great
+
+155: ea980120.1830.0456.sgm
+    id = 106
+    authors = none 
+	IDENT 1 Vietnam 9 the Tomb of the Unknown from the Vietnam War
+	IDENT 6 a beautiful place 23 you
+	IDENT 8 the tomb 15 the body
+	IDENT 11 The Pentagon 22 your
+	IDENT 20 Blassie 24 it
+
+156: VOA19980303.1600.2745.sgm
+    id = 193
+    authors = none 
+	IDENT 14 VOA 65 many of them
+	IDENT 33 younger members 55 the Ku Klux Klan
+	IDENT 45 them 51 Mark Potach
+	IDENT 46 they 62 their
+	IDENT 52 Mr. Potach 56 it
+
+157: ea980113.1830.0725.sgm
+    id = 100
+    authors = none 
+	IDENT 0 the Hong Kong exchange 8 he
+	IDENT 1 the International Monetary Fund 6 Indonesian
+	IDENT 2 Hong Kong 11 the global stock markets
+	IDENT 3 the Dow Jones 10 Stock markets
+	IDENT 7 his 9 Indonesian president Suharto
+
+158: CNN19980301.1300.0455.sgm
+    id = 60
+    authors = none 
+	IDENT 1 Brit Irvin 13 mourners
+	IDENT 3 the families 11 Thousands of mourners
+	IDENT 4 California 12 highway washed out by mud slides
+
+159: ea980129.1830.0809.sgm
+    id = 120
+    authors = none 
+	IDENT 107 our 128 You
+	IDENT 129 we 131 you
+	IDENT 137 We 149 the tobacco companies
+	IDENT 140 they 155 I
+	IDENT 154 your 158 the world
+
+160: CNN19980218.1600.0687.sgm
+    id = 53
+    authors = none 
+	IDENT 0 Massachusetts 13 The state treasurer
+	IDENT 2 he 14 The Massachusetts state treasurer
+	IDENT 4 the store owner who sold her the winning ticket 11 Kantges
+	IDENT 7 her 9 she
+	IDENT 10 a seventy-two year old widow 15 State lottery officials
+
+161: ed980111.1130.0611.sgm
+    id = 134
+    authors = none 
+	IDENT 0 NASA 4 the moon
+
+162: CNN19980113.1600.1069.sgm
+    id = 31
+    authors = none 
+	IDENT 0 They 5 NewsCorp
+	IDENT 8 Investors 13 NBC
+	IDENT 9 a major player e- in sports 10 parent company of ABC
+	IDENT 16 they 23 CBS
+	IDENT 17 their 19 them
+
+163: CNN19980108.0100.0421.sgm
+    id = 27
+    authors = none 
+	IDENT 3 students in other areas 14 teachers
+	IDENT 5 college 6 other areas
+	IDENT 7 their students 12 Only nineteen percent of the teachers surveyed
+	IDENT 9 education week newspaper 10 forty percent
+	IDENT 13 their 16 urban schools
+
+164: VOA19980310.1600.3419.sgm
+    id = 197
+    authors = none 
+	IDENT 0 PAC ten Conference 8 PAC ten Conference Player of the Year
+	IDENT 2 Raef LaFrance 24 Jamison
+	IDENT 7 Miles Simon 13 University of North Carolina
+	IDENT 12 University of Kansas teammates Raef LaFrance 22 two players each from Kansas and Arizona
+
+165: PRI19980602.2000.0874.sgm
+    id = 190
+    authors = none 
+	IDENT 19 children 74 I
+	IDENT 24 your 106 Asia
+	IDENT 58 Pakistan 80 its
+	IDENT 60 he 92 they
+	IDENT 66 my 96 Clair Dual
+	IDENT 85 the United States 100 The ILO
+
+166: VOA19980305.1800.2603.sgm
+    id = 195
+    authors = none 
+	IDENT 39 women 63 Ms. Atimadi
+	IDENT 55 She 72 Geneva
+	IDENT 57 she 70 Lisa Schlein
+	IDENT 66 North America 68 Europe
+	IDENT 87 Afghanistan 88 Afghan
+
+167: CNN19980430.1600.0356.sgm
+    id = 73
+    authors = none 
+	IDENT 0 Six thousand 2 Twenty-six hundred
+	IDENT 6 He 13 You
+	IDENT 8 the country 11 The transportation department
+	IDENT 9 the federal government 15 drivers
+	IDENT 12 you 14 some communities
+
+168: PRI19980210.2000.1781.sgm
+    id = 162
+    authors = none 
+	IDENT 1 a crew member 4 Zurich airport
+
+169: VOA19980514.1800.1844.sgm
+    id = 209
+    authors = none 
+	IDENT 28 He 67 our
+	IDENT 34 Lisa Schlein 95 New Delhi
+	IDENT 43 the United States 66 Pakistani
+	IDENT 50 We 70 it
+	IDENT 65 Pakistan 92 India
+	IDENT 69 its 90 Indian
+
+170: CNN19980131.1600.1006.sgm
+    id = 41
+    authors = none 
+	IDENT 2 babies dying from SIDS 21 CNN
+	IDENT 15 pregnant women 26 their
+	IDENT 16 They 19 Medical researchers
+	IDENT 18 Researchers 23 Rhonda Rowland
+
+171: CNN19980514.0130.1329.sgm
+    id = 78
+    authors = none 
+	IDENT 6 the park 15 They
+	IDENT 7 Baltimore 10 New York
+	IDENT 11 Texas 16 Atlanta
+	IDENT 12 Saint Louis 20 Cleveland
+	IDENT 13 Brady Anderson 14 Major League
+
+172: CNN19980228.0130.1315.sgm
+    id = 59
+    authors = none 
+	IDENT 23 Phoenix 42 Portland
+	IDENT 27 Cleveland 59 Edmonton
+	IDENT 32 Minnesota 37 Atlanta
+	IDENT 45 Detroit 48 Boston
+	IDENT 58 CNN 60 Anaheim
+
+173: VOA19980501.1800.0355.sgm
+    id = 206
+    authors = none 
+	IDENT 1 Mr. Gore 24 London
+	IDENT 4 US 20 Palestinian
+	IDENT 6 he 9 Israeli Prime Minister Benjamin Netanyahu
+	IDENT 11 its 23 Jerusalem
+	IDENT 15 Israel 17 Israeli
+
+174: ABC19980302.1830.0397.sgm
+    id = 10
+    authors = none 
+
+175: ABC19980529.1830.0067.sgm
+    id = 19
+    authors = none 
+	IDENT 17 a desert island 57 the world
+	IDENT 27 president 122 ABC
+	IDENT 33 the White House 101 You
+	IDENT 41 us 127 Phoenix
+	IDENT 76 they 96 your
+	IDENT 103 you 226 He
+	IDENT 206 I 230 him
+	IDENT 225 his 228 he
+	IDENT 264 Barry Goldwater 265 Goldwater
+
+176: VOA19980410.1700.1789.sgm
+    id = 201
+    authors = none 
+	IDENT 2 an elective assembly in Northern Ireland 4 a policeman
+	IDENT 6 You 38 Ireland
+	IDENT 7 your 22 The British and Irish governments
+	IDENT 10 the Atlantic 42 the strife torn British province
+	IDENT 12 They 47 northern Ireland
+	IDENT 18 The president 39 there
+	IDENT 28 Belfast 50 Northern Ireland
+
+177: CNN19980506.1130.1492.sgm
+    id = 75
+    authors = none 
+	IDENT 6 her 47 you
+	IDENT 8 Elsa Klensch 16 I
+	IDENT 10 New York 19 He
+	IDENT 20 his 40 he
+	IDENT 22 we 29 they
+
+178: CNN19980217.1600.0129.sgm
+    id = 50
+    authors = none 
+	IDENT 3 Baghdad 19 Iraqi
+	IDENT 4 the US 9 a nation
+	IDENT 6 the president 21 French leaders
+	IDENT 13 He 16 UN
+
+179: ed980104.1130.0900.sgm
+    id = 128
+    authors = none 
+	IDENT 0 Hundreds of people 4 a fertilizer warehouse in Kentucky
+	IDENT 2 people 3 Kentucky
+
+180: PRI19980317.2000.0161.sgm
+    id = 175
+    authors = none 
+	IDENT 0 They 24 Britain
+	IDENT 10 The BBC 22 home
+	IDENT 11 the BBC 39 permanent Israeli territory
+	IDENT 12 Israeli officials 43 an Israeli settlement in Jerusalem
+	IDENT 15 Jerusalem 37 British foreign secretary Robin Cook
+	IDENT 21 Israeli 26 British
+	IDENT 29 foreign 32 him
+	IDENT 31 he 41 the site
+	IDENT 35 Mr. Cook 36 Robin Cook
+
+181: CNN19980204.1600.1375.sgm
+    id = 45
+    authors = none 
+	IDENT 0 his 3 Detroit Redwings' star Sergei Federov
+	IDENT 1 a restricted free agent 4 they
+	IDENT 2 Federov 5 the Stanley Cup champions
+	IDENT 6 the Wings 7 Detroit Redwings
+
+182: CNN19980222.1130.0084.sgm
+    id = 54
+    authors = none 
+	IDENT 0 UN inspectors 8 UN secretary general Kofi Annan
+	IDENT 1 The UN security council 21 Sachi Koto
+	IDENT 4 Baghdad 6 He
+	IDENT 7 Annan 10 it
+	IDENT 13 Iraqi 18 UN
+	IDENT 14 Iraq 20 I
+
+183: CNN19980104.1600.0033.sgm
+    id = 24
+    authors = none 
+	IDENT 31 them 46 CNN
+	IDENT 44 Judy 83 here
+	IDENT 49 you 54 we
+	IDENT 60 they 67 residents
+
+184: ABC19980108.1830.0711.sgm
+    id = 2
+    authors = none 
+	IDENT 32 his 43 here
+	IDENT 35 he 39 I
+	IDENT 37 Wong Kwan 53 Indonesian
+	IDENT 51 Hong Kong 57 Asia
+
+185: VOA19980629.1800.0766.sgm
+    id = 215
+    authors = none 
+	IDENT 22 their 51 the United States
+	IDENT 41 its 60 they
+	IDENT 56 He 78 we
+	IDENT 75 the world 79 We
+
+186: CNN19980530.1300.0449.sgm
+    id = 84
+    authors = none 
+	IDENT 2 people 22 They
+	IDENT 3 a juvenile detention facility 25 Springfield, Oregon
+	IDENT 5 she 23 Hundreds of people in Springfield, Oregon
+	IDENT 6 His sister, twenty-one year old Kristin Kinkel 7 twenty-one year old Kristin Kinkel
+
+187: VOA19980414.1800.2745.sgm
+    id = 204
+    authors = none 
+	IDENT 1 the best teams in baseball 7 a new stadium
+	IDENT 9 new baseball fields 24 we
+	IDENT 16 New York Mayor Rudolph Giuliani 22 Nearby Shea Stadium
+	IDENT 19 the Mets 35 The Yankees
+	IDENT 31 Yankees 46 New York
+	IDENT 36 the Yankees 41 the stadium
+
+188: ea980124.1830.0102.sgm
+    id = 110
+    authors = none 
+	IDENT 28 the world 95 his
+	IDENT 31 my 101 the President
+	IDENT 54 Starr 108 President Clinton
+	IDENT 58 you 67 I
+	IDENT 74 she 89 ABC
+	IDENT 75 her 111 the White House
+	IDENT 84 Lewinsky 98 he
+	IDENT 87 Monica Lewinsky 107 Mr. Clinton
+
+189: PRI19980224.2000.1315.sgm
+    id = 171
+    authors = none 
+	IDENT 11 people 143 Russia
+	IDENT 43 Moscow 106 his
+	IDENT 76 you 145 the world
+	IDENT 93 He 123 China
+	IDENT 104 he 134 I
+	IDENT 120 Marx 132 we
+	IDENT 127 us 144 Russian
+
+190: PRI19980129.2000.1770.sgm
+    id = 158
+    authors = none 
+	IDENT 0 Iraq 2 France
+	IDENT 1 the United States 3 Paris
+	IDENT 4 She 5 her
+
+191: PRI19980205.2000.1890.sgm
+    id = 160
+    authors = none 
+	IDENT 12 London 20 Blair
+	IDENT 14 British 35 President Clinton
+	IDENT 28 Iraq 39 Washington
+	IDENT 29 he 43 The World
+
+192: ea980123.1830.0089.sgm
+    id = 108
+    authors = none 
+	IDENT 13 the Ritz Carlton hotel in Pentagon City 18 Vernon Jordan's law firm
+	IDENT 21 her Pentagon office 95 the White House
+	IDENT 26 Our 71 Miss Lewinsky
+	IDENT 27 we 30 ABC
+	IDENT 50 he 89 the President
+	IDENT 53 Vernon Jordan 69 she
+	IDENT 68 her 82 Monica Lewinsky
+	IDENT 80 Lewinsky 84 himself
+

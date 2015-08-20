@@ -107,8 +107,8 @@ public class IldaGibbs implements ISimpleGibbs, ISimpleQueryGibbs, ISimplePpx {
 		boolean usefile = false;
 		// topic display panel
 		boolean display = true;
-
-		Random rand = new CokusRandom(56567651);
+        
+		Random rand = new CokusRandom(56567651);  //56567651
 		NumCorpus corpus;
 		if (!usefile) {
 			corpus = new NumCorpus(filebase + ".corpus");
@@ -413,7 +413,7 @@ public class IldaGibbs implements ISimpleGibbs, ISimpleQueryGibbs, ISimplePpx {
 	 * run Gibbs sampler
 	 * 
 	 * @param niter
-	 *            number of Gibbs iterations
+	 *     number of Gibbs iterations
 	 */
 	public void run(int niter) {
 
@@ -439,12 +439,14 @@ public class IldaGibbs implements ISimpleGibbs, ISimpleQueryGibbs, ISimplePpx {
 					for (int kk = 0; kk < K; kk++) {
 						k = kactive.get(kk);
 						//(nmk[m].get(k) + alpha * tau.get(k))
-						pp[kk] = nmk[m].get(k) / (nk.get(k) + alpha * tau.get(k)); //z = z_old  
+						//--------------------------- z = z_old ----------------//
+						pp[kk] = nmk[m].get(k) / (nk.get(k) + alpha * tau.get(k)); 
 						psum += pp[kk];
 					}
 					// likelihood of new component
 					if (!fixedK) {
-						pp[K] = alpha * tau.get(K) / V;                            //z = z_new
+						//--------------------------- z = z_new ----------------//
+						pp[K] = alpha * tau.get(K) / V;                           
 						psum += pp[K];
 					}
 					double u = rand.nextDouble();

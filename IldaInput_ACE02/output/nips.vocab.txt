@@ -1,0 +1,4278 @@
+I = 0 = 389 84
+you = 1 = 334 79
+he = 2 = 265 76
+they = 3 = 247 87
+we = 4 = 213 83
+his = 5 = 194 74
+their = 6 = 134 82
+We = 7 = 104 62
+He = 8 = 88 47
+her = 9 = 84 32
+the President = 10 = 77 21
+its = 11 = 74 47
+she = 12 = 67 26
+They = 13 = 66 43
+your = 14 = 65 36
+him = 15 = 64 34
+it = 16 = 62 37
+us = 17 = 59 36
+our = 18 = 59 35
+them = 19 = 57 36
+US = 20 = 57 36
+Washington = 21 = 52 28
+You = 22 = 50 37
+the world = 23 = 50 27
+CNN = 24 = 50 40
+American = 25 = 49 30
+people = 26 = 48 34
+Iraq = 27 = 48 21
+New York = 28 = 46 34
+President Clinton = 29 = 43 29
+the United States = 30 = 43 23
+ABC = 31 = 42 33
+China = 32 = 41 11
+my = 33 = 41 22
+the country = 34 = 39 28
+Lewinsky = 35 = 37 8
+me = 36 = 34 22
+here = 37 = 31 21
+White House = 38 = 31 12
+ABC News = 39 = 30 24
+UN = 40 = 30 19
+the government = 41 = 30 14
+the White House = 42 = 30 11
+Spain = 43 = 26 4
+Cuba = 44 = 25 8
+British = 45 = 24 13
+Mr. Clinton = 46 = 23 13
+She = 47 = 22 18
+California = 48 = 21 12
+Monica Lewinsky = 49 = 20 9
+Northern Ireland = 50 = 19 4
+The World = 51 = 18 9
+Spanish = 52 = 18 1
+India = 53 = 18 3
+Baghdad = 54 = 18 7
+Medicare = 55 = 18 2
+Chinese = 56 = 18 6
+there = 57 = 16 13
+Starr = 58 = 16 5
+America = 59 = 16 15
+London = 60 = 16 12
+Japan = 61 = 16 6
+Pakistan = 62 = 15 5
+It = 63 = 15 14
+the president = 64 = 15 10
+Israeli = 65 = 15 5
+VOA = 66 = 15 10
+the US = 67 = 14 10
+Asia = 68 = 13 6
+Goldwater = 69 = 13 1
+Taiwan = 70 = 12 2
+Virginia = 71 = 12 6
+others = 72 = 12 10
+children = 73 = 12 7
+Russia = 74 = 12 8
+Atlanta = 75 = 12 5
+women = 76 = 12 6
+His = 77 = 11 10
+Americans = 78 = 11 9
+Irish = 79 = 11 5
+Beijing = 80 = 11 3
+Clinton = 81 = 11 11
+Shanghai = 82 = 11 2
+Belfast = 83 = 10 5
+Afghanistan = 84 = 10 5
+Boston = 85 = 10 7
+the Pentagon = 86 = 10 5
+Congress = 87 = 10 6
+French = 88 = 10 7
+Florida = 89 = 10 8
+Hong Kong = 90 = 10 4
+Europe = 91 = 10 8
+the Pope = 92 = 10 4
+Marx = 93 = 10 1
+Russian = 94 = 10 6
+Tokyo = 95 = 10 3
+Kofi Annan = 96 = 10 2
+himself = 97 = 10 8
+Princeton = 98 = 9 1
+Saddam Hussein = 99 = 9 7
+BBC = 100 = 9 4
+Peter = 101 = 9 6
+Iraqi = 102 = 9 6
+some = 103 = 8 8
+the nation = 104 = 8 7
+France = 105 = 8 5
+The President = 106 = 8 8
+Cuban = 107 = 8 4
+Britain = 108 = 8 7
+the UN = 109 = 8 5
+themselves = 110 = 8 6
+Los Angeles = 111 = 8 4
+northern Ireland = 112 = 8 3
+Paris = 113 = 8 7
+Protestant = 114 = 8 3
+Japanese = 115 = 8 3
+Rwanda = 116 = 7 2
+anybody = 117 = 7 5
+someone = 118 = 7 6
+Geneva = 119 = 7 4
+Madrid = 120 = 7 1
+itself = 121 = 7 7
+Ju = 122 = 7 1
+reporters = 123 = 7 4
+The government = 124 = 7 6
+president = 125 = 7 4
+North = 126 = 7 1
+TWA = 127 = 7 1
+Republican = 128 = 7 4
+the FAA = 129 = 7 2
+Havana = 130 = 7 3
+home = 131 = 7 7
+Hollywood = 132 = 7 3
+Secret Service = 133 = 7 1
+AT and T = 134 = 7 2
+Israel = 135 = 7 3
+the Secret Service = 136 = 7 1
+NASA = 137 = 7 4
+Phoenix = 138 = 6 3
+no one = 139 = 6 6
+Lisa Schlein = 140 = 6 3
+Jordan = 141 = 6 4
+Detroit = 142 = 6 2
+Her = 143 = 6 4
+Capitol Hill = 144 = 6 4
+Yankee = 145 = 6 1
+Algeria = 146 = 6 3
+Zapatista = 147 = 6 1
+Cokie = 148 = 6 4
+Alabama = 149 = 6 4
+Arizona = 150 = 6 2
+Iran = 151 = 6 5
+Texas = 152 = 6 4
+Seattle = 153 = 6 3
+Chiapas = 154 = 6 1
+the federal government = 155 = 6 6
+Sam = 156 = 6 5
+Saddam = 157 = 6 3
+Castro = 158 = 6 2
+Microsoft = 159 = 6 4
+England = 160 = 6 5
+drivers = 161 = 6 3
+Palestinian = 162 = 6 5
+the group = 163 = 6 3
+i = 164 = 5 3
+UNOS = 165 = 5 1
+Ju Rong Zhi = 166 = 5 1
+students = 167 = 5 3
+the people = 168 = 5 4
+Cleveland = 169 = 5 3
+No one = 170 = 5 5
+Massachusetts = 171 = 5 3
+Woodward = 172 = 5 1
+the agency = 173 = 5 4
+Lisa Mullins = 174 = 5 5
+Mr. Pakpahan = 175 = 5 1
+Nadia Solerno Sonnenberg = 176 = 5 1
+Forrest = 177 = 5 2
+Paula Jones = 178 = 5 3
+the moon = 179 = 5 2
+adults = 180 = 5 2
+European = 181 = 5 5
+Bill Clinton = 182 = 5 4
+many people = 183 = 5 4
+residents = 184 = 5 4
+the school = 185 = 5 2
+the United  States = 186 = 5 5
+the tobacco companies = 187 = 5 1
+the island = 188 = 5 2
+Sharp = 189 = 5 1
+Sources = 190 = 5 5
+UN secretary general Kofi Annan = 191 = 5 5
+the public = 192 = 5 5
+Barry Goldwater = 193 = 5 1
+Turkey = 194 = 5 5
+NPR = 195 = 5 3
+Fidel Castro = 196 = 5 3
+the Senate = 197 = 4 3
+The group = 198 = 4 3
+Minnesota = 199 = 4 3
+Nobody = 200 = 4 4
+officials = 201 = 4 3
+the  country = 202 = 4 4
+friends = 203 = 4 3
+the media = 204 = 4 3
+Air France = 205 = 4 1
+the street = 206 = 4 4
+Earth = 207 = 4 1
+Oliver North = 208 = 4 1
+the city = 209 = 4 4
+sources = 210 = 4 3
+police = 211 = 4 3
+the women = 212 = 4 3
+'s = 213 = 4 3
+The United States = 214 = 4 4
+the body = 215 = 4 2
+Kosovo = 216 = 4 2
+ourselves = 217 = 4 4
+The White House = 218 = 4 2
+Our = 219 = 4 4
+Linda Tripp = 220 = 4 3
+Ms. Atimadi = 221 = 4 1
+David Wells = 222 = 4 1
+Gennifer Flowers = 223 = 4 3
+Nigeria = 224 = 4 2
+everyone = 225 = 4 4
+My = 226 = 4 3
+Afghan = 227 = 4 1
+Chicago = 228 = 4 2
+Rutan = 229 = 4 1
+the Yankees = 230 = 4 1
+Vernon Jordan = 231 = 4 3
+Catholics = 232 = 4 2
+Vice President Gore = 233 = 4 3
+Gore = 234 = 4 2
+the Irish Republic = 235 = 4 4
+the building = 236 = 4 3
+Mr. Annan = 237 = 4 2
+Indian = 238 = 4 1
+ABC's Jackie Judd = 239 = 4 4
+Lagos = 240 = 4 2
+Jeanne Moos = 241 = 4 2
+Secret Service agents = 242 = 4 1
+the United Nations = 243 = 4 3
+Cynthia Tornquist = 244 = 4 2
+Portland = 245 = 4 2
+Vancouver = 246 = 4 2
+Rudolph = 247 = 4 1
+People = 248 = 4 4
+Some = 249 = 4 4
+Catholic = 250 = 4 3
+many = 251 = 4 4
+state = 252 = 4 4
+Italy = 253 = 4 2
+Germany = 254 = 4 3
+Ginsburg = 255 = 4 3
+Brazilian = 256 = 4 3
+other countries = 257 = 4 3
+Judy = 258 = 4 2
+Arkansas = 259 = 4 3
+Moscow = 260 = 4 2
+Edmonton = 261 = 4 2
+Wagner = 262 = 4 1
+one = 263 = 4 4
+Jerusalem = 264 = 4 2
+Keating = 265 = 4 1
+the  United States = 266 = 4 4
+Loudon county = 267 = 4 1
+Indonesian = 268 = 4 2
+the Saudis = 269 = 4 2
+his country = 270 = 4 4
+Illinois = 271 = 4 3
+prison = 272 = 4 4
+Anaheim = 273 = 4 2
+Butler = 274 = 4 1
+a president = 275 = 4 3
+nobody = 276 = 4 4
+Toronto = 277 = 4 2
+their homes = 278 = 4 3
+FBI = 279 = 4 4
+the region = 280 = 4 4
+Kenneth Starr = 281 = 4 3
+the American people = 282 = 4 4
+kids = 283 = 4 3
+the company = 284 = 4 4
+the Americans = 285 = 4 1
+the Commission = 286 = 4 1
+the team = 287 = 3 3
+Middle East = 288 = 3 3
+authorities = 289 = 3 2
+experts = 290 = 3 3
+George Mitchell = 291 = 3 2
+Harvard = 292 = 3 2
+anyone = 293 = 3 3
+Economists = 294 = 3 1
+the IRA = 295 = 3 2
+both sides = 296 = 3 3
+many of them = 297 = 3 2
+Republicans = 298 = 3 2
+Mexico = 299 = 3 2
+the independent counsel = 300 = 3 3
+Goodies = 301 = 3 1
+the communities = 302 = 3 1
+the grand jury = 303 = 3 2
+the rest of the world = 304 = 3 2
+John Paul = 305 = 3 2
+your kids = 306 = 3 2
+everybody = 307 = 3 3
+the judge = 308 = 3 3
+Loudon county, Virginia = 309 = 3 1
+The New York Times = 310 = 3 3
+the baby bells = 311 = 3 1
+The ILO = 312 = 3 1
+Owens Lake = 313 = 3 1
+the church = 314 = 3 2
+the area = 315 = 3 2
+Researchers = 316 = 3 2
+Police = 317 = 3 2
+his critics = 318 = 3 2
+NASCAR = 319 = 3 1
+San Francisco = 320 = 3 2
+Li = 321 = 3 2
+doctors = 322 = 3 2
+Wells = 323 = 3 1
+Pudong = 324 = 3 1
+LA = 325 = 3 2
+Puerto Rico = 326 = 3 1
+these women = 327 = 3 1
+the French = 328 = 3 3
+her father = 329 = 3 3
+Annan = 330 = 3 3
+the Mets = 331 = 3 1
+government = 332 = 3 3
+a united Ireland = 333 = 3 1
+the vice president = 334 = 3 2
+Sudan = 335 = 3 3
+patients = 336 = 3 2
+everywhere = 337 = 3 3
+Amnesty International = 338 = 3 2
+his body = 339 = 3 2
+defense = 340 = 3 3
+State = 341 = 3 2
+Guam = 342 = 3 2
+the Chinese = 343 = 3 2
+supervisors = 344 = 3 2
+a liar = 345 = 3 2
+George = 346 = 3 1
+Jackie Judd = 347 = 3 3
+Ireland = 348 = 3 1
+Authorities = 349 = 3 3
+his family = 350 = 3 3
+New York City = 351 = 3 3
+The US government = 352 = 3 3
+the Middle East = 353 = 3 3
+the person = 354 = 3 2
+the industry = 355 = 3 2
+Netanyahu = 356 = 3 1
+James Cameron = 357 = 3 1
+Mr. Gore = 358 = 3 2
+center city = 359 = 3 1
+the FBI = 360 = 3 3
+Rome = 361 = 3 2
+Sam Donaldson = 362 = 3 3
+who = 363 = 3 3
+North America = 364 = 3 2
+Tiananmen Square = 365 = 3 3
+Sonny Bono = 366 = 3 2
+William Ginsburg = 367 = 3 3
+the West = 368 = 3 2
+the House = 369 = 3 1
+nightclubs = 370 = 3 2
+Birmingham = 371 = 3 2
+New Delhi = 372 = 3 1
+Libya = 373 = 3 2
+Protestants = 374 = 3 1
+foreign = 375 = 3 1
+Mr. Parrish = 376 = 3 1
+Switzerland = 377 = 3 3
+teenagers = 378 = 3 3
+Mrs. Clinton = 379 = 3 2
+Singapore = 380 = 3 3
+herself = 381 = 3 2
+Eddie Mair = 382 = 3 3
+The BBC = 383 = 3 2
+the Owens Valley = 384 = 3 1
+politicians = 385 = 3 2
+Maine = 386 = 3 2
+the  White House = 387 = 3 2
+Cubans = 388 = 3 3
+the Palestinians = 389 = 3 1
+Jakarta = 390 = 3 1
+Rhio = 391 = 3 1
+Australia = 392 = 3 3
+Mexican = 393 = 3 1
+FAA = 394 = 3 1
+Ben Bradlee = 395 = 3 1
+Miami = 396 = 3 3
+Saudi = 397 = 3 1
+man = 398 = 3 2
+the Soviet Union = 399 = 3 2
+North Dakota = 400 = 3 2
+unnamed sources = 401 = 3 1
+Monica = 402 = 3 1
+the petroleum industry = 403 = 3 1
+Georgia = 404 = 3 3
+Louise Woodward = 405 = 3 1
+Rwandan = 406 = 3 2
+skiers = 407 = 3 3
+Alejandra = 408 = 3 1
+Currie = 409 = 3 1
+the party = 410 = 3 3
+The UN = 411 = 3 3
+pregnant women = 412 = 3 1
+John Pitman = 413 = 2 1
+President Suharto = 414 = 2 1
+the  Pope = 415 = 2 1
+somebody = 416 = 2 2
+Buffalo = 417 = 2 1
+the consumer = 418 = 2 1
+The Pope = 419 = 2 2
+s = 420 = 2 2
+Vernon Jordan's law firm = 421 = 2 1
+observers = 422 = 2 1
+the Cuban government = 423 = 2 1
+the Midwest = 424 = 2 1
+the US government = 425 = 2 2
+Adam = 426 = 2 1
+Ollie North = 427 = 2 1
+New York Yankee = 428 = 2 1
+Democratic = 429 = 2 2
+Arab leaders = 430 = 2 2
+his party = 431 = 2 1
+Abacha = 432 = 2 1
+Froistad = 433 = 2 1
+government security forces = 434 = 2 2
+Women = 435 = 2 1
+the Chinese military = 436 = 2 1
+Mitchell = 437 = 2 1
+Elsa Klensch = 438 = 2 1
+Human Rights Watch = 439 = 2 1
+Army of god = 440 = 2 1
+a grocery store = 441 = 2 1
+a child = 442 = 2 2
+the pilots = 443 = 2 2
+Caroline Wyatt = 444 = 2 1
+ABC's Sam Donaldson = 445 = 2 2
+Bob Franken = 446 = 2 1
+his  high school = 447 = 2 1
+the other countries that make the list = 448 = 2 2
+the Russian foreign minister = 449 = 2 1
+Iraqi president Saddam Hussein = 450 = 2 2
+Pope John Paul the second = 451 = 2 1
+Taipei = 452 = 2 1
+Kabul = 453 = 2 1
+Valvoline = 454 = 2 1
+the University of Illinois = 455 = 2 1
+Cameron = 456 = 2 1
+the mountain = 457 = 2 1
+the woman = 458 = 2 2
+Israeli prime minister Benjamin Netanyahu = 459 = 2 2
+San Jose = 460 = 2 1
+Ann Kellan = 461 = 2 1
+Carl Rochelle = 462 = 2 1
+each other = 463 = 2 2
+Ottawa = 464 = 2 1
+Benjamin Netanyahu = 465 = 2 1
+Santa Caterina, Italy = 466 = 2 1
+independent counsel Ken Starr = 467 = 2 2
+Senate = 468 = 2 2
+the World Bank = 469 = 2 2
+companies = 470 = 2 2
+Nancy Marshalll = 471 = 2 1
+Palestinian authority = 472 = 2 2
+ABC's Cokie Roberts = 473 = 2 2
+Laurin Sydney = 474 = 2 1
+Judy Fortin = 475 = 2 1
+Iraqi officials = 476 = 2 2
+the tomb = 477 = 2 1
+the airlines = 478 = 2 2
+Martin = 479 = 2 2
+Israelis = 480 = 2 2
+Asian = 481 = 2 2
+Allan Dodds Frank = 482 = 2 1
+The BBC's Juliette Hindle = 483 = 2 1
+the international association of jazz educators = 484 = 2 1
+Karl Marx = 485 = 2 1
+Watergate = 486 = 2 2
+Markey = 487 = 2 1
+the Japanese = 488 = 2 2
+Nixon = 489 = 2 1
+the capital = 490 = 2 1
+the Illini = 491 = 2 1
+White  House = 492 = 2 1
+the Ku Klux Klan = 493 = 2 1
+the inspection teams = 494 = 2 1
+the men = 495 = 2 2
+President = 496 = 2 2
+George Stephanopoulos = 497 = 2 1
+the man = 498 = 2 2
+this guy = 499 = 2 2
+GOP = 500 = 2 1
+Everybody = 501 = 2 2
+One = 502 = 2 2
+Orlando = 503 = 2 1
+inter Milan = 504 = 2 1
+Calgary = 505 = 2 1
+Islam = 506 = 2 1
+Peter Jennings = 507 = 2 2
+Alan Dow = 508 = 2 1
+Ms. Sharp = 509 = 2 1
+Nigerian = 510 = 2 2
+Rogers = 511 = 2 1
+these = 512 = 2 2
+EU = 513 = 2 1
+Elbrick = 514 = 2 1
+the  US = 515 = 2 2
+our people = 516 = 2 2
+this country = 517 = 2 2
+Allen = 518 = 2 1
+Mr. Beaver = 519 = 2 1
+Pakistani = 520 = 2 1
+today's freshmen = 521 = 2 1
+the west bank = 522 = 2 1
+some people = 523 = 2 2
+Al Gore = 524 = 2 2
+Mr. Habibie = 525 = 2 1
+the Kremlin = 526 = 2 1
+the stores = 527 = 2 1
+Jackson = 528 = 2 1
+House = 529 = 2 2
+Colorado = 530 = 2 1
+Jamie McIntyre = 531 = 2 1
+the parliamentary offices in Makhachkala = 532 = 2 1
+countries = 533 = 2 2
+Cokie Roberts = 534 = 2 2
+government regulators = 535 = 2 2
+The city = 536 = 2 2
+Brentwood, California = 537 = 2 1
+nonskiers = 538 = 2 1
+a mother = 539 = 2 2
+Bono = 540 = 2 1
+the comfort women = 541 = 2 1
+the road = 542 = 2 2
+CNN affiliate WKRC = 543 = 2 1
+laid back Los Angeles = 544 = 2 1
+the military = 545 = 2 2
+Montreal = 546 = 2 2
+North Carolina = 547 = 2 2
+Arizona State University = 548 = 2 1
+the new China = 549 = 2 1
+South Korean = 550 = 2 2
+the British government = 551 = 2 2
+the PGA = 552 = 2 2
+ABC's Lisa Stark = 553 = 2 2
+Gary Tuchman = 554 = 2 1
+Kentucky = 555 = 2 2
+an Alabama women's clinic = 556 = 2 2
+Dan Ronan = 557 = 2 1
+a man ahead of his time = 558 = 2 2
+presidents = 559 = 2 2
+Vietnam = 560 = 2 2
+The school = 561 = 2 2
+Alexei Pushkoff = 562 = 2 1
+the victims = 563 = 2 2
+the Gulf = 564 = 2 2
+Ned Potter = 565 = 2 2
+Serbian = 566 = 2 2
+state court = 567 = 2 1
+the Israeli  leader = 568 = 2 1
+the northeast = 569 = 2 1
+Studio executives = 570 = 2 1
+Sinatra = 571 = 2 1
+a student = 572 = 2 2
+other people = 573 = 2 1
+Tchaikovsky = 574 = 2 1
+Brian Jenkins = 575 = 2 1
+Montana = 576 = 2 2
+the crew = 577 = 2 2
+Saudi Arabia = 578 = 2 2
+most = 579 = 2 2
+each sponsor = 580 = 2 1
+a better society = 581 = 2 1
+Mark Scheerer = 582 = 2 1
+Critics = 583 = 2 2
+north Carolina = 584 = 2 1
+a jury = 585 = 2 2
+a teacher = 586 = 2 2
+parents = 587 = 2 2
+Jane Clayson = 588 = 2 2
+people all over the country = 589 = 2 1
+Kazakhstan = 590 = 2 1
+Some people = 591 = 2 1
+Tennessee = 592 = 2 2
+Christine Negroni = 593 = 2 1
+Kalin Thomas-Samuel = 594 = 2 1
+men's = 595 = 2 1
+Amtrak = 596 = 2 1
+Army = 597 = 2 2
+the Zapatistas = 598 = 2 1
+A lot of people = 599 = 2 2
+New Jersey = 600 = 2 2
+the IMF = 601 = 2 1
+a store = 602 = 2 1
+the United Kingdom = 603 = 2 1
+Indonesia = 604 = 2 1
+Ed Garsten = 605 = 2 1
+New York University = 606 = 2 1
+state owned enterprise = 607 = 2 1
+Oregon = 608 = 2 2
+the third world = 609 = 2 1
+business travelers = 610 = 2 1
+Iraqi deputy prime minister Tariq Aziz = 611 = 2 2
+the Holocaust mus- Memorial Museum in Washington = 612 = 2 1
+IRS = 613 = 2 1
+the Irish government = 614 = 2 1
+agents = 615 = 2 1
+ten thousand gas stations nationwide = 616 = 2 1
+their students = 617 = 2 1
+Ronald Reagan = 618 = 2 2
+Aides = 619 = 2 2
+the authorities = 620 = 2 1
+Li Pung = 621 = 2 1
+Jesus = 622 = 2 1
+Fedex = 623 = 2 1
+urban schools = 624 = 2 1
+the Clinton administration = 625 = 2 2
+heavily favored Canada = 626 = 2 1
+scientists = 627 = 2 2
+Its = 628 = 2 2
+Some of the other countries that make the list = 629 = 2 2
+my family = 630 = 2 2
+The world = 631 = 2 2
+pilots = 632 = 2 2
+consumers = 633 = 2 2
+Lisa Stark = 634 = 2 2
+Delta = 635 = 2 1
+the Czech republic = 636 = 2 1
+the Volga river = 637 = 2 1
+CBS = 638 = 2 1
+Hussein = 639 = 2 1
+the Washington Post = 640 = 2 2
+his associates = 641 = 2 2
+jail = 642 = 2 2
+controllers = 643 = 2 1
+number six Kentucky = 644 = 2 1
+Rick Lockridge = 645 = 2 1
+these agents = 646 = 2 1
+Independent counsel Kenneth Starr = 647 = 2 2
+Dr. Young = 648 = 2 1
+The State Department = 649 = 2 2
+Stephanie Oswald = 650 = 2 1
+a teenager = 651 = 2 2
+my daddy = 652 = 2 1
+Blassie = 653 = 2 1
+the southern plains = 654 = 2 1
+Rich Jaffe of CNN affiliate WKRC = 655 = 2 1
+Kansas = 656 = 2 1
+The World's Allen Dow = 657 = 2 1
+This = 658 = 2 2
+Air Force = 659 = 2 2
+Democrats = 660 = 2 2
+the worst offenders = 661 = 2 2
+ABC's Ned Potter = 662 = 2 2
+Muslims = 663 = 2 1
+Saint Louis = 664 = 2 1
+premiere = 665 = 2 1
+The Chinese = 666 = 2 2
+his Washington office = 667 = 2 1
+Fifth Avenue = 668 = 2 1
+my father = 669 = 2 1
+Senator Toracelli = 670 = 2 1
+Mr. Li = 671 = 2 1
+these groups = 672 = 2 2
+younger members = 673 = 2 1
+The World's Alejandra Martins = 674 = 2 1
+Scotland = 675 = 2 2
+Much of the world = 676 = 2 1
+Charles Keating = 677 = 2 1
+Nike = 678 = 2 1
+a school now located in Mount Vernon = 679 = 2 1
+shops owned by ethnic Chinese = 680 = 2 1
+Yassir Arafat = 681 = 2 1
+Maysville = 682 = 2 1
+the violinist = 683 = 2 1
+a man = 684 = 2 2
+the Japanese government = 685 = 2 1
+Boeing = 686 = 2 2
+San Antonio = 687 = 2 1
+Dennis Michael = 688 = 2 1
+Cargil = 689 = 2 1
+the Serbian province of Kosovo = 690 = 2 2
+Milan = 691 = 2 2
+women's = 692 = 2 1
+law enforcement officers = 693 = 2 2
+voters = 694 = 2 1
+Rhonda Rowland = 695 = 2 1
+an affiliated clinic = 696 = 2 1
+the office = 697 = 2 1
+suppliers = 698 = 2 2
+a policeman = 699 = 2 2
+Rob = 700 = 2 1
+Abuja = 701 = 2 1
+a  magnificent tiled mosque, which dominated the skyline for  centuries = 702 = 2 1
+the department = 703 = 2 2
+Mark Potach = 704 = 2 1
+The British government = 705 = 2 2
+number fourteen South Carolina = 706 = 2 1
+photographers = 707 = 2 2
+Mr. Howen = 708 = 2 1
+Agents = 709 = 2 2
+this White House = 710 = 2 1
+Muslim = 711 = 2 1
+the united states = 712 = 2 2
+Bob = 713 = 2 1
+Other people = 714 = 2 2
+eastern Canada = 715 = 2 2
+Mr. Potach = 716 = 2 1
+their own clinics = 717 = 2 1
+Burma = 718 = 2 2
+a nation = 719 = 2 2
+Jackie = 720 = 2 2
+this city = 721 = 2 2
+Baltimore = 722 = 2 1
+Hawaii = 723 = 2 2
+folks = 724 = 2 2
+her Pentagon office = 725 = 2 1
+Afghan women = 726 = 2 1
+northern  Ireland = 727 = 2 2
+President Nixon = 728 = 2 2
+Philly = 729 = 2 1
+Ford = 730 = 2 2
+the disabled golfer we told you about last week = 731 = 2 2
+Purnell Murdock = 732 = 2 2
+everyone else = 733 = 2 1
+a desert island = 734 = 2 1
+the union = 735 = 2 2
+China's new premiere = 736 = 2 1
+Steve Nettleton = 737 = 2 1
+Great Britain = 738 = 2 2
+the Caribbean = 739 = 2 2
+baby = 740 = 2 1
+Wisconsin = 741 = 2 2
+the capitalist society = 742 = 2 1
+a driver = 743 = 2 1
+the north = 744 = 2 2
+Analysts = 745 = 2 2
+the Iraqis = 746 = 2 1
+the BBC news room in London = 747 = 2 2
+Sinn  Fein = 748 = 2 2
+the Vatican = 749 = 2 1
+stores = 750 = 2 1
+the Philippines = 751 = 2 1
+the Hawks = 752 = 2 2
+Al Hinman = 753 = 2 1
+US intelligence sources = 754 = 2 1
+Wall Street = 755 = 2 1
+our house = 756 = 2 2
+Edson = 757 = 2 1
+Wong Kwan = 758 = 2 1
+her six hundred eighty pound daughter = 759 = 2 2
+new baseball fields = 760 = 2 1
+Arafat = 761 = 2 1
+Duane Walker = 762 = 2 1
+the foreigners = 763 = 2 1
+Nagano = 764 = 2 1
+the Lagos' offices = 765 = 2 1
+Atalanta = 766 = 2 1
+Tony Kahn = 767 = 2 2
+Serb = 768 = 2 2
+the academy = 769 = 2 1
+Tehran = 770 = 2 1
+Lyn = 771 = 2 1
+the New York Yankee souvenir stores in New York City = 772 = 2 1
+Starr's office = 773 = 2 2
+Blair = 774 = 2 1
+a small health care clinic = 775 = 2 1
+ten to twenty thousand people = 776 = 2 2
+South Africa = 777 = 2 2
+German = 778 = 2 1
+NBA = 779 = 2 2
+NBC = 780 = 2 1
+homes = 781 = 2 2
+Clair Dual = 782 = 2 1
+Travelers = 783 = 2 2
+General Abacha = 784 = 2 1
+any White House = 785 = 2 1
+a journalist = 786 = 2 2
+Carl Perkins = 787 = 2 1
+Rich = 788 = 2 1
+her group = 789 = 2 1
+a lot of people = 790 = 2 2
+the CNN weather center = 791 = 2 2
+the stadium = 792 = 2 1
+Pamela McCall = 793 = 2 2
+Corrigan = 794 = 2 1
+Sinn Fein = 795 = 2 2
+the independent counsel Kenneth Starr = 796 = 2 2
+Miss Lewinsky = 797 = 2 2
+Steve Hurst = 798 = 2 1
+his office = 799 = 2 1
+civilians = 800 = 2 2
+Diane Sawyer = 801 = 2 2
+Mr. Abadcova = 802 = 2 1
+researchers = 803 = 2 2
+Ollie = 804 = 2 1
+A Massachusetts state trooper = 805 = 2 1
+Barry = 806 = 2 1
+The Pentagon = 807 = 2 1
+governments = 808 = 2 2
+Dow = 809 = 2 1
+Kent University in England = 810 = 1 1
+Michel McQueen = 811 = 1 1
+church  groups that preach a message of white supremacy and anti-semitism = 812 = 1 1
+the seller = 813 = 1 1
+Rhode Island = 814 = 1 1
+Cape Town = 815 = 1 1
+The US women = 816 = 1 1
+John F Kennedy = 817 = 1 1
+drivers in clean air states like Iowa or Wyoming = 818 = 1 1
+Japanese military = 819 = 1 1
+women in hockey = 820 = 1 1
+the planet Earth = 821 = 1 1
+women basketball players = 822 = 1 1
+a superpower in decline = 823 = 1 1
+a party = 824 = 1 1
+Mark Potach, who edits the Southern Poverty Law  Center's Intelligence Report = 825 = 1 1
+members of the Secret Service = 826 = 1 1
+an elective assembly in Northern Ireland = 827 = 1 1
+fifteen foreign nationals = 828 = 1 1
+the  Owens Valley = 829 = 1 1
+the high performance  lab, in Santa Caterina, Italy = 830 = 1 1
+Old  neighborhoods = 831 = 1 1
+Late French president Francios Mitterrand = 832 = 1 1
+the family = 833 = 1 1
+the minister = 834 = 1 1
+The agencies = 835 = 1 1
+central Asia = 836 = 1 1
+Communism's most effective adversaries = 837 = 1 1
+the society = 838 = 1 1
+Professor Hawley = 839 = 1 1
+Gerald Ford = 840 = 1 1
+every Secret Service agent who's ever protected the president at any point in time = 841 = 1 1
+lieutenant governor Gray Davis = 842 = 1 1
+teenage girls = 843 = 1 1
+the  communities = 844 = 1 1
+sidewalks = 845 = 1 1
+homosexuals = 846 = 1 1
+voters in  the Irish Republic and British ruled Northern Ireland who overwhelmingly  approved a peace plan for Northern Ireland last month = 847 = 1 1
+Eleventh seed Mary Pierce = 848 = 1 1
+the Habibie government which has pledged to  institute more political reforms, including the release of additional political  prisoners = 849 = 1 1
+Saditri Kunady = 850 = 1 1
+Roosevelt = 851 = 1 1
+Iraq's  president Saddam Hussein = 852 = 1 1
+four different cities = 853 = 1 1
+SDLP = 854 = 1 1
+almost ninety  percent of the country's international lenders = 855 = 1 1
+Corvallis, Oregon = 856 = 1 1
+lawyers = 857 = 1 1
+the Mississippi Valley = 858 = 1 1
+an American living here who has written a lot about the old Shanghai, which  she prefers = 859 = 1 1
+last year's team = 860 = 1 1
+their support group = 861 = 1 1
+Mo Mowlam = 862 = 1 1
+Beijing's great hall of the people = 863 = 1 1
+advocates = 864 = 1 1
+one of the first Republicans to tell Nixon that he should resign = 865 = 1 1
+Newsweek = 866 = 1 1
+a reporter = 867 = 1 1
+his residence = 868 = 1 1
+the fifteenth pitcher in nearly one hundred thirty  years of major league baseball to get a perfect game = 869 = 1 1
+their fifteen year old son Kip, who  is also accused of killing two classmates and wounding twenty-two people at his  high school = 870 = 1 1
+viewers outside the  United States = 871 = 1 1
+Birmingham police = 872 = 1 1
+his wife = 873 = 1 1
+a cast of powerful characters = 874 = 1 1
+sixty-seven per cent of Americans = 875 = 1 1
+Number ten U Conn = 876 = 1 1
+our country = 877 = 1 1
+Freeh = 878 = 1 1
+Todd Buchholz = 879 = 1 1
+Scientists = 880 = 1 1
+CBS News = 881 = 1 1
+one of the nation's most effective political fund raisers = 882 = 1 1
+Indonesian president Suharto = 883 = 1 1
+the  state = 884 = 1 1
+students who kidnapped American ambassador Charles Burke Elbrick = 885 = 1 1
+Teen = 886 = 1 1
+rural parts of the country = 887 = 1 1
+Dave = 888 = 1 1
+The human rights group = 889 = 1 1
+Hong  Kong = 890 = 1 1
+an analyst with the respected Jane's Defense Publications in  London = 891 = 1 1
+adviser = 892 = 1 1
+Bono of the Irish rock band U two who  credited Sinatra with inventing pop music = 893 = 1 1
+the Persian gulf = 894 = 1 1
+three South Korean women who were forced to provide sex to  Japanese soldiers during the war = 895 = 1 1
+Kafelnikov = 896 = 1 1
+The slain civil rights leader = 897 = 1 1
+good people who are going to run for office = 898 = 1 1
+British officials = 899 = 1 1
+all the women in Afghanistan = 900 = 1 1
+those magazines = 901 = 1 1
+African = 902 = 1 1
+eight condominiums here = 903 = 1 1
+an unarmed taxi driver = 904 = 1 1
+Co-founder Lauren Tereseray = 905 = 1 1
+both sides of the Atlantic = 906 = 1 1
+the home = 907 = 1 1
+the President's opponents = 908 = 1 1
+many fans = 909 = 1 1
+Carolina = 910 = 1 1
+the fellowship church = 911 = 1 1
+the capital  Abuja = 912 = 1 1
+the board of supervisors of Loudon county, Virginia = 913 = 1 1
+the US Congress = 914 = 1 1
+the Owens Valley, about two hundred miles away = 915 = 1 1
+the US Virgin Islands = 916 = 1 1
+the young woman = 917 = 1 1
+home of the  schnitzel = 918 = 1 1
+John McWethy = 919 = 1 1
+one senior aide = 920 = 1 1
+Martin Bush = 921 = 1 1
+Former US senator George  Mitchell = 922 = 1 1
+certain peripheral countries = 923 = 1 1
+museum officials = 924 = 1 1
+the most industrialized countries = 925 = 1 1
+his friends = 926 = 1 1
+the negotiators = 927 = 1 1
+His wife, Susan = 928 = 1 1
+young designers = 929 = 1 1
+the countries = 930 = 1 1
+The Senate = 931 = 1 1
+delta airlines = 932 = 1 1
+people who smoked and  drank and who worked in nightclubs and who lived a very fast life = 933 = 1 1
+The Palestinian authority = 934 = 1 1
+Celtic = 935 = 1 1
+Cole Porter = 936 = 1 1
+No woman = 937 = 1 1
+south Asia = 938 = 1 1
+the southern state = 939 = 1 1
+the RUC = 940 = 1 1
+lawyers familiar with the investigation = 941 = 1 1
+Chiropractor Alfio Caronti = 942 = 1 1
+Human Rights Watch, a US based human rights organization = 943 = 1 1
+the five major powers = 944 = 1 1
+the Shanghai man = 945 = 1 1
+Brian Rooney = 946 = 1 1
+the first astronauts = 947 = 1 1
+these men = 948 = 1 1
+The Detroit lions = 949 = 1 1
+presidential hopefuls = 950 = 1 1
+united nations = 951 = 1 1
+the foreign secretary = 952 = 1 1
+a justice of the peace = 953 = 1 1
+Casey = 954 = 1 1
+the political opposition = 955 = 1 1
+the large, friendly crowds = 956 = 1 1
+a guest announcer = 957 = 1 1
+a violinist = 958 = 1 1
+US defense analysts = 959 = 1 1
+certain developing countries w- where  questions of survival are important questions = 960 = 1 1
+President Saddam Hussein = 961 = 1 1
+Syria = 962 = 1 1
+the co-pilot = 963 = 1 1
+sixty-five = 964 = 1 1
+the heartland = 965 = 1 1
+the  International Monetary Fund = 966 = 1 1
+investment bankers = 967 = 1 1
+State lottery officials = 968 = 1 1
+Shaquille O'Neal = 969 = 1 1
+the vast majority of skiers = 970 = 1 1
+Senator Collins = 971 = 1 1
+David Rowley's team = 972 = 1 1
+the dike along the Red River = 973 = 1 1
+Princeton players = 974 = 1 1
+a posthumous nominee in the same rap category = 975 = 1 1
+the IRS = 976 = 1 1
+most of the victims = 977 = 1 1
+Ju Rong  Zhi = 978 = 1 1
+about ten thousand patients waiting for liver transplants = 979 = 1 1
+Connecticut = 980 = 1 1
+Stephano Guerrierro = 981 = 1 1
+Joel = 982 = 1 1
+University of North Carolina = 983 = 1 1
+The president = 984 = 1 1
+gun owners = 985 = 1 1
+The suns = 986 = 1 1
+the  Arizona Air National Guard = 987 = 1 1
+the Director of Stadium Operations = 988 = 1 1
+eleven percent = 989 = 1 1
+the ladies = 990 = 1 1
+the people involved = 991 = 1 1
+witnesses to private conduct = 992 = 1 1
+a seventy-two year old widow = 993 = 1 1
+Global March organizer Kylash Satiati = 994 = 1 1
+a world ruler = 995 = 1 1
+Sinpinang jail = 996 = 1 1
+Shane Warren = 997 = 1 1
+the great armies of Europe = 998 = 1 1
+the generation of eighteen ninety-eight,  a loose collection of writers, artists and thinkers who used the disaster  as a way to probe the deepest questions of Spanish identity = 999 = 1 1
+a very blunt Republican who helped to redefine his party = 1000 = 1 1
+any other nation, something the US has, of course,  tried to persuade the world that it is not = 1001 = 1 1
+a party kind of guy = 1002 = 1 1
+Count Basie = 1003 = 1 1
+the paramilitaries = 1004 = 1 1
+Chancellor Kohl = 1005 = 1 1
+Tamina Janjoor = 1006 = 1 1
+Woodward's three other lawyers = 1007 = 1 1
+foreign drug enforcement agents = 1008 = 1 1
+many of the  girls = 1009 = 1 1
+their immediate family = 1010 = 1 1
+the worst offending countries = 1011 = 1 1
+the first team to double an NBA opponent = 1012 = 1 1
+James Allmen = 1013 = 1 1
+real students = 1014 = 1 1
+a handful of killers = 1015 = 1 1
+The British and Irish governments = 1016 = 1 1
+lawyer William Ginsburg = 1017 = 1 1
+football fans all over the world = 1018 = 1 1
+city council = 1019 = 1 1
+thirty-nine percent = 1020 = 1 1
+those companies = 1021 = 1 1
+South Korea's government = 1022 = 1 1
+Organizers = 1023 = 1 1
+a New York literary agent = 1024 = 1 1
+The analysts = 1025 = 1 1
+Most people = 1026 = 1 1
+seventy-five percent = 1027 = 1 1
+the combatants = 1028 = 1 1
+Lazio of  Rome = 1029 = 1 1
+the persons they are supposed to protect = 1030 = 1 1
+the Mexican government = 1031 = 1 1
+June Hall Davis = 1032 = 1 1
+a fifty million dollar campus = 1033 = 1 1
+Pakistan's representative = 1034 = 1 1
+many American women = 1035 = 1 1
+The supporters of Russian lawmaker and Muslim union leader Nadiasak Kachelayev = 1036 = 1 1
+the Rwandan government = 1037 = 1 1
+parts of the northeastern US and eastern Canada = 1038 = 1 1
+about seventy-five percent of the Afghan population = 1039 = 1 1
+the IRA's  political wing = 1040 = 1 1
+the government itself = 1041 = 1 1
+the opposition = 1042 = 1 1
+ABC's Jim Laurie = 1043 = 1 1
+less developed countries = 1044 = 1 1
+a Chinese embassy employee = 1045 = 1 1
+defense strategists = 1046 = 1 1
+an entire neighborhood = 1047 = 1 1
+their age group = 1048 = 1 1
+both political parties = 1049 = 1 1
+the two islands = 1050 = 1 1
+all three thousand agents = 1051 = 1 1
+Gengis Kahn = 1052 = 1 1
+Prime Minister Ryutaro Hashimoto = 1053 = 1 1
+Arizona Wildcats Mike Bibbi = 1054 = 1 1
+Algerian = 1055 = 1 1
+Ken Starr = 1056 = 1 1
+teachers = 1057 = 1 1
+a hundred acres in Loudon county, Virginia = 1058 = 1 1
+a man of real  courage = 1059 = 1 1
+grandfathers = 1060 = 1 1
+Defense Secretary William Cohen = 1061 = 1 1
+designers = 1062 = 1 1
+the ultimate political survivor = 1063 = 1 1
+the people here = 1064 = 1 1
+two point five million weekly listeners = 1065 = 1 1
+The senator from America's best known Irish Catholic family = 1066 = 1 1
+The Prime Minister = 1067 = 1 1
+their citizens = 1068 = 1 1
+the foreigners who I've seen in  these communities = 1069 = 1 1
+that communist nation = 1070 = 1 1
+his sponsor, a rich, middle aged alcoholic woman = 1071 = 1 1
+Detroit Redwings = 1072 = 1 1
+The BBC's Tom Coulter = 1073 = 1 1
+Corretja = 1074 = 1 1
+some of us = 1075 = 1 1
+the Republic of  Ireland, the country to the south = 1076 = 1 1
+thirty-five = 1077 = 1 1
+Serena = 1078 = 1 1
+not everyone in France = 1079 = 1 1
+The young industry = 1080 = 1 1
+The Federal Bureau of Investigation = 1081 = 1 1
+lawyers for Paula Jones = 1082 = 1 1
+Fifty-three percent = 1083 = 1 1
+an attorney = 1084 = 1 1
+Bradley = 1085 = 1 1
+the Dagestani government = 1086 = 1 1
+strong leadership = 1087 = 1 1
+people with some clout like Zhao  Zujang = 1088 = 1 1
+ABC's Jane Clayson = 1089 = 1 1
+The Kinkels = 1090 = 1 1
+the rest of the family = 1091 = 1 1
+Suppliers = 1092 = 1 1
+Richard Sakwa = 1093 = 1 1
+Mr. Clinton himself = 1094 = 1 1
+the sixty two year old congressman = 1095 = 1 1
+such groups = 1096 = 1 1
+a senior tobacco executive = 1097 = 1 1
+a widely recognized American  figure = 1098 = 1 1
+abortion providers = 1099 = 1 1
+Badcova = 1100 = 1 1
+sister Serena Williams = 1101 = 1 1
+an abortion clinic = 1102 = 1 1
+the  twenty year old au pair = 1103 = 1 1
+the controller = 1104 = 1 1
+Both sides = 1105 = 1 1
+bistros = 1106 = 1 1
+the South = 1107 = 1 1
+their clients = 1108 = 1 1
+Pino Arlacchi = 1109 = 1 1
+Mount Everest = 1110 = 1 1
+Forty-three percent = 1111 = 1 1
+former  Senator George Mitchell of Maine = 1112 = 1 1
+people who continue to speak out who are not such high profile  dissidents = 1113 = 1 1
+the audience = 1114 = 1 1
+Protestant paramilitary prisoners = 1115 = 1 1
+the  streets of the German capital, Berlin = 1116 = 1 1
+a woman who's not afraid to  experiment = 1117 = 1 1
+the mostly  white, mostly middle class area = 1118 = 1 1
+Law enforcement authorities = 1119 = 1 1
+the Veterans Administration = 1120 = 1 1
+the mother = 1121 = 1 1
+Nigerian security forces = 1122 = 1 1
+the people who can  talk about what happened = 1123 = 1 1
+other children = 1124 = 1 1
+the southwest = 1125 = 1 1
+Thirty-five per cent = 1126 = 1 1
+Orelon Sidney from the CNN weather center with your Headline News weather update = 1127 = 1 1
+upstart carrier Quest = 1128 = 1 1
+the midwest = 1129 = 1 1
+Bremerton, Washington = 1130 = 1 1
+a daughter = 1131 = 1 1
+Bradley Berg from Corvallis, Oregon = 1132 = 1 1
+Broadway = 1133 = 1 1
+twenty-eight states = 1134 = 1 1
+the Unionists, the people who  want to remain part of the United Kingdom = 1135 = 1 1
+Carlos Moya = 1136 = 1 1
+her father's home = 1137 = 1 1
+mayor of Shanghai ten years ago = 1138 = 1 1
+Elizabeth Cohen = 1139 = 1 1
+the two sovereign governments = 1140 = 1 1
+the  nation = 1141 = 1 1
+the reporter = 1142 = 1 1
+the eighty-eighth  floor = 1143 = 1 1
+church and government officials = 1144 = 1 1
+An Afghan  refugee in Switzerland, Homira Atimadi = 1145 = 1 1
+the  all England club = 1146 = 1 1
+the souls lost aboard the real  Titanic in nineteen twelve = 1147 = 1 1
+transplant centers far from their homes = 1148 = 1 1
+A great, in fact one of the very best, academic schools in the world = 1149 = 1 1
+foreigners suspected of supporting the Zapatista rebels = 1150 = 1 1
+Members of Mi- Badcova's civil liberties organization = 1151 = 1 1
+the state = 1152 = 1 1
+the rails = 1153 = 1 1
+the national legislature = 1154 = 1 1
+sons = 1155 = 1 1
+foreigners = 1156 = 1 1
+the  employer = 1157 = 1 1
+Hotels = 1158 = 1 1
+the very best, academic schools in the world = 1159 = 1 1
+a new Northern Ireland assembly = 1160 = 1 1
+Mr.  Jiang = 1161 = 1 1
+The Protestants = 1162 = 1 1
+his opponents, including President Johnson, who he ran against = 1163 = 1 1
+caregivers = 1164 = 1 1
+these places = 1165 = 1 1
+the great hall of the people = 1166 = 1 1
+two hundred and thirty four Americans = 1167 = 1 1
+St. Thomas in the US Virgin Islands = 1168 = 1 1
+North Carolina, where a four year old boy accidentally shot and killed  a six year old playmate over the weekend = 1169 = 1 1
+Palestinian authority President Yasser Arafat = 1170 = 1 1
+Cone = 1171 = 1 1
+spies = 1172 = 1 1
+Hannah Buchdahl = 1173 = 1 1
+yourself = 1174 = 1 1
+those who see it as another example of  puritanical US moral values interfering in government = 1175 = 1 1
+American officials = 1176 = 1 1
+thousands = 1177 = 1 1
+Anyone who's ever been in a elementary school band = 1178 = 1 1
+a drug free world = 1179 = 1 1
+Twenty-six hundred = 1180 = 1 1
+at  least fourteen people = 1181 = 1 1
+twelve volunteers who speak more than one language = 1182 = 1 1
+Wyoming = 1183 = 1 1
+a society based on enduring peace,  justice, and equality = 1184 = 1 1
+six countries = 1185 = 1 1
+theoreticians = 1186 = 1 1
+all the little girls out there who idolize  Cammi Granato or Carrie Bye = 1187 = 1 1
+FBI agents = 1188 = 1 1
+the neatly dressed children = 1189 = 1 1
+Goodyear = 1190 = 1 1
+Brendon Shanahan = 1191 = 1 1
+California Republican Steve Horn = 1192 = 1 1
+only twenty-seven percent, the lowest percentage ever = 1193 = 1 1
+a young person who's as intelligent as Louise and  wants to move on with her life = 1194 = 1 1
+My country = 1195 = 1 1
+a  kid = 1196 = 1 1
+the ordinary man on the street = 1197 = 1 1
+Party chairman Roy Romer = 1198 = 1 1
+Lincoln savings and  loan = 1199 = 1 1
+Dan Steinberg = 1200 = 1 1
+The director of the Secret Service, Lewis Merletti = 1201 = 1 1
+his mistresses = 1202 = 1 1
+the river = 1203 = 1 1
+India's ambassador, Saditri Kunady = 1204 = 1 1
+a third of the world's population = 1205 = 1 1
+the united nation = 1206 = 1 1
+Professor  Noble, professor at New York University = 1207 = 1 1
+eastern Europe = 1208 = 1 1
+a creek that supplies water to  several communities = 1209 = 1 1
+Karyn Coleman = 1210 = 1 1
+Todd Buchholz, an expert on the market and a former economic advisor to President Bush = 1211 = 1 1
+all parties concerned = 1212 = 1 1
+ABC's David Ensor = 1213 = 1 1
+The Republican Speaker of the House, Mr. Gingrich = 1214 = 1 1
+the mayor of Shanghai = 1215 = 1 1
+gentlemen who get in our way = 1216 = 1 1
+a society based on enduring peace, justice, and equality = 1217 = 1 1
+idealistic Europeans = 1218 = 1 1
+a Saudi funded school = 1219 = 1 1
+every one uh of the sickest patients = 1220 = 1 1
+the only  other Yankee pitcher to hurl a perfect game = 1221 = 1 1
+Dizzy Gillespie = 1222 = 1 1
+Thirty-seven percent = 1223 = 1 1
+a lot  of people = 1224 = 1 1
+Richard Gizbert = 1225 = 1 1
+some uh Hong Kong fat cat = 1226 = 1 1
+the enemy  at home = 1227 = 1 1
+Amtrak's passengers = 1228 = 1 1
+An American classical violin virtuoso with a zest for performing all kinds  of music = 1229 = 1 1
+more than thirty countries = 1230 = 1 1
+finance ministry = 1231 = 1 1
+Ohio = 1232 = 1 1
+American Express = 1233 = 1 1
+the Pacific Northwest = 1234 = 1 1
+the President's shadow = 1235 = 1 1
+Atlantic Coast  Conference = 1236 = 1 1
+most pa- parties = 1237 = 1 1
+women who want nothing to do  with any aspect of the tournament which runs from June tenth to July twelfth = 1238 = 1 1
+Deborah Amos, ABC News, New York = 1239 = 1 1
+leader  of the Lagos based civil liberties organization = 1240 = 1 1
+here in Shanghai = 1241 = 1 1
+the first anti-smoking president ever = 1242 = 1 1
+Makhachkala = 1243 = 1 1
+a six year old playmate = 1244 = 1 1
+town = 1245 = 1 1
+a US based human rights organization = 1246 = 1 1
+which men = 1247 = 1 1
+characters = 1248 = 1 1
+Steve Smith = 1249 = 1 1
+Not everyone = 1250 = 1 1
+CIO magazine = 1251 = 1 1
+twenty  states = 1252 = 1 1
+Lynne Russell = 1253 = 1 1
+another = 1254 = 1 1
+the big brokerage houses = 1255 = 1 1
+Antoine  Jamison = 1256 = 1 1
+its  people = 1257 = 1 1
+the party leader who was forced to step down in  may of nineteen eighty-nine for siding too much with the students during the  demonstrations = 1258 = 1 1
+the University of North Carolina basketball forward Antoine  Jamison = 1259 = 1 1
+some of the neatly dressed children = 1260 = 1 1
+ABC's JuJu Chang = 1261 = 1 1
+as many  as four hundred thousand  American troops = 1262 = 1 1
+UN inspectors = 1263 = 1 1
+a radio broadcaster = 1264 = 1 1
+The Palestinian authority President = 1265 = 1 1
+a longtime friend = 1266 = 1 1
+The Massachusetts state treasurer = 1267 = 1 1
+the south = 1268 = 1 1
+the villages near where the  offensive was taking place = 1269 = 1 1
+the just plain curious = 1270 = 1 1
+northern Ireland police = 1271 = 1 1
+the hat man = 1272 = 1 1
+a core of dedicated supporters who'd probably lie in front of a locomotive for him = 1273 = 1 1
+other long distance carriers = 1274 = 1 1
+The first family = 1275 = 1 1
+a voice for change = 1276 = 1 1
+the island of  Ireland = 1277 = 1 1
+The department = 1278 = 1 1
+The American Council on Education = 1279 = 1 1
+advertisers = 1280 = 1 1
+Rangers = 1281 = 1 1
+the developing world = 1282 = 1 1
+most outsiders = 1283 = 1 1
+the airport in Champaign Urbana, Illinois = 1284 = 1 1
+Nicholas Howen = 1285 = 1 1
+New Hampshire = 1286 = 1 1
+Shanghainese = 1287 = 1 1
+A Washington grand jury = 1288 = 1 1
+nearly two thousand people = 1289 = 1 1
+Asia Pacific = 1290 = 1 1
+older, more traditional groups like the Ku Klux Klan = 1291 = 1 1
+Californians = 1292 = 1 1
+my husband = 1293 = 1 1
+official Serb sources = 1294 = 1 1
+Balloonist Steve Fossett = 1295 = 1 1
+Biggie himself = 1296 = 1 1
+Missoula Montana = 1297 = 1 1
+NASDAQ = 1298 = 1 1
+various different prime ministers with various different political  backgrounds = 1299 = 1 1
+owners = 1300 = 1 1
+a film composer for the past forty years = 1301 = 1 1
+Blassie's mother = 1302 = 1 1
+Telecommunications specialist Alan Simpson = 1303 = 1 1
+so few = 1304 = 1 1
+The Southern Poverty Law Center, a civil rights monitoring group based in  Montgomery, Alabama = 1305 = 1 1
+political partner = 1306 = 1 1
+Brit Irvin = 1307 = 1 1
+a history major student with a three five grade point average = 1308 = 1 1
+the girl's body = 1309 = 1 1
+Miami International Airport = 1310 = 1 1
+an attorney for, uh, Louise Woodward = 1311 = 1 1
+these east Asian governments = 1312 = 1 1
+Inter = 1313 = 1 1
+the  authorities = 1314 = 1 1
+the king of the world = 1315 = 1 1
+little Spain = 1316 = 1 1
+Mike Von Fremd = 1317 = 1 1
+a big dust  pile, a hundred square miles of dust = 1318 = 1 1
+the BBC = 1319 = 1 1
+the Bulls = 1320 = 1 1
+sir = 1321 = 1 1
+a secretary general = 1322 = 1 1
+China's crumbling state industry = 1323 = 1 1
+the varsity basketball team = 1324 = 1 1
+the parties uh themselves = 1325 = 1 1
+French leaders = 1326 = 1 1
+Jerry Goldsmith = 1327 = 1 1
+every president = 1328 = 1 1
+Eastern Europe = 1329 = 1 1
+Not all Cubans = 1330 = 1 1
+The scientists at Rockefeller University in New York = 1331 = 1 1
+folks  on Fifth Avenue = 1332 = 1 1
+southern Georgia = 1333 = 1 1
+the League of Nations = 1334 = 1 1
+US allies = 1335 = 1 1
+the other woman = 1336 = 1 1
+The pilot = 1337 = 1 1
+the defense secretary = 1338 = 1 1
+Marlene Corrigan = 1339 = 1 1
+investors who bought high risk  junk bonds sold by Keating's employees at Lincoln savings and  loan = 1340 = 1 1
+The homeless = 1341 = 1 1
+thirty well-heeled supporters = 1342 = 1 1
+the top of the mountain = 1343 = 1 1
+a lawyer = 1344 = 1 1
+Aaron Brown = 1345 = 1 1
+The united states = 1346 = 1 1
+Paula Wolfson = 1347 = 1 1
+South Korean officials = 1348 = 1 1
+Six of these gold medalists = 1349 = 1 1
+Larry Froistad, the man who got us thinking about all this today = 1350 = 1 1
+Egyptian = 1351 = 1 1
+a team led by an  American = 1352 = 1 1
+Witnesses = 1353 = 1 1
+Israeli officials = 1354 = 1 1
+forty-six per cent = 1355 = 1 1
+the democratic republic of Congo = 1356 = 1 1
+Prahmud Mahajan = 1357 = 1 1
+group leader Frederick Rogers  , a Rutgers  university psychologist = 1358 = 1 1
+Prominent Democrats = 1359 = 1 1
+restaurant owner Rune  Kongshaug = 1360 = 1 1
+Harat = 1361 = 1 1
+Champaign Urbana = 1362 = 1 1
+the park = 1363 = 1 1
+Taiwan fat cat = 1364 = 1 1
+the Pope with Fidel Castro = 1365 = 1 1
+associated press = 1366 = 1 1
+The UN secretary general = 1367 = 1 1
+One person = 1368 = 1 1
+a city that, like many Russian cities, has had several names = 1369 = 1 1
+a nudist, who eats in the  raw = 1370 = 1 1
+former White House intern Monica Lewinsky = 1371 = 1 1
+individuals = 1372 = 1 1
+Leonard Nimoy, alias  Mr. Spock = 1373 = 1 1
+people running for mayor and city council and county board of supervisors = 1374 = 1 1
+society = 1375 = 1 1
+the  unionists = 1376 = 1 1
+Goldwater's grandfather = 1377 = 1 1
+the American press = 1378 = 1 1
+protesters = 1379 = 1 1
+independent counsel Kenneth Starr's grand jury = 1380 = 1 1
+the presiding judge = 1381 = 1 1
+two players each from Kansas and Arizona = 1382 = 1 1
+President Fidel Castro = 1383 = 1 1
+an American woman = 1384 = 1 1
+those same suppliers = 1385 = 1 1
+The most famous, Adam Arkin = 1386 = 1 1
+the next president of the United States, Dick Nixon = 1387 = 1 1
+a dissident = 1388 = 1 1
+the Bronx = 1389 = 1 1
+the  Persian Gulf = 1390 = 1 1
+President Johnson = 1391 = 1 1
+their society = 1392 = 1 1
+the Chinese people = 1393 = 1 1
+the inspector teams = 1394 = 1 1
+Palestinian leader Yasser Arafat who was in Paris today = 1395 = 1 1
+her fellow  violinists = 1396 = 1 1
+an American, former  Senator George Mitchell of Maine = 1397 = 1 1
+Belgrade = 1398 = 1 1
+branches = 1399 = 1 1
+the solar system = 1400 = 1 1
+people in Northern  Ireland = 1401 = 1 1
+programs = 1402 = 1 1
+their town = 1403 = 1 1
+church = 1404 = 1 1
+a master of  compromise = 1405 = 1 1
+one of President Clinton's closest advisors, Paul Begala = 1406 = 1 1
+My husband = 1407 = 1 1
+her New York City apartment = 1408 = 1 1
+the community = 1409 = 1 1
+Friedrich Engels = 1410 = 1 1
+America's teenage girls = 1411 = 1 1
+Richard Jewell = 1412 = 1 1
+Researchers at Sloan Kettering Cancer Center = 1413 = 1 1
+Hillary = 1414 = 1 1
+Managed care companies = 1415 = 1 1
+A UN spokesman = 1416 = 1 1
+the original structure built seventy-five years ago = 1417 = 1 1
+an off duty policeman = 1418 = 1 1
+The leaders of the countries that grow illegal drugs = 1419 = 1 1
+the interior section of the northeast = 1420 = 1 1
+Communist Party = 1421 = 1 1
+British au pair, Louise Woodward = 1422 = 1 1
+a man living in what is now Kinshasa in  the democratic republic of Congo = 1423 = 1 1
+the household = 1424 = 1 1
+Jeff Gordon = 1425 = 1 1
+British ruled Northern Ireland = 1426 = 1 1
+Airline executives = 1427 = 1 1
+young designers around the world = 1428 = 1 1
+world cup downhiller Pitro Vitialini = 1429 = 1 1
+the others = 1430 = 1 1
+Their = 1431 = 1 1
+the different parties = 1432 = 1 1
+a historian with the  US Navy = 1433 = 1 1
+a large part of the  country's male population = 1434 = 1 1
+the midsection of the US from Texas through the Ohio Valley = 1435 = 1 1
+China's bloated and  corrupt bureaucracy = 1436 = 1 1
+the knicks = 1437 = 1 1
+Disney, parent company of ABC = 1438 = 1 1
+the  Bronx, which was then New York's fastest growing borough = 1439 = 1 1
+the site = 1440 = 1 1
+extremists on both sides = 1441 = 1 1
+big banks = 1442 = 1 1
+Global March activists = 1443 = 1 1
+about a half million people = 1444 = 1 1
+between thirty = 1445 = 1 1
+a major player e- in sports = 1446 = 1 1
+the Dylan family = 1447 = 1 1
+these people = 1448 = 1 1
+Ojeida = 1449 = 1 1
+an  extortionist = 1450 = 1 1
+Steven Parrish, the senior vice president of Philip Morris = 1451 = 1 1
+a struggling, talented young  violinist = 1452 = 1 1
+the New York Knicks = 1453 = 1 1
+their local area = 1454 = 1 1
+Brazilian football star  Renaldo = 1455 = 1 1
+the Federal Aviation Administration = 1456 = 1 1
+people who only knew  him through his keyboard = 1457 = 1 1
+North Carolina State = 1458 = 1 1
+Pennsylvania = 1459 = 1 1
+this = 1460 = 1 1
+William = 1461 = 1 1
+more than seven percent of female teens = 1462 = 1 1
+something the US has, of course,  tried to persuade the world that it is not = 1463 = 1 1
+musicians from around the world = 1464 = 1 1
+Nigeria state radio = 1465 = 1 1
+eighty  great grandchildren = 1466 = 1 1
+FEMA director James Lee Witt = 1467 = 1 1
+China's most progressive city = 1468 = 1 1
+Chiapas, Mexico = 1469 = 1 1
+Pitro = 1470 = 1 1
+eleven people aboard a small commuter plane = 1471 = 1 1
+Knoblauch = 1472 = 1 1
+the New Delhi government = 1473 = 1 1
+ABC's Jim Wooten = 1474 = 1 1
+EU member  states = 1475 = 1 1
+the respected Jane's Defense Publications in  London = 1476 = 1 1
+seven hundred = 1477 = 1 1
+The company = 1478 = 1 1
+dissident politician Sri Bintang  Pamungkas = 1479 = 1 1
+thieves = 1480 = 1 1
+Northern Ireland, which  has one of the highest unemployment rates in Europe = 1481 = 1 1
+one participant = 1482 = 1 1
+people my age and Bill Clinton's age = 1483 = 1 1
+a loose collection of writers, artists and thinkers who used the disaster  as a way to probe the deepest questions of Spanish identity = 1484 = 1 1
+Elba, Alabama, along the Pea river = 1485 = 1 1
+the Saudi  government = 1486 = 1 1
+a corner of  the country that is forever French = 1487 = 1 1
+Sam Donaldson at the White House = 1488 = 1 1
+Catholic inmates = 1489 = 1 1
+These = 1490 = 1 1
+Vietnamese = 1491 = 1 1
+Frank Sinatra who died from a heart  attack overnight in Los Angeles = 1492 = 1 1
+teams without technical skills = 1493 = 1 1
+the  two islands = 1494 = 1 1
+The man he  replaces, Li Pung = 1495 = 1 1
+Seventeen = 1496 = 1 1
+women in Afghanistan = 1497 = 1 1
+Composer Michael Kamen, who recently scored the Winter Guest = 1498 = 1 1
+Kevin Turner = 1499 = 1 1
+former Israeli leader Shimon Peres = 1500 = 1 1
+Keating's lawyers = 1501 = 1 1
+students from thirty-five countries who gathered in New York for a  conference of the international association of jazz educators = 1502 = 1 1
+Linda Stouffer = 1503 = 1 1
+this year's nominees = 1504 = 1 1
+Mr. Arafat = 1505 = 1 1
+Singapore's Straits Times newspaper = 1506 = 1 1
+his number two = 1507 = 1 1
+the institutions = 1508 = 1 1
+the west = 1509 = 1 1
+these communities = 1510 = 1 1
+Alexander the great = 1511 = 1 1
+uncles = 1512 = 1 1
+Some HMOs = 1513 = 1 1
+Pan Am = 1514 = 1 1
+Amnesty International, the human rights group = 1515 = 1 1
+the skiers = 1516 = 1 1
+the  big city = 1517 = 1 1
+an aqueduct to divert the Owens River, which fed Owens Lake = 1518 = 1 1
+a government building in Dagestan = 1519 = 1 1
+Philip Morris = 1520 = 1 1
+daughter = 1521 = 1 1
+Those who only listen = 1522 = 1 1
+ordinary skiers = 1523 = 1 1
+a Chinese spy = 1524 = 1 1
+a growing body  of people who think Japan should face up to its past = 1525 = 1 1
+Lewinsky's friend, Linda Tripp = 1526 = 1 1
+the two women = 1527 = 1 1
+so many = 1528 = 1 1
+The BBC's Barnaby Mason in Jerusalem = 1529 = 1 1
+ethnic Chinese = 1530 = 1 1
+the other = 1531 = 1 1
+Michael Chang = 1532 = 1 1
+an area about ten miles long there = 1533 = 1 1
+those questioned = 1534 = 1 1
+women in sports = 1535 = 1 1
+Vice president Al Gore = 1536 = 1 1
+a north south council linking municipal functions between Ireland and  northern Ireland = 1537 = 1 1
+young stars, you know, who are  practically in their age group = 1538 = 1 1
+Russelll Biven = 1539 = 1 1
+Forty thousand people = 1540 = 1 1
+The Saudi Arabian government = 1541 = 1 1
+the  UK government = 1542 = 1 1
+ABC's Michel McQueen = 1543 = 1 1
+the strife torn British province = 1544 = 1 1
+the remains inside the Tomb of the Unknown from the Vietnam War = 1545 = 1 1
+The World's Rob Gifford = 1546 = 1 1
+The government's General Accounting Office = 1547 = 1 1
+the first of more than thirty countries = 1548 = 1 1
+the human rights group = 1549 = 1 1
+a Communist = 1550 = 1 1
+his daughter, Valerie = 1551 = 1 1
+Eddie Jones = 1552 = 1 1
+US scientists = 1553 = 1 1
+world cup skiers like Alberto Tomba = 1554 = 1 1
+the German capital, Berlin = 1555 = 1 1
+the residents of  Loudon county = 1556 = 1 1
+Ghana = 1557 = 1 1
+the workplace = 1558 = 1 1
+Mr. Bintang = 1559 = 1 1
+fifty eight percent of those  surveyed = 1560 = 1 1
+Iraq's leaders = 1561 = 1 1
+that = 1562 = 1 1
+International leaders = 1563 = 1 1
+more than twenty  people involved in the nineteen ninety-four genocide = 1564 = 1 1
+a  former campaign volunteer = 1565 = 1 1
+The World's  Rob Gifford = 1566 = 1 1
+his five year old daughter = 1567 = 1 1
+Michigan = 1568 = 1 1
+A large segment of the population = 1569 = 1 1
+it's presidential sites = 1570 = 1 1
+The Clinton administration = 1571 = 1 1
+Dozens of  elderly residents = 1572 = 1 1
+University of Kansas teammates Raef LaFrance = 1573 = 1 1
+those people around the country, us included, who are looking for these clues = 1574 = 1 1
+the  south = 1575 = 1 1
+people like Featherstone, worried about sitting too close to the steering wheel = 1576 = 1 1
+The President of the United States = 1577 = 1 1
+Kosovo province = 1578 = 1 1
+foreigners in  Chiapas = 1579 = 1 1
+American politicians = 1580 = 1 1
+Kinshasa in  the democratic republic of Congo = 1581 = 1 1
+what Spain  believed to be its God given empire = 1582 = 1 1
+Monica Lewinsky's father = 1583 = 1 1
+The poorest of the poor = 1584 = 1 1
+the First Lady   who, during the nineteen ninety-two Gennifer Flowers crisis, took charge so effectively = 1585 = 1 1
+An officially sanctioned one = 1586 = 1 1
+their establishments = 1587 = 1 1
+wife, Hillary = 1588 = 1 1
+Businesses = 1589 = 1 1
+the larger community beyond = 1590 = 1 1
+Twenty-eight-year-old Warren = 1591 = 1 1
+professor at New York University = 1592 = 1 1
+the  country's male population = 1593 = 1 1
+other real people = 1594 = 1 1
+Jane Garvey = 1595 = 1 1
+lurkers = 1596 = 1 1
+former Vancouver coach = 1597 = 1 1
+Officials at the Empire State  Building in New York = 1598 = 1 1
+the High Commission for Human Rights = 1599 = 1 1
+the army = 1600 = 1 1
+The federal aviation administration = 1601 = 1 1
+The Justice Department = 1602 = 1 1
+eight sites = 1603 = 1 1
+Those of us who ski = 1604 = 1 1
+Paraskeve Kantges = 1605 = 1 1
+the whole world = 1606 = 1 1
+babies who go on to die of  SIDS = 1607 = 1 1
+the first Republicans to tell Nixon that he should resign = 1608 = 1 1
+The venues = 1609 = 1 1
+The British aircraft carrier invincible = 1610 = 1 1
+Yankees' owner George Steinbrenner = 1611 = 1 1
+Ms. Woodward = 1612 = 1 1
+the same California high school as the only  other Yankee pitcher to hurl a perfect game = 1613 = 1 1
+the international  community = 1614 = 1 1
+The largest number of voters = 1615 = 1 1
+the spurs = 1616 = 1 1
+their families = 1617 = 1 1
+a con artist who ran nightclubs and laundered drug money = 1618 = 1 1
+these governments = 1619 = 1 1
+the Islamic Saudi  Academy = 1620 = 1 1
+My father = 1621 = 1 1
+Miller = 1622 = 1 1
+babies dying from SIDS = 1623 = 1 1
+a crew = 1624 = 1 1
+the leader of the Palestinians, Yassir Arafat = 1625 = 1 1
+all airlines = 1626 = 1 1
+an American = 1627 = 1 1
+a lot of Americans who reached into their memory books to recall  a story about him = 1628 = 1 1
+sources familiar with the investigation = 1629 = 1 1
+women in urban areas = 1630 = 1 1
+Experts = 1631 = 1 1
+Young and Rubicam, a New York PR firm = 1632 = 1 1
+a  spy = 1633 = 1 1
+Musicians = 1634 = 1 1
+South Lake Tahoe = 1635 = 1 1
+Morricone = 1636 = 1 1
+a grand jury = 1637 = 1 1
+the chief UN inspector = 1638 = 1 1
+female pilots = 1639 = 1 1
+more agents = 1640 = 1 1
+the enemy = 1641 = 1 1
+the American women = 1642 = 1 1
+a dam on a creek that supplies water to  several communities = 1643 = 1 1
+state and federal officials = 1644 = 1 1
+an interstate = 1645 = 1 1
+Diana = 1646 = 1 1
+Albuquerque = 1647 = 1 1
+children stitching footballs for the world soccer cup = 1648 = 1 1
+team leader Scott Ritter, an American = 1649 = 1 1
+the Stanley Cup champions = 1650 = 1 1
+a fellow  named Li Zhao Long who apparently is a dissident there = 1651 = 1 1
+less than half of Americans = 1652 = 1 1
+PRI = 1653 = 1 1
+both parties = 1654 = 1 1
+witnesses = 1655 = 1 1
+the Kennedy School of Government = 1656 = 1 1
+New York's botanical garden = 1657 = 1 1
+the Atlanta journal constitution = 1658 = 1 1
+Cuba, still led by Castro = 1659 = 1 1
+Professor Noble = 1660 = 1 1
+a former  teammate of Jackson's on the New York Knicks = 1661 = 1 1
+Diane = 1662 = 1 1
+Champaign Urbana, Illinois = 1663 = 1 1
+Federov = 1664 = 1 1
+A  finance ministry official = 1665 = 1 1
+completely bogus businesses with no experience in health care at all = 1666 = 1 1
+a grand jury in Arkansas = 1667 = 1 1
+the governments = 1668 = 1 1
+Tripp wearing an FBI wire = 1669 = 1 1
+that person = 1670 = 1 1
+Fellow agents = 1671 = 1 1
+a  champion = 1672 = 1 1
+the wilderness of western north  Carolina = 1673 = 1 1
+a savior = 1674 = 1 1
+former President of UNOS = 1675 = 1 1
+ABC's Ron Claiborne = 1676 = 1 1
+this area = 1677 = 1 1
+Bob Sheets = 1678 = 1 1
+BJ Habibie = 1679 = 1 1
+a political battlefield = 1680 = 1 1
+a congressional hearing = 1681 = 1 1
+one million children = 1682 = 1 1
+the  Philippines = 1683 = 1 1
+Parisians = 1684 = 1 1
+the country's new premiere = 1685 = 1 1
+another person = 1686 = 1 1
+his home overlooking the city and  state  he loved = 1687 = 1 1
+the source that is identified by name = 1688 = 1 1
+the rest of the island = 1689 = 1 1
+office = 1690 = 1 1
+American Eric Burgost of Missoula Montana = 1691 = 1 1
+one of the buildings in Cuba where the Pope will be staying during his five day visit there later this month = 1692 = 1 1
+Monica Lewinsky's father's house = 1693 = 1 1
+those two groups = 1694 = 1 1
+The tobacco companies = 1695 = 1 1
+Revlon = 1696 = 1 1
+the people in Los Angeles = 1697 = 1 1
+Three times as many people = 1698 = 1 1
+northern New York = 1699 = 1 1
+the climber on the summit of Everest = 1700 = 1 1
+At least three people, including two policemen = 1701 = 1 1
+La Crosse, Wisconsin = 1702 = 1 1
+The  lake = 1703 = 1 1
+any number of American cities = 1704 = 1 1
+ILO = 1705 = 1 1
+Franklin  Roosevelt = 1706 = 1 1
+Cabinet members = 1707 = 1 1
+British prime  minister Tony Blair = 1708 = 1 1
+the traveler = 1709 = 1 1
+parts of  Georgia, North Carolina and Virginia = 1710 = 1 1
+people who do think the government is acting in a  very anachronistic way = 1711 = 1 1
+Republican candidates = 1712 = 1 1
+forty percent = 1713 = 1 1
+the red wings line up = 1714 = 1 1
+the UN human  rights commission = 1715 = 1 1
+this wooded area = 1716 = 1 1
+The ex-marine of Iran Contra fame = 1717 = 1 1
+the capital,  Abuja = 1718 = 1 1
+the road linking the island nation of  Bahrain with neighboring Saudi Arabia = 1719 = 1 1
+First Lady Hillary Clinton = 1720 = 1 1
+someone who has been given a second chance = 1721 = 1 1
+his characters = 1722 = 1 1
+many fliers = 1723 = 1 1
+His young wife = 1724 = 1 1
+the Professor of Transplant Surgery at Johns Hopkins  University Hospital in Baltimore, Maryland = 1725 = 1 1
+Casey Martin, the disabled golfer we told you about last week = 1726 = 1 1
+Anthony Keith James = 1727 = 1 1
+Anne Merkich, a study volunteer = 1728 = 1 1
+their affiliates = 1729 = 1 1
+All friends of Ireland and Northern Ireland = 1730 = 1 1
+President BJ Habibie who became President  last week when President Suharto abruptly bowed to public pressure and resigned = 1731 = 1 1
+nearly three hundred and fifty thousand of them = 1732 = 1 1
+educators = 1733 = 1 1
+The two = 1734 = 1 1
+Richard Gephardt = 1735 = 1 1
+the River Huangpo = 1736 = 1 1
+The people here = 1737 = 1 1
+the roads = 1738 = 1 1
+Labor activist Muchtar Pakpahan = 1739 = 1 1
+slaves = 1740 = 1 1
+a drug free United States = 1741 = 1 1
+a crew member = 1742 = 1 1
+a raw foodist, not to be confused with a nudist, who eats in the  raw = 1743 = 1 1
+the best teams in baseball = 1744 = 1 1
+President  Habibie = 1745 = 1 1
+The  world = 1746 = 1 1
+The sickest patients = 1747 = 1 1
+Jonathan Karl, CNN, Washington = 1748 = 1 1
+Iraqi women = 1749 = 1 1
+Cipoletta = 1750 = 1 1
+those elders = 1751 = 1 1
+the BBC's Tom Coulter = 1752 = 1 1
+ABC's John McKenzie = 1753 = 1 1
+all suspected weapons sites in Iraq = 1754 = 1 1
+congress = 1755 = 1 1
+the senator = 1756 = 1 1
+all suspected weapons sites = 1757 = 1 1
+Dagestan = 1758 = 1 1
+forty five million aggressive drivers = 1759 = 1 1
+former White  House intern Monica Lewinsky = 1760 = 1 1
+terrorists = 1761 = 1 1
+Protestant hardliners = 1762 = 1 1
+tourists = 1763 = 1 1
+Sean puffy Combs = 1764 = 1 1
+all citizens = 1765 = 1 1
+a  communist society = 1766 = 1 1
+Italy's Olympic  skiers = 1767 = 1 1
+Phil Jackson = 1768 = 1 1
+the President's close friend = 1769 = 1 1
+The Pakistani ambassador = 1770 = 1 1
+a communist dictator = 1771 = 1 1
+Antonio McDyess = 1772 = 1 1
+Monica Lewinsky's attorneys = 1773 = 1 1
+these new members = 1774 = 1 1
+President Clinton's personal secretary,  Betty Currie = 1775 = 1 1
+rivers = 1776 = 1 1
+The Harvard researchers = 1777 = 1 1
+an unindicted co-conspirator = 1778 = 1 1
+the Parliament = 1779 = 1 1
+three thousand visiting journalist = 1780 = 1 1
+new age guitarist Michael Hedges = 1781 = 1 1
+Everest = 1782 = 1 1
+the tobacco industry = 1783 = 1 1
+Ma bell = 1784 = 1 1
+those who can  afford it = 1785 = 1 1
+local legislators = 1786 = 1 1
+this group = 1787 = 1 1
+a number of high ranking opponents = 1788 = 1 1
+his own fans = 1789 = 1 1
+Rwanda's foreign minister = 1790 = 1 1
+state  he loved = 1791 = 1 1
+general manager Pat Quinn = 1792 = 1 1
+these pro Zapatista, uh,  communities, uh, where they have, uh- autonomous municipality that they've  established, the ones that the government says are completely illegal = 1793 = 1 1
+the parties themselves = 1794 = 1 1
+the military leader = 1795 = 1 1
+motorists at the gas  pump = 1796 = 1 1
+climbers  scaling Mount Everest = 1797 = 1 1
+the center of attention = 1798 = 1 1
+The Tiffany network = 1799 = 1 1
+DC = 1800 = 1 1
+Richard Nixon = 1801 = 1 1
+pal = 1802 = 1 1
+The Prime Minister's political advisor, Prahmud Mahajan = 1803 = 1 1
+people stranded without food, heat or medicine = 1804 = 1 1
+Europeans = 1805 = 1 1
+the adult = 1806 = 1 1
+about eighty thousand people = 1807 = 1 1
+a bus station in Syracuse = 1808 = 1 1
+a model = 1809 = 1 1
+a place = 1810 = 1 1
+Belgrade, the capital of Serbia = 1811 = 1 1
+The prolific puff daddy, Sean puffy Combs = 1812 = 1 1
+a  billion = 1813 = 1 1
+The President's crisis team = 1814 = 1 1
+Johnny Cash = 1815 = 1 1
+Chris Childs = 1816 = 1 1
+Northern  Ireland = 1817 = 1 1
+The northeast corridor = 1818 = 1 1
+The violinist = 1819 = 1 1
+Hashimoto = 1820 = 1 1
+the only school in the country where the varsity basketball team has to write, you know, a thesis of eighty pages t- to graduate = 1821 = 1 1
+Arlington National Cemetery = 1822 = 1 1
+Auncil  Martinez = 1823 = 1 1
+a  ski resort on the border between California and Nevada = 1824 = 1 1
+A parent = 1825 = 1 1
+some lawyers = 1826 = 1 1
+mechanics = 1827 = 1 1
+Brown county = 1828 = 1 1
+someone who has some  hard ch- uh characters = 1829 = 1 1
+some communities = 1830 = 1 1
+Protestant refugees from France = 1831 = 1 1
+that kind of coalition = 1832 = 1 1
+UN Secretary  General Kofi Annan = 1833 = 1 1
+the president of Air France = 1834 = 1 1
+many Russian cities = 1835 = 1 1
+Residents in Elba, Alabama, along the Pea river = 1836 = 1 1
+a restaurant called Eight  Beach Street = 1837 = 1 1
+aides = 1838 = 1 1
+Birmingham, Alabama = 1839 = 1 1
+Purnell Murdock, VOA news = 1840 = 1 1
+the Pontiff = 1841 = 1 1
+The twenty-four year old daughter = 1842 = 1 1
+many of Italy's Olympic  skiers = 1843 = 1 1
+Zurich airport = 1844 = 1 1
+local residents = 1845 = 1 1
+the Atlantic = 1846 = 1 1
+his advisors = 1847 = 1 1
+another location = 1848 = 1 1
+his beloved  hilltop = 1849 = 1 1
+doves = 1850 = 1 1
+members of the  assembly = 1851 = 1 1
+east Jakarta = 1852 = 1 1
+Members of the Communist party = 1853 = 1 1
+Gulf Coast = 1854 = 1 1
+non American inspectors = 1855 = 1 1
+almost twenty four thousand = 1856 = 1 1
+a grammy nominee = 1857 = 1 1
+Persian = 1858 = 1 1
+the Bulls' management = 1859 = 1 1
+this popular South Lake Tahoe resort = 1860 = 1 1
+Independent = 1861 = 1 1
+the students = 1862 = 1 1
+ten children = 1863 = 1 1
+an enthusiastic audience = 1864 = 1 1
+conservatives who don't want to spend that much money and also don't want to give President Clinton the win if he asks for this = 1865 = 1 1
+Rio Nido = 1866 = 1 1
+Senator Trent Lott = 1867 = 1 1
+his own kids = 1868 = 1 1
+Kenny Anderson = 1869 = 1 1
+the boss, Yankee owner George  Steinbrenner = 1870 = 1 1
+ABC's Deborah Amos = 1871 = 1 1
+career criminals = 1872 = 1 1
+American publics = 1873 = 1 1
+their county = 1874 = 1 1
+South Korea = 1875 = 1 1
+the plant = 1876 = 1 1
+Jones = 1877 = 1 1
+other adoptive parents = 1878 = 1 1
+a substantial number of customers = 1879 = 1 1
+investors = 1880 = 1 1
+each individual in our country = 1881 = 1 1
+a security man = 1882 = 1 1
+The authorities = 1883 = 1 1
+Napoleonic = 1884 = 1 1
+sort of unusual looking guy for a pitcher = 1885 = 1 1
+Montgomery, Alabama = 1886 = 1 1
+more  than just the three officially recognized political parties = 1887 = 1 1
+Pak = 1888 = 1 1
+their neighbors = 1889 = 1 1
+VOA News = 1890 = 1 1
+Singer Billy Joel = 1891 = 1 1
+these gold medalists = 1892 = 1 1
+composer Elliot Goldenthal = 1893 = 1 1
+a highway in Gary, Indiana = 1894 = 1 1
+Wales = 1895 = 1 1
+USA Today = 1896 = 1 1
+Ontario = 1897 = 1 1
+thousands of investors who bought high risk  junk bonds sold by Keating's employees at Lincoln savings and  loan = 1898 = 1 1
+a fertilizer warehouse in Kentucky = 1899 = 1 1
+French Corner = 1900 = 1 1
+the US men's  hockey team = 1901 = 1 1
+employers = 1902 = 1 1
+several  others = 1903 = 1 1
+the sponsors = 1904 = 1 1
+hundreds of drivers = 1905 = 1 1
+the Arab  American Institute = 1906 = 1 1
+an American  original = 1907 = 1 1
+the sponsor = 1908 = 1 1
+Yogi Berra = 1909 = 1 1
+an off duty police officer = 1910 = 1 1
+the ones that the government says are completely illegal = 1911 = 1 1
+anti Abacha  political groups = 1912 = 1 1
+Everyone involved with the President's  trip to China = 1913 = 1 1
+IBM = 1914 = 1 1
+any Administration = 1915 = 1 1
+James Zogby of the Arab  American Institute = 1916 = 1 1
+the old stadium, known affectionately as the House That Ruth  Built = 1917 = 1 1
+President Saddam Hussein's government = 1918 = 1 1
+killers = 1919 = 1 1
+Not enough housing for the poor = 1920 = 1 1
+nearly five million  Germans out of work = 1921 = 1 1
+troops = 1922 = 1 1
+senior officials = 1923 = 1 1
+the Indiana Pacers = 1924 = 1 1
+Ambassador Munir Akram = 1925 = 1 1
+supporters of the academy, including Ann  Robinson = 1926 = 1 1
+Many local residents = 1927 = 1 1
+Taleban = 1928 = 1 1
+independent counsel Ken Starr's office = 1929 = 1 1
+here in Kosovo = 1930 = 1 1
+secretary of state Albright = 1931 = 1 1
+San Diego = 1932 = 1 1
+those surveyed = 1933 = 1 1
+Some of his more aggressive prosecutors = 1934 = 1 1
+gays = 1935 = 1 1
+son Jakob = 1936 = 1 1
+The World's  Megan Cox Gerden = 1937 = 1 1
+hundreds of people from the US = 1938 = 1 1
+its owner, the Saudi  government = 1939 = 1 1
+Sherri Sylvester = 1940 = 1 1
+Mr. Speaker = 1941 = 1 1
+Faith Kinkel = 1942 = 1 1
+his  mistresses = 1943 = 1 1
+the cities  that have new baseball fields = 1944 = 1 1
+the big tobacco companies = 1945 = 1 1
+Iraq's deputy foreign minister = 1946 = 1 1
+Berlin = 1947 = 1 1
+Irish Catholic = 1948 = 1 1
+UK = 1949 = 1 1
+Bibbi = 1950 = 1 1
+Some residents of the mostly  white, mostly middle class area = 1951 = 1 1
+a senior Democrat up there = 1952 = 1 1
+human settlers = 1953 = 1 1
+an American puppet = 1954 = 1 1
+people in the southeastern United States = 1955 = 1 1
+two American  personalities = 1956 = 1 1
+Zhao = 1957 = 1 1
+the tallest building in China = 1958 = 1 1
+fifty-four percent of those surveyed = 1959 = 1 1
+a host of communist regimes = 1960 = 1 1
+a former independent counsel = 1961 = 1 1
+New York state = 1962 = 1 1
+few nations = 1963 = 1 1
+a lot of fabulous people = 1964 = 1 1
+travel agencies = 1965 = 1 1
+the Ritz Carlton = 1966 = 1 1
+a  friend of Rudolph = 1967 = 1 1
+liberals who say why should be we bailing out big banks = 1968 = 1 1
+Air France terminals = 1969 = 1 1
+Pitcher David Wells = 1970 = 1 1
+Dr. Kimberly Young, who specializes in neuropsychology = 1971 = 1 1
+O J Simpson = 1972 = 1 1
+millionaire Al Checchi = 1973 = 1 1
+a world power with a reach that extended to  the Philippines, Guam, and Puerto Rico = 1974 = 1 1
+eighty-five percent = 1975 = 1 1
+writers = 1976 = 1 1
+the special prosecutor = 1977 = 1 1
+three other colleges that offered full scholarships = 1978 = 1 1
+the second in command = 1979 = 1 1
+posters = 1980 = 1 1
+an intensely physical player who sways and  stomps and grimaces and even cries in the grip of her music making = 1981 = 1 1
+a stable democracy = 1982 = 1 1
+the United States of America = 1983 = 1 1
+the Democrats = 1984 = 1 1
+Catholic sections of Northern Ireland = 1985 = 1 1
+Outside experts = 1986 = 1 1
+a new interim government = 1987 = 1 1
+The NRA = 1988 = 1 1
+the Republican nominee  in nineteen sixty four = 1989 = 1 1
+American troops = 1990 = 1 1
+Badcova's civil liberties organization = 1991 = 1 1
+travelers in general = 1992 = 1 1
+the  Chinese New York City = 1993 = 1 1
+Martinsville,  Virginia = 1994 = 1 1
+Navy = 1995 = 1 1
+Japanese tabloids = 1996 = 1 1
+the tens of thousands = 1997 = 1 1
+the Black Sea = 1998 = 1 1
+the  two leaders = 1999 = 1 1
+the store  owner = 2000 = 1 1
+John Denver in  the children's music category = 2001 = 1 1
+The secretary of state = 2002 = 1 1
+Bonn = 2003 = 1 1
+other areas = 2004 = 1 1
+any showroom = 2005 = 1 1
+Israeli demonstrators  shouting Robin Cook go home = 2006 = 1 1
+the weak government in Madrid = 2007 = 1 1
+cat = 2008 = 1 1
+the uh opponents = 2009 = 1 1
+the British and Irish governments,  which co-sponsored the talks = 2010 = 1 1
+an expert on the market = 2011 = 1 1
+North Korea = 2012 = 1 1
+Richard Wagner = 2013 = 1 1
+Leon Panetta = 2014 = 1 1
+Two sources familiar with the independent counsel's investigation = 2015 = 1 1
+ABC's John Martin = 2016 = 1 1
+the Dow Jones = 2017 = 1 1
+the one  ally who has backed his threat of force, British prime  minister Tony Blair = 2018 = 1 1
+The EPA = 2019 = 1 1
+Democrat = 2020 = 1 1
+the lawyer representing Monica Lewinsky, William Ginsburg = 2021 = 1 1
+Orelon Sidney with your latest headline news weather update = 2022 = 1 1
+her husband, the President = 2023 = 1 1
+Manhattan = 2024 = 1 1
+a truly fine human being = 2025 = 1 1
+the Tokyo courts = 2026 = 1 1
+the Boilermakers = 2027 = 1 1
+Beijing University = 2028 = 1 1
+the northern California town of Rio Nido = 2029 = 1 1
+thirty-five hundred = 2030 = 1 1
+the boss = 2031 = 1 1
+a happy jail bird = 2032 = 1 1
+Hollywood's King James the first = 2033 = 1 1
+Her attorney, William Ginsburg = 2034 = 1 1
+Bogota = 2035 = 1 1
+Plattsburg, New York = 2036 = 1 1
+the West  Bank = 2037 = 1 1
+The winning driver = 2038 = 1 1
+the best athlete = 2039 = 1 1
+their home = 2040 = 1 1
+working parents = 2041 = 1 1
+both parts = 2042 = 1 1
+New York governor George Pataki = 2043 = 1 1
+the remains of Air Force pilot Michael Blassie = 2044 = 1 1
+Louise = 2045 = 1 1
+tobacco companies = 2046 = 1 1
+Columbia University in New York = 2047 = 1 1
+the groomed trail = 2048 = 1 1
+One senator = 2049 = 1 1
+another government department, the Veterans Administration = 2050 = 1 1
+Knutz = 2051 = 1 1
+Fathers = 2052 = 1 1
+Colombia = 2053 = 1 1
+a songwriter in the nineteen sixties = 2054 = 1 1
+the Pacific Ocean = 2055 = 1 1
+men in the lowest twenty-fifth percentile = 2056 = 1 1
+More than twenty five hundred people = 2057 = 1 1
+Sinn Fein leader Gerry Adams = 2058 = 1 1
+thousands of Middle Eastern strangers and terrorists = 2059 = 1 1
+Eric Rudolph = 2060 = 1 1
+Latin America = 2061 = 1 1
+The academy = 2062 = 1 1
+the geishas = 2063 = 1 1
+Sino = 2064 = 1 1
+Conchita Martinez = 2065 = 1 1
+Ju's predecessor Li Pung = 2066 = 1 1
+the twenty-seven batters he faced = 2067 = 1 1
+the Protestant Loyalists = 2068 = 1 1
+his city = 2069 = 1 1
+his  country = 2070 = 1 1
+Rutgers  university = 2071 = 1 1
+Pope John Paul = 2072 = 1 1
+real estate = 2073 = 1 1
+nationalists = 2074 = 1 1
+My family = 2075 = 1 1
+VOA's Martin Bush in New York = 2076 = 1 1
+The Independent in Moscow = 2077 = 1 1
+a  teenage girl = 2078 = 1 1
+the people's consultative  assembly = 2079 = 1 1
+The wildcats = 2080 = 1 1
+this North Carolina restaurant = 2081 = 1 1
+Only twenty-one percent of today's freshmen = 2082 = 1 1
+head coach Mike Murphy = 2083 = 1 1
+Tess Johnston = 2084 = 1 1
+military ruler Sani Abacha = 2085 = 1 1
+Aviation industry experts = 2086 = 1 1
+Britons = 2087 = 1 1
+countries that sponsor terrorism = 2088 = 1 1
+north sea = 2089 = 1 1
+San Cristobal De Las  Casas in Chiapas, Mexico = 2090 = 1 1
+Medical researchers = 2091 = 1 1
+an honest person who tried = 2092 = 1 1
+the Leafs = 2093 = 1 1
+Doctors = 2094 = 1 1
+Iraq's foreign minister = 2095 = 1 1
+the pilot = 2096 = 1 1
+all scorers = 2097 = 1 1
+relatives = 2098 = 1 1
+Ho Chi Minh = 2099 = 1 1
+those tapped by the grammy voters = 2100 = 1 1
+Saudi Arabian = 2101 = 1 1
+brain surgeons = 2102 = 1 1
+a man who grew up a Yankee fan = 2103 = 1 1
+Both = 2104 = 1 1
+Sachi Koto = 2105 = 1 1
+jazz educators = 2106 = 1 1
+the people's congress = 2107 = 1 1
+the  US Navy = 2108 = 1 1
+Belfast's ordinary folks = 2109 = 1 1
+an outspoken supporter  of a woman's right to have an abortion = 2110 = 1 1
+a serious presidential contender = 2111 = 1 1
+our mystery destination = 2112 = 1 1
+Bryan Foods = 2113 = 1 1
+Elisa DeCarlo = 2114 = 1 1
+his military counterpart = 2115 = 1 1
+Paul  Pierce = 2116 = 1 1
+the north south cross border bodies which will have  some powers, obviously, and an- an overview of the situation within the island of  Ireland = 2117 = 1 1
+every one of his sponsors = 2118 = 1 1
+one more = 2119 = 1 1
+Mr. Cook = 2120 = 1 1
+Only nineteen percent of the teachers surveyed = 2121 = 1 1
+college = 2122 = 1 1
+Rudolph, who remains at large = 2123 = 1 1
+kids with guns = 2124 = 1 1
+former NBA great Bill Bradley = 2125 = 1 1
+Lakers = 2126 = 1 1
+the man who ordered the tanks into Tiananmen Square = 2127 = 1 1
+The chief UN weapons inspector = 2128 = 1 1
+my successor = 2129 = 1 1
+American kids = 2130 = 1 1
+foreign nationals in Chiapas = 2131 = 1 1
+Habibie = 2132 = 1 1
+people fleeing from the villages near where the  offensive was taking place = 2133 = 1 1
+Sloan Kettering Cancer Center = 2134 = 1 1
+Purdue = 2135 = 1 1
+Chinese communist leaders = 2136 = 1 1
+the population = 2137 = 1 1
+Nicaraguan = 2138 = 1 1
+Australian = 2139 = 1 1
+Only a handful of people who read Froistad's chilling words = 2140 = 1 1
+the  fans = 2141 = 1 1
+the International Monetary Fund = 2142 = 1 1
+more than half of Amtrak's passengers = 2143 = 1 1
+an American original = 2144 = 1 1
+dozens of homes = 2145 = 1 1
+One of his predecessors = 2146 = 1 1
+Simpson = 2147 = 1 1
+the sickest  patients = 2148 = 1 1
+a  utopian thinker = 2149 = 1 1
+a less expensive facility = 2150 = 1 1
+the West Bank = 2151 = 1 1
+Cuban civilians = 2152 = 1 1
+forty-three countries on four continents = 2153 = 1 1
+one of the last bastions of Communism anywhere in the world = 2154 = 1 1
+a Shanghai man = 2155 = 1 1
+Korean Airline = 2156 = 1 1
+each of the women = 2157 = 1 1
+Yankee Stadium = 2158 = 1 1
+The elder Venus = 2159 = 1 1
+Air Force Lieutenant Colonel Eileen Collins = 2160 = 1 1
+The transportation department = 2161 = 1 1
+a Princeton Tiger = 2162 = 1 1
+the Archives of Disease in  Childhood = 2163 = 1 1
+his doctors = 2164 = 1 1
+ABC's Mike Lee = 2165 = 1 1
+a great  many more Cubans = 2166 = 1 1
+Rusty Wallace = 2167 = 1 1
+Western European countries = 2168 = 1 1
+technology executives = 2169 = 1 1
+Alberto Tomba = 2170 = 1 1
+Americans who want to come  and, and learn, uh, from the communities how to live in a community,  how to take decisions among the community = 2171 = 1 1
+these fans = 2172 = 1 1
+Princess Di = 2173 = 1 1
+someone attractive = 2174 = 1 1
+Wei Jing Chung = 2175 = 1 1
+police departments = 2176 = 1 1
+a diminishing, a,  a, a diminishing presence in, in, Asia, uh, in, two decades time = 2177 = 1 1
+many more patients who are about to die of liver tra- uh without a liver  transplant = 2178 = 1 1
+Todd = 2179 = 1 1
+Bill Brodrick = 2180 = 1 1
+The people who  take part in these group discussions = 2181 = 1 1
+Mr. Netanyahu = 2182 = 1 1
+every other state except California = 2183 = 1 1
+people from Spain = 2184 = 1 1
+the Pea river = 2185 = 1 1
+the heart of Chiapas = 2186 = 1 1
+Dave Melton = 2187 = 1 1
+members of this community = 2188 = 1 1
+some of them = 2189 = 1 1
+the Yankee stores = 2190 = 1 1
+Leon Panetta, his former chief of staff = 2191 = 1 1
+good  Muslims = 2192 = 1 1
+the infamous maze prison = 2193 = 1 1
+two of the young correspondents who covered  his presidential campaign thirty five years ago = 2194 = 1 1
+some of these women = 2195 = 1 1
+Mr. Butler = 2196 = 1 1
+some unlikely heroes = 2197 = 1 1
+everybody in the airplane = 2198 = 1 1
+NewsCorp = 2199 = 1 1
+governments that are not democratically elected = 2200 = 1 1
+leaders of both political parties, including  President Clinton, whose wife, Hillary, worked for the Goldwater campaign  as a teenager = 2201 = 1 1
+the world's largest construction site = 2202 = 1 1
+the premier's office = 2203 = 1 1
+Lisa = 2204 = 1 1
+under age smokers = 2205 = 1 1
+the  most serious problem in Sino-American relations = 2206 = 1 1
+Residents of Grand Forks, North Dakota = 2207 = 1 1
+The people who did know = 2208 = 1 1
+fruitarians = 2209 = 1 1
+The private group that runs the current system, United Network for Organ  Sharing, or UNOS = 2210 = 1 1
+restaurants = 2211 = 1 1
+the  pilots = 2212 = 1 1
+members = 2213 = 1 1
+Twenty three percent = 2214 = 1 1
+the British and Irish Governments = 2215 = 1 1
+a husband = 2216 = 1 1
+some legendary composers = 2217 = 1 1
+any of a dozen top aides who, in order to stay out of trouble, is willing to say more privately than in public = 2218 = 1 1
+Loudon county officials = 2219 = 1 1
+Health and Human Services Secretary Do- Donna Shalala = 2220 = 1 1
+the new Welsh assembly which is also to, to be elected = 2221 = 1 1
+his house = 2222 = 1 1
+high ranking opponents = 2223 = 1 1
+Sampras = 2224 = 1 1
+Broadway stars = 2225 = 1 1
+here inside her Washington apartment = 2226 = 1 1
+ABC's Karla Davis = 2227 = 1 1
+twelve states which hold adults responsible for  wayward guns = 2228 = 1 1
+ABC's Mike von Fremd = 2229 = 1 1
+parent company of ABC = 2230 = 1 1
+Saddam Hussein's presidential palaces, which Iraq has declared off limits = 2231 = 1 1
+Richard Sakwa, professor of Russian  politics at Kent University here in Britain = 2232 = 1 1
+the world's population = 2233 = 1 1
+the  river = 2234 = 1 1
+a couple in Plattsburg, New York = 2235 = 1 1
+His wife = 2236 = 1 1
+listener G Francis Malleli = 2237 = 1 1
+its  predecessor, the League of Nations = 2238 = 1 1
+many experts = 2239 = 1 1
+engine manufacturers = 2240 = 1 1
+one of the nation's most prestigious universities = 2241 = 1 1
+Sonny Hyeth, the Director of Stadium Operations = 2242 = 1 1
+Ted Koppel = 2243 = 1 1
+the newsmaker here = 2244 = 1 1
+Lisa Salters, ABC News, Albuquerque = 2245 = 1 1
+upstate New York = 2246 = 1 1
+phenomenal  Brazilian guitarists = 2247 = 1 1
+hate mongers = 2248 = 1 1
+a team of real students = 2249 = 1 1
+two of the baby bells = 2250 = 1 1
+the press secretary = 2251 = 1 1
+supporters of the military leader = 2252 = 1 1
+The crews = 2253 = 1 1
+the Eastwind pilot = 2254 = 1 1
+a  close friend = 2255 = 1 1
+US West = 2256 = 1 1
+the long neglected city = 2257 = 1 1
+a  privately funded academy = 2258 = 1 1
+Others = 2259 = 1 1
+the key source for the Washington Post during their reporting of Watergate and President Nixon's downfall = 2260 = 1 1
+crew = 2261 = 1 1
+Historian Edward  Malifakis at Columbia University in New York = 2262 = 1 1
+the one = 2263 = 1 1
+Most travel agents = 2264 = 1 1
+two state highway patrol officers killed in last week's storms = 2265 = 1 1
+the last bastions of Communism anywhere in the world = 2266 = 1 1
+Former US Senator George Mitchell = 2267 = 1 1
+Nancy Reagan = 2268 = 1 1
+Aggressive people = 2269 = 1 1
+Italian = 2270 = 1 1
+its own society = 2271 = 1 1
+Democrat Chuck Robb = 2272 = 1 1
+the  forces = 2273 = 1 1
+more than thirty other countries = 2274 = 1 1
+a producer = 2275 = 1 1
+a close ally = 2276 = 1 1
+another American center, senator = 2277 = 1 1
+a slavish party  man = 2278 = 1 1
+the airline = 2279 = 1 1
+Pacific Northwest = 2280 = 1 1
+NPR news = 2281 = 1 1
+i- I = 2282 = 1 1
+representatives = 2283 = 1 1
+The President's Hollywood friend Harry Thomasson, who's given advice in the past on public relations = 2284 = 1 1
+CNN financial news = 2285 = 1 1
+Poland = 2286 = 1 1
+Iraq's deputy prime minister = 2287 = 1 1
+the darling of Western captains of industry who are keen  for a piece of the action in the world's largest captive market = 2288 = 1 1
+Alaska = 2289 = 1 1
+earth = 2290 = 1 1
+people in Germany = 2291 = 1 1
+the Cargil fertilizer plant = 2292 = 1 1
+negatives = 2293 = 1 1
+Treasury Secretary Robert Rubin = 2294 = 1 1
+the panel = 2295 = 1 1
+The  department = 2296 = 1 1
+Mr. Simpson = 2297 = 1 1
+these, uh, pro Zapatista communities = 2298 = 1 1
+our southeast news bureau = 2299 = 1 1
+a sponsor = 2300 = 1 1
+people who are uh capable and also respond = 2301 = 1 1
+conservatives = 2302 = 1 1
+Spice girls = 2303 = 1 1
+Tony = 2304 = 1 1
+many of the people, including women and children = 2305 = 1 1
+Blue Cross Blue Shield = 2306 = 1 1
+The office of the High Commission for Human Rights in Belgrade = 2307 = 1 1
+Mickey Kantor, the former Commerce secretary = 2308 = 1 1
+the current number one team in the country, the University of North Carolina = 2309 = 1 1
+The people of Northern Ireland = 2310 = 1 1
+an  individual = 2311 = 1 1
+the allies = 2312 = 1 1
+senior Chinese officers = 2313 = 1 1
+the state he made famous = 2314 = 1 1
+an energetic violin soloist = 2315 = 1 1
+legal adviser to the President who says the most he ever did for Lewinsky is offer some job and legal referrals = 2316 = 1 1
+La Crosse = 2317 = 1 1
+few buyers = 2318 = 1 1
+the general accounting office = 2319 = 1 1
+the ski patrol = 2320 = 1 1
+One  leading intellectual, Ortega Igaset = 2321 = 1 1
+students in other areas = 2322 = 1 1
+some taxpayers = 2323 = 1 1
+three of his buyers = 2324 = 1 1
+representatives of the Irish  Republican Army = 2325 = 1 1
+Some analysts = 2326 = 1 1
+the source = 2327 = 1 1
+some leading film score composers = 2328 = 1 1
+people with the disease = 2329 = 1 1
+Napoleon = 2330 = 1 1
+his monitoring teams = 2331 = 1 1
+South Lake Tahoe, California = 2332 = 1 1
+Russians = 2333 = 1 1
+The driver = 2334 = 1 1
+Crews = 2335 = 1 1
+an Army pilot during World War two = 2336 = 1 1
+the frozen plains = 2337 = 1 1
+American  football conference = 2338 = 1 1
+those = 2339 = 1 1
+the slope = 2340 = 1 1
+this  province = 2341 = 1 1
+the leaders of this pro Zapatista  communities = 2342 = 1 1
+here in San Cristobal = 2343 = 1 1
+Kantges = 2344 = 1 1
+The entire world = 2345 = 1 1
+Wynton Marsalis, who teaches at Lincoln Center = 2346 = 1 1
+much of the world = 2347 = 1 1
+customers = 2348 = 1 1
+companies such as Microsoft or a combined worldcom MCI = 2349 = 1 1
+VOA's Paula Wolfson = 2350 = 1 1
+infants they say died because of the sanctions = 2351 = 1 1
+the mid Rockies = 2352 = 1 1
+Human rights groups = 2353 = 1 1
+the five UN  security council members = 2354 = 1 1
+these wartime  brothels where women were forced into prostitution for the pleasure of  Japanese military = 2355 = 1 1
+the Red River = 2356 = 1 1
+an adult = 2357 = 1 1
+veteran pilot Dick Rutan = 2358 = 1 1
+the gulf = 2359 = 1 1
+weapons inspection teams = 2360 = 1 1
+Rome's Olympic stadium = 2361 = 1 1
+not one player from last year's team = 2362 = 1 1
+The Clinton Administration = 2363 = 1 1
+Laurel = 2364 = 1 1
+an island insulated from the telecommunications problems of the  rest of the world = 2365 = 1 1
+her properties, worth a hundred thirty million dollars in October = 2366 = 1 1
+cellist Julian Lloyd Weber = 2367 = 1 1
+Mount Vernon, Virginia = 2368 = 1 1
+one of Communism's most effective adversaries = 2369 = 1 1
+a popular entertainer = 2370 = 1 1
+your father = 2371 = 1 1
+human rights activists = 2372 = 1 1
+the German electorate = 2373 = 1 1
+those people who  want a united Ireland = 2374 = 1 1
+several important witnesses = 2375 = 1 1
+developing countries = 2376 = 1 1
+the BBC world Service = 2377 = 1 1
+adults in this country, as there are today, who uh will want to smoke and enjoy smoking = 2378 = 1 1
+a better skier = 2379 = 1 1
+Mr. Starr = 2380 = 1 1
+the independent counsel himself = 2381 = 1 1
+co-pilot Dave Melton = 2382 = 1 1
+Investors = 2383 = 1 1
+Ronald Noble, professor of law at New York University = 2384 = 1 1
+a stranger = 2385 = 1 1
+the reigning king  of Hollywood = 2386 = 1 1
+The organization = 2387 = 1 1
+brothels = 2388 = 1 1
+Some drivers we spoke with = 2389 = 1 1
+BBC UN  correspondent Rob Watson = 2390 = 1 1
+fifty thousand people = 2391 = 1 1
+dozens of creeks and rivers = 2392 = 1 1
+the lake bed = 2393 = 1 1
+the President of the United States = 2394 = 1 1
+fifteen states = 2395 = 1 1
+The  world's oldest person = 2396 = 1 1
+the British prime minister = 2397 = 1 1
+Spanish troops = 2398 = 1 1
+the former intern = 2399 = 1 1
+Jack = 2400 = 1 1
+the Arizona capitol = 2401 = 1 1
+The Is- the Israeli leader, Benjamin Netanyahu = 2402 = 1 1
+Americans surveyed = 2403 = 1 1
+foreign  nationals in Chiapas = 2404 = 1 1
+A national governors' association task force = 2405 = 1 1
+Some two million  soccer fans = 2406 = 1 1
+President Clinton, whose wife, Hillary, worked for the Goldwater campaign  as a teenager = 2407 = 1 1
+anywhere in the United States = 2408 = 1 1
+Most = 2409 = 1 1
+artists = 2410 = 1 1
+that rebellious island = 2411 = 1 1
+industry scientist who leaked industry secrets = 2412 = 1 1
+a shopkeeper = 2413 = 1 1
+the Arab American institute = 2414 = 1 1
+her  spokesman, James Rubin who said to reporters a little bit later on that, ah,  that the optimism was not high based on the evidence that uh has been seen so  far, but they're going to continue to work at it, th- ah, meaning the United  States = 2415 = 1 1
+the streets of this city = 2416 = 1 1
+U two = 2417 = 1 1
+Seoul = 2418 = 1 1
+Miami, Florida = 2419 = 1 1
+ordinary Cuban citizens = 2420 = 1 1
+half  of those questioned = 2421 = 1 1
+whole United States = 2422 = 1 1
+the British foreign secretary = 2423 = 1 1
+northern portions of Montana = 2424 = 1 1
+his top advisors = 2425 = 1 1
+the police = 2426 = 1 1
+home owners = 2427 = 1 1
+an interdependent world = 2428 = 1 1
+ABC's Richard Gizbert = 2429 = 1 1
+people of Afghanistan = 2430 = 1 1
+one country = 2431 = 1 1
+a battle zone = 2432 = 1 1
+the celtics = 2433 = 1 1
+Wells, who will turn thirty-five this week = 2434 = 1 1
+West Africa = 2435 = 1 1
+French men = 2436 = 1 1
+most of the world = 2437 = 1 1
+WGBH  in Boston = 2438 = 1 1
+Spanish  politicians = 2439 = 1 1
+Ryan Klesko = 2440 = 1 1
+the most  needy patients = 2441 = 1 1
+Serbia = 2442 = 1 1
+Deep Throat, the key source for the Washington Post during their reporting of Watergate and President Nixon's downfall = 2443 = 1 1
+the Pacific northwest = 2444 = 1 1
+Arizona Wildcats = 2445 = 1 1
+John Martin = 2446 = 1 1
+President Clinton's closest advisors = 2447 = 1 1
+the road here = 2448 = 1 1
+The thirteen year old girl = 2449 = 1 1
+The crooks = 2450 = 1 1
+Mickey Stone of Westborough Massachusetts = 2451 = 1 1
+more business travelers = 2452 = 1 1
+terrorist groups = 2453 = 1 1
+their newspapers = 2454 = 1 1
+four = 2455 = 1 1
+communist governments = 2456 = 1 1
+these sources = 2457 = 1 1
+chapters of the so called Christian  Identity Movement which cites Biblical scripture as a foundation for a  belief in white supremacy and anti-semitism = 2458 = 1 1
+mourners = 2459 = 1 1
+Dick Rutan = 2460 = 1 1
+somebody else = 2461 = 1 1
+many IRS offices across the  country = 2462 = 1 1
+a senior source = 2463 = 1 1
+the administration = 2464 = 1 1
+county board of supervisors = 2465 = 1 1
+this dried out lake bed = 2466 = 1 1
+the ILO = 2467 = 1 1
+Cambodia = 2468 = 1 1
+seventy-nine percent = 2469 = 1 1
+additional groups = 2470 = 1 1
+much of the US = 2471 = 1 1
+Sarah  Chaise = 2472 = 1 1
+people from  the US here in San Cristobal who were ready to travel to some of the  communities = 2473 = 1 1
+most people = 2474 = 1 1
+a elementary school band = 2475 = 1 1
+a lawyer involved with international technology issues = 2476 = 1 1
+that source = 2477 = 1 1
+governors hungry for more tax revenue, despite a White House  request for a moratorium on internet taxes = 2478 = 1 1
+companies  around the world = 2479 = 1 1
+Employees in New York, New Jersey, California, Illinois and Minnesota = 2480 = 1 1
+their team = 2481 = 1 1
+Tsaritsyn = 2482 = 1 1
+Lake Placid = 2483 = 1 1
+Half of these = 2484 = 1 1
+Arab = 2485 = 1 1
+nearby homes = 2486 = 1 1
+Rob Watson = 2487 = 1 1
+Defense = 2488 = 1 1
+The Spanish government = 2489 = 1 1
+Barnesville, Georgia, which used to be the horse buggy capital of the  south = 2490 = 1 1
+no  other country in the world where the human rights violations are so  extreme, but where there has been no international scrutiny, let alone action = 2491 = 1 1
+these two characters = 2492 = 1 1
+seven year old Nasheva = 2493 = 1 1
+north  Carolina = 2494 = 1 1
+the  kids = 2495 = 1 1
+one critic = 2496 = 1 1
+a combined worldcom MCI = 2497 = 1 1
+Smokers = 2498 = 1 1
+the county board of supervisors = 2499 = 1 1
+the two balloonists = 2500 = 1 1
+Mr. Reagan = 2501 = 1 1
+part of Great Britain = 2502 = 1 1
+Robin Cook = 2503 = 1 1
+Missouri = 2504 = 1 1
+my party = 2505 = 1 1
+Some families = 2506 = 1 1
+Mark Hayes, a historian with the  US Navy = 2507 = 1 1
+his brother = 2508 = 1 1
+Jane  Clayson, who has the details of the accident = 2509 = 1 1
+this woman = 2510 = 1 1
+law enforcement sources = 2511 = 1 1
+five states in the  Democratic South = 2512 = 1 1
+The ethnic  Albanians here in Kosovo = 2513 = 1 1
+the European  Union, on whose behalf the foreign secretary is making his  Middle East tour = 2514 = 1 1
+Billy Joel = 2515 = 1 1
+mayor = 2516 = 1 1
+The team = 2517 = 1 1
+opponents = 2518 = 1 1
+the sea shore = 2519 = 1 1
+female teens = 2520 = 1 1
+an important social thinker of the mid nineteenth  century whose ideas were taken up in uh certain peripheral countries, the third world,  uh Russia, uh eastern Europe, in a different way, China = 2521 = 1 1
+a NASA astronaut = 2522 = 1 1
+TWA pilot Steven Snyder = 2523 = 1 1
+the Golden Gate Bridge = 2524 = 1 1
+five more members = 2525 = 1 1
+the mideast = 2526 = 1 1
+the Israeli government which  regards the area as permanent Israeli territory = 2527 = 1 1
+the federal building in Oklahoma city = 2528 = 1 1
+his more aggressive prosecutors = 2529 = 1 1
+young men = 2530 = 1 1
+a  midwesterner = 2531 = 1 1
+Yergei Federov = 2532 = 1 1
+Miles Davis = 2533 = 1 1
+the First Lady = 2534 = 1 1
+Rex Chapman = 2535 = 1 1
+the baby = 2536 = 1 1
+The remaining lawyers = 2537 = 1 1
+Jamison = 2538 = 1 1
+American's = 2539 = 1 1
+Athletico Madrid of Spain = 2540 = 1 1
+a former Marine captain who served in the Persian Gulf War = 2541 = 1 1
+newspaper columnists = 2542 = 1 1
+a fertile farm and mining community = 2543 = 1 1
+a middle school  library in New York state = 2544 = 1 1
+the pro Zapatista communities = 2545 = 1 1
+two hundred and fifty million such children = 2546 = 1 1
+a city in Afghanistan with a glorious past = 2547 = 1 1
+women's families = 2548 = 1 1
+permanent Israeli territory = 2549 = 1 1
+the former Chinese party leader, Zhao Zujang = 2550 = 1 1
+the Congress = 2551 = 1 1
+FBI director Louie Freeh = 2552 = 1 1
+Mr. Akram = 2553 = 1 1
+the Russians = 2554 = 1 1
+there majority who believe, and I think as I believe, that the  United States is committed to Asia probably more than it's committed to Europe = 2555 = 1 1
+the analysts = 2556 = 1 1
+a national government of  Japan = 2557 = 1 1
+the European Union = 2558 = 1 1
+one of these, uh, pro Zapatista communities = 2559 = 1 1
+the ninth US circuit court of appeals = 2560 = 1 1
+Fifty-one percent = 2561 = 1 1
+Yankees = 2562 = 1 1
+World Bank = 2563 = 1 1
+Major League = 2564 = 1 1
+the agents = 2565 = 1 1
+such high profile  dissidents = 2566 = 1 1
+the horse buggy capital of the  south = 2567 = 1 1
+A Japanese court = 2568 = 1 1
+Maeur = 2569 = 1 1
+IRS employees at many IRS offices across the  country = 2570 = 1 1
+the  team = 2571 = 1 1
+cafes = 2572 = 1 1
+former senator Barry Goldwater of Arizona = 2573 = 1 1
+two policemen = 2574 = 1 1
+the warriors = 2575 = 1 1
+the security council = 2576 = 1 1
+each character = 2577 = 1 1
+the nation's  capitol = 2578 = 1 1
+Mr.  Netanyahu = 2579 = 1 1
+their bedrooms = 2580 = 1 1
+passengers at US airports = 2581 = 1 1
+the leader of the Protestant Loyalists, who favors retaining links with Britain = 2582 = 1 1
+anyone who believed in her innocence = 2583 = 1 1
+That = 2584 = 1 1
+The school's superintendent = 2585 = 1 1
+Jonathan Karl = 2586 = 1 1
+competitors = 2587 = 1 1
+Michelle Kwan = 2588 = 1 1
+Princeton University = 2589 = 1 1
+the Democratic party = 2590 = 1 1
+workmen = 2591 = 1 1
+racers = 2592 = 1 1
+everyone who has benefited = 2593 = 1 1
+Iraq's president Saddam Hussein = 2594 = 1 1
+the American League = 2595 = 1 1
+the theaters = 2596 = 1 1
+the teachers surveyed = 2597 = 1 1
+President Bush = 2598 = 1 1
+Seven thousand  people = 2599 = 1 1
+a supposedly segregated prison = 2600 = 1 1
+the  International Working Group on Afghan Women = 2601 = 1 1
+Mrs. Albright = 2602 = 1 1
+one group of moviegoers in particular = 2603 = 1 1
+the world's biggest liar = 2604 = 1 1
+US  politicians = 2605 = 1 1
+The man in charge of it all, the newsmaker here = 2606 = 1 1
+a Pope = 2607 = 1 1
+His sister, twenty-one year old Kristin Kinkel = 2608 = 1 1
+The world's most powerful banker = 2609 = 1 1
+These seven year olds = 2610 = 1 1
+many  people = 2611 = 1 1
+the country's huge bureaucracy = 2612 = 1 1
+more than five thousand of them, including Alice Featherstone = 2613 = 1 1
+VOA news = 2614 = 1 1
+member station KQED = 2615 = 1 1
+the GAO = 2616 = 1 1
+a democracy = 2617 = 1 1
+no professional leagues for them to move on to = 2618 = 1 1
+Inspectors = 2619 = 1 1
+Britain's first minister for Northern Ireland to set foot in the infamous maze prison = 2620 = 1 1
+federal  court = 2621 = 1 1
+no one, including  government regulators = 2622 = 1 1
+school in  Ashburn = 2623 = 1 1
+Doctor James Burdick, the Professor of Transplant Surgery at Johns Hopkins  University Hospital in Baltimore, Maryland = 2624 = 1 1
+the nearest  motels = 2625 = 1 1
+his own party = 2626 = 1 1
+General Electric, which owns NBC = 2627 = 1 1
+Huskies = 2628 = 1 1
+two hookers = 2629 = 1 1
+the lawyers = 2630 = 1 1
+some very talented young people = 2631 = 1 1
+a Yankee fan = 2632 = 1 1
+rivals = 2633 = 1 1
+Delhi = 2634 = 1 1
+the good ski resorts there = 2635 = 1 1
+America's ski slopes = 2636 = 1 1
+Che Guevara = 2637 = 1 1
+a community = 2638 = 1 1
+a phony medical equipment business = 2639 = 1 1
+University of Kansas = 2640 = 1 1
+best director = 2641 = 1 1
+Yankee legends like Ruth and Gehrig = 2642 = 1 1
+the composer for such movies as Flirting with Disaster, and the upcoming Shakespeare's Sister = 2643 = 1 1
+the FAA  administrator = 2644 = 1 1
+the Carolinas = 2645 = 1 1
+Rudolph's storage shed in north Carolina = 2646 = 1 1
+the first person to greet the Pope when he arrives here in Havana = 2647 = 1 1
+the new uh Scottish Parliament which  is to be, to be formed = 2648 = 1 1
+the soggy south = 2649 = 1 1
+many dealers = 2650 = 1 1
+the global stock markets = 2651 = 1 1
+Sinn  Fein chairman Mitchell McLaughlin = 2652 = 1 1
+The company's sales force = 2653 = 1 1
+General Sani Abacha = 2654 = 1 1
+the Tomb of the Unknown from the Vietnam War = 2655 = 1 1
+Ruth = 2656 = 1 1
+a  dangerous extremist = 2657 = 1 1
+the convict = 2658 = 1 1
+The board = 2659 = 1 1
+a jazz player = 2660 = 1 1
+northern Indiana = 2661 = 1 1
+his conservative political supporters = 2662 = 1 1
+nine percent uh of the west bank = 2663 = 1 1
+a top Muslim leader in southern Russia = 2664 = 1 1
+The generation  of eighteen ninety-eight = 2665 = 1 1
+the armed forces = 2666 = 1 1
+the  stadium that was built in nineteen twenty-three = 2667 = 1 1
+the summit of Everest = 2668 = 1 1
+the NBA = 2669 = 1 1
+Jim Teple = 2670 = 1 1
+several firefighters = 2671 = 1 1
+the Gulf coast = 2672 = 1 1
+a medium power = 2673 = 1 1
+the  countries that use them = 2674 = 1 1
+Sonics = 2675 = 1 1
+Your = 2676 = 1 1
+co-author of the study = 2677 = 1 1
+number twelve Anna Kournikova = 2678 = 1 1
+Such good people of such deep faith = 2679 = 1 1
+those  surveyed = 2680 = 1 1
+the senior vice president of Philip Morris = 2681 = 1 1
+five counties that have been declared under a state of emergency = 2682 = 1 1
+one member = 2683 = 1 1
+About the same number of people = 2684 = 1 1
+FEMA = 2685 = 1 1
+Amnesty's director of legal affairs, Nicholas Howen = 2686 = 1 1
+the French national carrier = 2687 = 1 1
+Hundreds of people = 2688 = 1 1
+the Texas and Oklahoma panhandles = 2689 = 1 1
+Americans who reached into their memory books to recall  a story about him = 2690 = 1 1
+Spanish  soil = 2691 = 1 1
+its  suppliers = 2692 = 1 1
+the houses here = 2693 = 1 1
+Ritter, a former Marine captain who served in the Persian Gulf War = 2694 = 1 1
+Derek Coleman = 2695 = 1 1
+Triple A = 2696 = 1 1
+a lot of folks = 2697 = 1 1
+an intimate guy = 2698 = 1 1
+some ninety-five percent of  the French national carrier's pilots = 2699 = 1 1
+an unnamed city  in the US heartland = 2700 = 1 1
+The state treasurer = 2701 = 1 1
+the assembly = 2702 = 1 1
+Ted = 2703 = 1 1
+a group of newspaper columnists = 2704 = 1 1
+nations = 2705 = 1 1
+the Oval Office = 2706 = 1 1
+the Colombian  capital, Bogota = 2707 = 1 1
+a hundred square miles of dust = 2708 = 1 1
+only sixty countries = 2709 = 1 1
+Doctor Frederick Rivara = 2710 = 1 1
+prisons = 2711 = 1 1
+George Gershwin = 2712 = 1 1
+Kenneth Richards = 2713 = 1 1
+Hundreds of people in Springfield, Oregon = 2714 = 1 1
+federal aviation administration = 2715 = 1 1
+more parents = 2716 = 1 1
+the United Nation's drug  czar, Pino Arlacchi = 2717 = 1 1
+General Motors = 2718 = 1 1
+the bureau of alcohol, tobacco  and firearms = 2719 = 1 1
+the peaceful European country Spain is today = 2720 = 1 1
+eight American presidents = 2721 = 1 1
+Latin  America = 2722 = 1 1
+a study volunteer = 2723 = 1 1
+your wife = 2724 = 1 1
+Former president Jimmy Carter = 2725 = 1 1
+strong institutions = 2726 = 1 1
+the Communist party = 2727 = 1 1
+some Chinese = 2728 = 1 1
+the UN security  council = 2729 = 1 1
+House minority leader = 2730 = 1 1
+First Team = 2731 = 1 1
+Sections of southern Georgia and Alabama = 2732 = 1 1
+the sensational American  press of the day = 2733 = 1 1
+the head coach of the  six time world champion Chicago Bulls, of the National Basketball  Association = 2734 = 1 1
+a frenzied crowd of reporters = 2735 = 1 1
+Cuban Catholics = 2736 = 1 1
+Venus = 2737 = 1 1
+the Owens River, which fed Owens Lake = 2738 = 1 1
+Professor Noble, who used to be the Treasury Department official who supervised the Secret Service during   at least one part of the Clinton administration = 2739 = 1 1
+His group = 2740 = 1 1
+Korean = 2741 = 1 1
+Transportation = 2742 = 1 1
+Europe's longest serving leader = 2743 = 1 1
+the trial judge = 2744 = 1 1
+their parents = 2745 = 1 1
+the Minnesota Twins = 2746 = 1 1
+Saben = 2747 = 1 1
+a  great people = 2748 = 1 1
+a protected site for its beauty and its  historical significance = 2749 = 1 1
+the Islamic Saudi academy in Mount Vernon, Virginia = 2750 = 1 1
+Western European = 2751 = 1 1
+the lower Great Lakes = 2752 = 1 1
+the  Democratic South = 2753 = 1 1
+the world's next big thinker = 2754 = 1 1
+the front runner = 2755 = 1 1
+Rick Stovall = 2756 = 1 1
+a New York-based scientist = 2757 = 1 1
+American companies = 2758 = 1 1
+many small children = 2759 = 1 1
+her former attorney = 2760 = 1 1
+the parties = 2761 = 1 1
+a soloist = 2762 = 1 1
+the home of the New York  Mets = 2763 = 1 1
+those three territories = 2764 = 1 1
+Roger Wilkison = 2765 = 1 1
+Spanish newspapers = 2766 = 1 1
+labor  unions = 2767 = 1 1
+the French News  Agency = 2768 = 1 1
+a mentally impaired  mother = 2769 = 1 1
+eighty-five percent of employees = 2770 = 1 1
+an  unarmed taxi driver = 2771 = 1 1
+Tripp = 2772 = 1 1
+Mr. Jackson = 2773 = 1 1
+the customer = 2774 = 1 1
+The Clippers = 2775 = 1 1
+the country to the south = 2776 = 1 1
+Middle Eastern strangers = 2777 = 1 1
+southern Russia = 2778 = 1 1
+One US official = 2779 = 1 1
+the prime candidate to succeed him = 2780 = 1 1
+Her fifty-two year old mother = 2781 = 1 1
+the  tiny town of Keeler = 2782 = 1 1
+several communities = 2783 = 1 1
+BBC's UN's correspondent = 2784 = 1 1
+Doug Christie = 2785 = 1 1
+about two million American children = 2786 = 1 1
+the Vice President = 2787 = 1 1
+Our stations = 2788 = 1 1
+one Democrat = 2789 = 1 1
+a four year old boy = 2790 = 1 1
+the residents = 2791 = 1 1
+everyone from Johnny Cash to The Beatles = 2792 = 1 1
+More people = 2793 = 1 1
+all uh th- the comfort women = 2794 = 1 1
+a part of Shanghai called Pudong  photographed eight years ago = 2795 = 1 1
+professionals = 2796 = 1 1
+several magazines aimed at teens = 2797 = 1 1
+Pristina = 2798 = 1 1
+Stanford University = 2799 = 1 1
+the remains in the tomb = 2800 = 1 1
+Knoxville, Tennessee = 2801 = 1 1
+good friends = 2802 = 1 1
+hawks = 2803 = 1 1
+their bases = 2804 = 1 1
+his east Jakarta home = 2805 = 1 1
+Lynne = 2806 = 1 1
+the Wings = 2807 = 1 1
+the  six time world champion Chicago Bulls, of the National Basketball  Association = 2808 = 1 1
+this man = 2809 = 1 1
+Peoples = 2810 = 1 1
+Treasury Department = 2811 = 1 1
+White House chief of  staff Erskine Bowles = 2812 = 1 1
+her father, Larry = 2813 = 1 1
+a beautiful place = 2814 = 1 1
+the media lab at MIT = 2815 = 1 1
+five buyers = 2816 = 1 1
+The chief UN weapons inspector, who has been talking with senior Iraqi officials = 2817 = 1 1
+Mirabel Airport = 2818 = 1 1
+forensic experts = 2819 = 1 1
+Christians = 2820 = 1 1
+its airspace = 2821 = 1 1
+the terrorists suspected of  blowing up Pan Am flight one oh three over Scotland = 2822 = 1 1
+smokers = 2823 = 1 1
+many people here = 2824 = 1 1
+Jazz teachers = 2825 = 1 1
+hate groups in the  United States = 2826 = 1 1
+Luther  Allison = 2827 = 1 1
+lots of people from Spain = 2828 = 1 1
+the premier = 2829 = 1 1
+former Spanish ambassador to  Washington, Jaime Ojeida = 2830 = 1 1
+Joseph Nye, dean of Kennedy School of Government at Harvard,  and former assistant secretary of defense for international  security affairs = 2831 = 1 1
+the sickest people = 2832 = 1 1
+the National Basketball  Association = 2833 = 1 1
+the station = 2834 = 1 1
+her  home town of Richmond = 2835 = 1 1
+new facilities = 2836 = 1 1
+Marine = 2837 = 1 1
+those who disdain democracy = 2838 = 1 1
+VOA's Jim Teple = 2839 = 1 1
+buyers = 2840 = 1 1
+The tabloids = 2841 = 1 1
+The United Nations = 2842 = 1 1
+A good journalist = 2843 = 1 1
+Persian Gulf = 2844 = 1 1
+a nervous wreck = 2845 = 1 1
+teens = 2846 = 1 1
+a virtual family = 2847 = 1 1
+A majority of Americans surveyed = 2848 = 1 1
+the major powers = 2849 = 1 1
+The International Monetary Fund = 2850 = 1 1
+A White House spokesman = 2851 = 1 1
+Exhibitors = 2852 = 1 1
+parties to  this agreement = 2853 = 1 1
+all assembly members = 2854 = 1 1
+a city visited by Alexander the great and Gengis Kahn = 2855 = 1 1
+Mr. President = 2856 = 1 1
+a small group of people who like eating the same foods as most of  us, minus the preparation = 2857 = 1 1
+king of Spain = 2858 = 1 1
+children from Africa, Asia, and  Latin America = 2859 = 1 1
+Revolution Square = 2860 = 1 1
+Harvard University = 2861 = 1 1
+a group called the  International Working Group on Afghan Women = 2862 = 1 1
+Colonel  Collins = 2863 = 1 1
+several cities, including New York, London, Tokyo and  Hong Kong = 2864 = 1 1
+the fundamentalist Taleban government = 2865 = 1 1
+Kent University here in Britain = 2866 = 1 1
+the run = 2867 = 1 1
+the living room in in uh middle America = 2868 = 1 1
+the focus of attention in Northern Ireland today = 2869 = 1 1
+ABC's Aaron Brown = 2870 = 1 1
+people who are willing to speak out = 2871 = 1 1
+Raef LaFrance = 2872 = 1 1
+Dale Earnhardt = 2873 = 1 1
+a security council  where there're some divisions among the major powers = 2874 = 1 1
+US airports = 2875 = 1 1
+the capital of Serbia = 2876 = 1 1
+Lisa McRee = 2877 = 1 1
+Mr.  Clinton = 2878 = 1 1
+Richard Butler = 2879 = 1 1
+people telling confidences of the president = 2880 = 1 1
+Myla = 2881 = 1 1
+a handsome man = 2882 = 1 1
+Belfast, Northern Ireland = 2883 = 1 1
+the  council = 2884 = 1 1
+This place = 2885 = 1 1
+other parts of the world = 2886 = 1 1
+politicians here = 2887 = 1 1
+a suspect = 2888 = 1 1
+This wine producing village = 2889 = 1 1
+representatives from more than thirty other countries = 2890 = 1 1
+ABC's legal correspondent Terry Moran = 2891 = 1 1
+a nearby ad agency = 2892 = 1 1
+scholar athlete = 2893 = 1 1
+fourth seed Steffi Graf = 2894 = 1 1
+the Earth = 2895 = 1 1
+Nicole Bobek = 2896 = 1 1
+a juvenile detention facility = 2897 = 1 1
+the basement = 2898 = 1 1
+anywhere in the world = 2899 = 1 1
+Edward Kennedy = 2900 = 1 1
+her parents = 2901 = 1 1
+another interim government less tied to  Mr. Suharto = 2902 = 1 1
+political  columnist with The Independent in Moscow = 2903 = 1 1
+director Barry Levinson = 2904 = 1 1
+the Mob = 2905 = 1 1
+some bars = 2906 = 1 1
+Detroit Redwings' star Sergei Federov = 2907 = 1 1
+one of the worst offending countries when it comes to religious  persecution = 2908 = 1 1
+The Cup is  Full = 2909 = 1 1
+Drivers = 2910 = 1 1
+parts of the South = 2911 = 1 1
+Sakwa = 2912 = 1 1
+sheriff = 2913 = 1 1
+Keating's employees at Lincoln savings and  loan = 2914 = 1 1
+the defending world champion Florida marlins = 2915 = 1 1
+baseball parks = 2916 = 1 1
+Jerry Stackhouse = 2917 = 1 1
+doubters = 2918 = 1 1
+NPR's Elaine Corey = 2919 = 1 1
+One of the old timers who had covered the White House since Franklin  Roosevelt's first term = 2920 = 1 1
+overseas = 2921 = 1 1
+the chamber = 2922 = 1 1
+US Vice President Al Gore = 2923 = 1 1
+ABC's John McWethy = 2924 = 1 1
+an intermediate run, the Orion trail = 2925 = 1 1
+Mr.  Gates = 2926 = 1 1
+the parties at the Belfast peace talks = 2927 = 1 1
+an elected Northern Ireland  Assembly = 2928 = 1 1
+the sole breadwinners = 2929 = 1 1
+great man = 2930 = 1 1
+an unnamed Chinese  commander = 2931 = 1 1
+geishas = 2932 = 1 1
+a highly  sensitive area = 2933 = 1 1
+Kigali, Rwanda = 2934 = 1 1
+potential witnesses = 2935 = 1 1
+The monarchy = 2936 = 1 1
+the largest US air carrier = 2937 = 1 1
+the  Lewinskys = 2938 = 1 1
+Helmut Kohl = 2939 = 1 1
+Nancy Marshall = 2940 = 1 1
+our government = 2941 = 1 1
+many like me = 2942 = 1 1
+A federal appeals court = 2943 = 1 1
+Nigeria state security service = 2944 = 1 1
+Springfield, Oregon = 2945 = 1 1
+Rock and Roll Hall of Fame = 2946 = 1 1
+This team = 2947 = 1 1
+Owens Valley, California = 2948 = 1 1
+the European Commission = 2949 = 1 1
+Every one of these big tobacco executives = 2950 = 1 1
+tobacco executive who you know well = 2951 = 1 1
+comfort women = 2952 = 1 1
+VOA's Roger Wilkison = 2953 = 1 1
+All families = 2954 = 1 1
+its God given empire = 2955 = 1 1
+whistle blowers, including industry scientist who leaked industry secrets = 2956 = 1 1
+tomorrow's New York Times = 2957 = 1 1
+Deputy prime minister Tariq Aziz = 2958 = 1 1
+Andre Agassi = 2959 = 1 1
+Yankee owner George  Steinbrenner = 2960 = 1 1
+all these unnamed people = 2961 = 1 1
+a mansion  overlooking the Pacific Ocean and the Golden Gate Bridge = 2962 = 1 1
+the prime ministers of  Britain and Ireland = 2963 = 1 1
+The northeastern United States = 2964 = 1 1
+many politicians who won't appreciate some of the cuts Ju is about to make = 2965 = 1 1
+the British province = 2966 = 1 1
+Arkin = 2967 = 1 1
+Many NASA watchers = 2968 = 1 1
+an enemy = 2969 = 1 1
+The Is- the Israeli leader = 2970 = 1 1
+the man who just made baseball  history = 2971 = 1 1
+British officials who preferred not to be  identified = 2972 = 1 1
+coworker, Linda Tripp = 2973 = 1 1
+a source = 2974 = 1 1
+Chinese authorities = 2975 = 1 1
+professor of Russian and European politics at Kent University in England = 2976 = 1 1
+the foreigners who you're talking about there = 2977 = 1 1
+One foreign correspondent = 2978 = 1 1
+Ms. Lewinsky = 2979 = 1 1
+the President of the United States of America, William Jefferson Clinton = 2980 = 1 1
+as many lives = 2981 = 1 1
+this jailed Protestant paramilitary leader = 2982 = 1 1
+Rwandan society = 2983 = 1 1
+a singer = 2984 = 1 1
+Richmond = 2985 = 1 1
+Ann Yeng = 2986 = 1 1
+children under fifteen = 2987 = 1 1
+friends  of Brit Irvin and Rick Stovall = 2988 = 1 1
+each  other = 2989 = 1 1
+anti-government  demonstrators who were protesting calls for military leader Sani Abacha to run for  president = 2990 = 1 1
+American newspapers = 2991 = 1 1
+the Irish = 2992 = 1 1
+downtown Havana = 2993 = 1 1
+the University of Puerto Rico = 2994 = 1 1
+a family in upstate New York = 2995 = 1 1
+the old timers who had covered the White House since Franklin  Roosevelt's first term = 2996 = 1 1
+Demonstrators = 2997 = 1 1
+many of these groups = 2998 = 1 1
+The Highway Patrol = 2999 = 1 1
+Elaine Whitfield Sharp = 3000 = 1 1
+Pearl Harbor = 3001 = 1 1
+three of us = 3002 = 1 1
+an honored guest = 3003 = 1 1
+Zhao Zujang = 3004 = 1 1
+the Rwandan Parliament = 3005 = 1 1
+the skiers who die = 3006 = 1 1
+only twenty six of them = 3007 = 1 1
+Federal Express = 3008 = 1 1
+Vince Baker = 3009 = 1 1
+presidential sites = 3010 = 1 1
+Harry Winston Jewelers on Fifth Avenue = 3011 = 1 1
+eighty-five grandchildren = 3012 = 1 1
+Nearby Shea Stadium = 3013 = 1 1
+one of the most conservative states in the country = 3014 = 1 1
+all those people over there = 3015 = 1 1
+your  home = 3016 = 1 1
+the cowboys = 3017 = 1 1
+senior Iraqi officials = 3018 = 1 1
+Graham Edson, in jail in Britain on fraud charges = 3019 = 1 1
+PRI, Public Radio International = 3020 = 1 1
+ABC's Brian Rooney = 3021 = 1 1
+the  girls = 3022 = 1 1
+Health and Human Services = 3023 = 1 1
+Secretary Albright = 3024 = 1 1
+the Internal Revenue Service = 3025 = 1 1
+the state department = 3026 = 1 1
+The ILO director for  child labor Asephy Bekhali = 3027 = 1 1
+millions of football fans all over the world = 3028 = 1 1
+Students like Steve Goodrich, a history major student with a three five grade point average = 3029 = 1 1
+someone who eats raw rather than cooked food = 3030 = 1 1
+a White House source = 3031 = 1 1
+her home, near Boston = 3032 = 1 1
+Dell = 3033 = 1 1
+those whose tools are bombs and bullets = 3034 = 1 1
+Most scientists = 3035 = 1 1
+victims of severe violations of human rights = 3036 = 1 1
+Princeton's coach = 3037 = 1 1
+these big tobacco executives = 3038 = 1 1
+Monica Lewinsky's White House intern class = 3039 = 1 1
+the prisoners = 3040 = 1 1
+The man at the helm of Titanic = 3041 = 1 1
+national governors' association = 3042 = 1 1
+Mao Tse-tung = 3043 = 1 1
+elements within John Hume's SDLP who perhaps ar- are looking in a  longer term, don't expect to see a united Ireland in the short term = 3044 = 1 1
+march participants = 3045 = 1 1
+campaign contributors = 3046 = 1 1
+Its child labor  expert at the UN, Tamina Janjoor = 3047 = 1 1
+American investors who bought uh who bought bonds or stocks in those companies = 3048 = 1 1
+the twenty  million people on Taiwan = 3049 = 1 1
+America's allies = 3050 = 1 1
+Teams like Texas, North Carolina State and Wake Forest = 3051 = 1 1
+New York's fastest growing borough = 3052 = 1 1
+a member of their immediate family = 3053 = 1 1
+Yasser Arafat = 3054 = 1 1
+Three and a half million civil servants = 3055 = 1 1
+A source = 3056 = 1 1
+the school yard = 3057 = 1 1
+Zeese's group = 3058 = 1 1
+the northeastern US = 3059 = 1 1
+The Toronto Maple Leafs = 3060 = 1 1
+here in America = 3061 = 1 1
+the countryside = 3062 = 1 1
+a hero = 3063 = 1 1
+another abortion clinic = 3064 = 1 1
+people who believe that Japan acted in a completely  justifiable way given that uh- it was a time of war = 3065 = 1 1
+the late princess Diana = 3066 = 1 1
+a good team = 3067 = 1 1
+his beloved military = 3068 = 1 1
+John Cochran = 3069 = 1 1
+some two million people = 3070 = 1 1
+a northern Ireland assembly which will be uh voted for on proportional  representation grounds = 3071 = 1 1
+current Yankee stars  like Knoblauch, Cone, and Williams = 3072 = 1 1
+San Cristobal  De Las Casas in the heart of Chiapas = 3073 = 1 1
+the UN  commission on human rights in Rwanda = 3074 = 1 1
+a Rutgers  university psychologist = 3075 = 1 1
+his former chief of staff = 3076 = 1 1
+crooks = 3077 = 1 1
+Gehrig = 3078 = 1 1
+Most observers = 3079 = 1 1
+American ambassador Charles Burke Elbrick = 3080 = 1 1
+The seven men who ran the tobacco industry almost four years ago = 3081 = 1 1
+most of the comfort women = 3082 = 1 1
+Australian leg spinner, Shane Warren = 3083 = 1 1
+Thousands of protesters = 3084 = 1 1
+Gala Leon Garcia = 3085 = 1 1
+the southeastern United States = 3086 = 1 1
+The President's lawyer = 3087 = 1 1
+England's rose = 3088 = 1 1
+Indians = 3089 = 1 1
+fellow  members of a problem drinkers support group = 3090 = 1 1
+Elton John = 3091 = 1 1
+the Ohio Valley = 3092 = 1 1
+the country's international lenders = 3093 = 1 1
+a female cardiologist = 3094 = 1 1
+Friends = 3095 = 1 1
+lawmakers = 3096 = 1 1
+Iowa = 3097 = 1 1
+Laurel designers Elizabeth Shwager = 3098 = 1 1
+an excellent uh secretary general = 3099 = 1 1
+the Orion trail = 3100 = 1 1
+Indiana = 3101 = 1 1
+Paul Beaver, an analyst with the respected Jane's Defense Publications in  London = 3102 = 1 1
+elderly residents = 3103 = 1 1
+northeastern Georgia = 3104 = 1 1
+Harry Thomasson, who's given advice in the past on public relations = 3105 = 1 1
+taxpayers = 3106 = 1 1
+a player = 3107 = 1 1
+a pilot from a nearby flight = 3108 = 1 1
+Valerie Morris in  New York = 3109 = 1 1
+Paducah = 3110 = 1 1
+the patient = 3111 = 1 1
+villages populated by ethnic  Albanians = 3112 = 1 1
+the  Nicaraguan contras = 3113 = 1 1
+An African man who died of the disease in nineteen fifty-nine = 3114 = 1 1
+Pierre Thomas = 3115 = 1 1
+the two countries = 3116 = 1 1
+thinkers who used the disaster  as a way to probe the deepest questions of Spanish identity = 3117 = 1 1
+Mr. Horn = 3118 = 1 1
+Dick Nixon = 3119 = 1 1
+New Mexico = 3120 = 1 1
+Alexei Pushkoff, political  columnist with The Independent in Moscow = 3121 = 1 1
+Peasants = 3122 = 1 1
+Robert Krulwich = 3123 = 1 1
+the central park in downtown Havana = 3124 = 1 1
+Paula Jones'  attorneys = 3125 = 1 1
+right here in town = 3126 = 1 1
+his staff = 3127 = 1 1
+Australia's cricket team = 3128 = 1 1
+the west's best = 3129 = 1 1
+Boeing aircraft = 3130 = 1 1
+Heavenly = 3131 = 1 1
+a rich, middle aged alcoholic woman = 3132 = 1 1
+the family  doctor = 3133 = 1 1
+women's groups = 3134 = 1 1
+some of the good ski resorts there = 3135 = 1 1
+drivers who speed  through red lights and stop signs = 3136 = 1 1
+a visionary = 3137 = 1 1
+a few capitalists = 3138 = 1 1
+Grand Forks, North Dakota = 3139 = 1 1
+the girl = 3140 = 1 1
+a Protestant majority = 3141 = 1 1
+The Environmental Protection Agency = 3142 = 1 1
+the governor of  Arkansas = 3143 = 1 1
+Air Force pilot Michael Blassie = 3144 = 1 1
+The Palestinian = 3145 = 1 1
+independent counsel  Ken Starr = 3146 = 1 1
+the Romans = 3147 = 1 1
+VOA correspondent Gary Thomas = 3148 = 1 1
+Philadelphia = 3149 = 1 1
+a section of  highway washed out by mud slides = 3150 = 1 1
+this whole group = 3151 = 1 1
+Chairman of a House Subcommittee concerned  with the year two thousand computer problem = 3152 = 1 1
+the late rapper = 3153 = 1 1
+most people here = 3154 = 1 1
+the poor = 3155 = 1 1
+sick patients = 3156 = 1 1
+Bulgaria = 3157 = 1 1
+Jeff Sheppard = 3158 = 1 1
+Kathleen Willey = 3159 = 1 1
+JuJu Chang = 3160 = 1 1
+Steffi Graf = 3161 = 1 1
+a dozen top aides = 3162 = 1 1
+Governments at all levels = 3163 = 1 1
+Ortega Igaset = 3164 = 1 1
+The Veterans Administration = 3165 = 1 1
+some rather unsavory characters = 3166 = 1 1
+the monarchy = 3167 = 1 1
+the top  five = 3168 = 1 1
+Jonesboro = 3169 = 1 1
+Maryland = 3170 = 1 1
+the VA = 3171 = 1 1
+widows = 3172 = 1 1
+Ann Yeng of the US China business council in Beijing = 3173 = 1 1
+invincible = 3174 = 1 1
+humanitarian personnel = 3175 = 1 1
+the nation's most prestigious universities = 3176 = 1 1
+Sarah Chaise = 3177 = 1 1
+Warren = 3178 = 1 1
+a raw foodist = 3179 = 1 1
+red wings = 3180 = 1 1
+Former savings and loan chief, Charles Keating = 3181 = 1 1
+anywhere else to go = 3182 = 1 1
+Nigeria's southern commercial capital Lagos = 3183 = 1 1
+political prisoners tortured by the Brazilian government = 3184 = 1 1
+Boeing Company = 3185 = 1 1
+Pharmaceutical giant Smith Kline Beecham = 3186 = 1 1
+Friends of First Lady Hillary Clinton = 3187 = 1 1
+the  boss = 3188 = 1 1
+the Pope in Cuba = 3189 = 1 1
+the nation's most effective political fund raisers = 3190 = 1 1
+the sickest patients = 3191 = 1 1
+Democratic Senator Robert  Toracelli = 3192 = 1 1
+female astronauts = 3193 = 1 1
+driver = 3194 = 1 1
+Colonel Collins = 3195 = 1 1
+Those Americans who heard or saw the President give his State of the Union last night = 3196 = 1 1
+a problem drinkers support group = 3197 = 1 1
+that site right there = 3198 = 1 1
+Independent counsel Kenneth Starr's office = 3199 = 1 1
+enough in the Republican primaries to make him a a serious presidential contender = 3200 = 1 1
+Charles Molineaux = 3201 = 1 1
+The  former US Senator George Mitchell = 3202 = 1 1
+the Canadian town of Corebet = 3203 = 1 1
+Mobil = 3204 = 1 1
+pierre thomas = 3205 = 1 1
+four or five FBI agents = 3206 = 1 1
+its ailing banks = 3207 = 1 1
+Bowman, North Dakota = 3208 = 1 1
+The  group = 3209 = 1 1
+commander = 3210 = 1 1
+the  commission = 3211 = 1 1
+our peoples = 3212 = 1 1
+ABC's John Cochran = 3213 = 1 1
+this house = 3214 = 1 1
+attorney Vernon Jordan = 3215 = 1 1
+The New Yorker Magazine = 3216 = 1 1
+Inventor Robert Saben = 3217 = 1 1
+Bernard Herrmann = 3218 = 1 1
+Spain's top military  men = 3219 = 1 1
+Serb soldiers = 3220 = 1 1
+Ron Claiborne = 3221 = 1 1
+Goodwrench = 3222 = 1 1
+A senior law enforcement source = 3223 = 1 1
+the center of a fertile farm and mining community = 3224 = 1 1
+the leaders of the pro Zapatista  communities that I've talked to = 3225 = 1 1
+communist party = 3226 = 1 1
+their political representatives = 3227 = 1 1
+the Heavenly Ski Resort = 3228 = 1 1
+the young correspondents who covered  his presidential campaign thirty five years ago = 3229 = 1 1
+Secretary of State Madeleine Albright = 3230 = 1 1
+former Clinton advisor now ABC News political ana- analyst, George Stephanopoulos = 3231 = 1 1
+Jose Luis Herrero of the UN  commission on human rights in Rwanda = 3232 = 1 1
+his entourage = 3233 = 1 1
+their Protestant adversaries = 3234 = 1 1
+my own father = 3235 = 1 1
+freshmen = 3236 = 1 1
+Officials in California = 3237 = 1 1
+a Council of the Isles, that would include representatives from England, Scotland, Wales, Northern Ireland and the Irish Republic = 3238 = 1 1
+Florida marlins = 3239 = 1 1
+unethical people = 3240 = 1 1
+PAC ten Conference = 3241 = 1 1
+the newly developing city of Los Angeles = 3242 = 1 1
+Transportation secretary Rodney Slater = 3243 = 1 1
+John Hume = 3244 = 1 1
+twelve hundred mostly American  students = 3245 = 1 1
+northern California = 3246 = 1 1
+Eastwind = 3247 = 1 1
+a city where there were  hardly any a decade ago = 3248 = 1 1
+Li Zhao Long who apparently is a dissident there = 3249 = 1 1
+Two hundred and fifty thousand donors around the country who contributed to a twenty-two million dollar campaign = 3250 = 1 1
+Bob Dole = 3251 = 1 1
+The long distance giant = 3252 = 1 1
+some of the leaders of this pro Zapatista  communities = 3253 = 1 1
+some foreigners who might have been engaging  in some sort of illegal activities = 3254 = 1 1
+Palestinian leader Yassir Arafat = 3255 = 1 1
+many hospital transplant centers = 3256 = 1 1
+the most active state sponsorer of terrorism = 3257 = 1 1
+Western captains of industry who are keen  for a piece of the action in the world's largest captive market = 3258 = 1 1
+China's chief  economist = 3259 = 1 1
+Sixty-three hundred people = 3260 = 1 1
+a restricted free agent = 3261 = 1 1
+Middle Eastern = 3262 = 1 1
+Most developing world countries including the United States = 3263 = 1 1
+VOA West Africa Correspondent Purnell Murdock = 3264 = 1 1
+dieticians = 3265 = 1 1
+Russian lawmaker and Muslim union leader Nadiasak Kachelayev = 3266 = 1 1
+celebrities including Bono of the Irish rock band U two who  credited Sinatra with inventing pop music = 3267 = 1 1
+how many Americans = 3268 = 1 1
+his team = 3269 = 1 1
+representatives from England, Scotland, Wales, Northern Ireland and the Irish Republic = 3270 = 1 1
+Alan Greenspan = 3271 = 1 1
+French, uh, nationals = 3272 = 1 1
+the Administration = 3273 = 1 1
+the people of the  Owens Valley = 3274 = 1 1
+A rag-tag group of students who kidnapped American ambassador Charles Burke Elbrick = 3275 = 1 1
+Smith Kline = 3276 = 1 1
+US Senator, uh, Bill Bradley, a former  teammate of Jackson's on the New York Knicks = 3277 = 1 1
+weapons inspectors = 3278 = 1 1
+Historian  Luis Agrait of the University of Puerto Rico = 3279 = 1 1
+others no longer with us = 3280 = 1 1
+hundreds of children from Africa, Asia, and  Latin America = 3281 = 1 1
+the headquarters of the International Labor  Organization = 3282 = 1 1
+the leaders of the  countries that use them = 3283 = 1 1
+a man who can get agreement from others = 3284 = 1 1
+another team USA = 3285 = 1 1
+a murderer = 3286 = 1 1
+George Washington University = 3287 = 1 1
+a local hospital = 3288 = 1 1
+Edinboro = 3289 = 1 1
+each of the three leading candidates = 3290 = 1 1
+the  Atlanta task force = 3291 = 1 1
+Mr. Gingrich = 3292 = 1 1
+Number twenty-three = 3293 = 1 1
+The seven time Wimbledon champ = 3294 = 1 1
+their relatives in the United States = 3295 = 1 1
+United = 3296 = 1 1
+the government of Saudi Arabia = 3297 = 1 1
+Those who learned a second language as teenagers = 3298 = 1 1
+a runway at Hopkins international airport = 3299 = 1 1
+the  grand jury = 3300 = 1 1
+Brady Anderson = 3301 = 1 1
+a  Christian = 3302 = 1 1
+the store owner who sold her the winning ticket = 3303 = 1 1
+Egyptian president Hosni Mubarak = 3304 = 1 1
+Researchers at Harvard University = 3305 = 1 1
+us in the press = 3306 = 1 1
+the  Brooklyn Dodgers = 3307 = 1 1
+the streets outside a chapel in California = 3308 = 1 1
+many of you = 3309 = 1 1
+Spartak Moscow = 3310 = 1 1
+the Korean peninsula = 3311 = 1 1
+the pentagon = 3312 = 1 1
+Great  Britain = 3313 = 1 1
+the grand  jury = 3314 = 1 1
+a New York PR firm = 3315 = 1 1
+Bosch = 3316 = 1 1
+Ameritech = 3317 = 1 1
+forty-nine percent = 3318 = 1 1
+middle America = 3319 = 1 1
+people who think Japan should face up to its past = 3320 = 1 1
+two young daughters = 3321 = 1 1
+a nursing home = 3322 = 1 1
+middlemen = 3323 = 1 1
+employees = 3324 = 1 1
+the  assembly = 3325 = 1 1
+that dam = 3326 = 1 1
+The Yankees = 3327 = 1 1
+the baby boy in her care = 3328 = 1 1
+fox = 3329 = 1 1
+a man who has a history of being  a bit rebellious and, to put it kindly, a bit portly = 3330 = 1 1
+a new stadium = 3331 = 1 1
+two houses = 3332 = 1 1
+Mr. Suharto = 3333 = 1 1
+Sinn Fein, the IRA's  political wing = 3334 = 1 1
+Her lawyer = 3335 = 1 1
+Organizer  Kylash Satiati = 3336 = 1 1
+the attorneys = 3337 = 1 1
+the  continents = 3338 = 1 1
+Vienna, home of the  schnitzel = 3339 = 1 1
+minister = 3340 = 1 1
+the northern plains = 3341 = 1 1
+Kelsey Grammer = 3342 = 1 1
+a person = 3343 = 1 1
+the Israeli = 3344 = 1 1
+professor of Russian  politics at Kent University here in Britain = 3345 = 1 1
+Judge Norma Johnson = 3346 = 1 1
+Japanese soldiers = 3347 = 1 1
+a gay lounge = 3348 = 1 1
+the Chicago Cubs = 3349 = 1 1
+Mr. Blair = 3350 = 1 1
+one  group in Paris = 3351 = 1 1
+Gary Thomas = 3352 = 1 1
+the governments  of both Britain and the Irish Republic = 3353 = 1 1
+Many = 3354 = 1 1
+a great patriot = 3355 = 1 1
+the buildings in Cuba where the Pope will be staying during his five day visit there later this month = 3356 = 1 1
+some of the  communities = 3357 = 1 1
+the Justice Department = 3358 = 1 1
+the USDA = 3359 = 1 1
+These students = 3360 = 1 1
+No successor = 3361 = 1 1
+Sun Microsystem = 3362 = 1 1
+clean air states like Iowa or Wyoming = 3363 = 1 1
+Ambassador Kunady = 3364 = 1 1
+Kournikova = 3365 = 1 1
+a new transitional government = 3366 = 1 1
+about sixty people = 3367 = 1 1
+California, where regulations mandate only thirty = 3368 = 1 1
+the State Department = 3369 = 1 1
+US diplomats = 3370 = 1 1
+Illinois' leading scorer, Kevin Turner = 3371 = 1 1
+thousands of people = 3372 = 1 1
+more and more foreigners = 3373 = 1 1
+people like Mr. Li = 3374 = 1 1
+the President, President Zedillo = 3375 = 1 1
+a criminal = 3376 = 1 1
+Francis Ford Coppola = 3377 = 1 1
+Jupiter = 3378 = 1 1
+New York Mayor Rudolph Giuliani = 3379 = 1 1
+the nation's big three auto makers = 3380 = 1 1
+Jon Frankel = 3381 = 1 1
+investigators from independent counsel Ken Starr's office = 3382 = 1 1
+a  great patriot = 3383 = 1 1
+The justice department = 3384 = 1 1
+a extremely skillful negotiator = 3385 = 1 1
+an incompetent = 3386 = 1 1
+William Jefferson Clinton = 3387 = 1 1
+President Johnson, who he ran against = 3388 = 1 1
+the loser = 3389 = 1 1
+Kerry Kahn = 3390 = 1 1
+the best  interlocutor they're going to get = 3391 = 1 1
+the Post = 3392 = 1 1
+many  of us = 3393 = 1 1
+Great crowd = 3394 = 1 1
+looters = 3395 = 1 1
+Dominic Herbaty = 3396 = 1 1
+the French national carrier's pilots = 3397 = 1 1
+Arkansas governor = 3398 = 1 1
+Africa = 3399 = 1 1
+younger people = 3400 = 1 1
+dissidents = 3401 = 1 1
+Fifteen per cent = 3402 = 1 1
+fans = 3403 = 1 1
+New York Yankee fans = 3404 = 1 1
+the  aristocracy = 3405 = 1 1
+Pentagon = 3406 = 1 1
+Most travelers = 3407 = 1 1
+different people = 3408 = 1 1
+both countries = 3409 = 1 1
+every nation = 3410 = 1 1
+some states = 3411 = 1 1
+two prominent political prisoners who were  granted an unconditional amnesty by President Habibie = 3412 = 1 1
+Forecasters = 3413 = 1 1
+Brad Miller = 3414 = 1 1
+their homeland = 3415 = 1 1
+Lisa Raymond = 3416 = 1 1
+nicer  people in the world = 3417 = 1 1
+Casey Martin who wins his first Nike tour event at the Lakeland classic = 3418 = 1 1
+Lebanese = 3419 = 1 1
+Oklahoma = 3420 = 1 1
+critics of the academy = 3421 = 1 1
+the  Palestinians = 3422 = 1 1
+some insurers = 3423 = 1 1
+one time Clinton opponent, Richard Gephardt = 3424 = 1 1
+our protectees = 3425 = 1 1
+trooper Cipoletta = 3426 = 1 1
+Four time Wimbledon champ Pete Sampras = 3427 = 1 1
+the  Arabs = 3428 = 1 1
+Mount Vernon = 3429 = 1 1
+an artist = 3430 = 1 1
+a thirty-six year dictatorship = 3431 = 1 1
+second seed Lindsay Davenport = 3432 = 1 1
+the Afghan population = 3433 = 1 1
+The  United Nations secretary general Kofi Annan = 3434 = 1 1
+Slick Willy = 3435 = 1 1
+the positives = 3436 = 1 1
+his jailers = 3437 = 1 1
+other national security officials = 3438 = 1 1
+Thousands of mourners = 3439 = 1 1
+Hoboken, New Jersey = 3440 = 1 1
+Ordinary people = 3441 = 1 1
+Bill Gates = 3442 = 1 1
+Cape Canaveral = 3443 = 1 1
+Fitzwater = 3444 = 1 1
+defending champ Pete Sampras = 3445 = 1 1
+Somebody = 3446 = 1 1
+The Independent newspaper in Moscow = 3447 = 1 1
+the Irish  Republican Army = 3448 = 1 1
+The Whitewater grand jury = 3449 = 1 1
+The chief UN weapons inspector in Iraq = 3450 = 1 1
+patient = 3451 = 1 1
+two of the best teams in baseball in the  largest city in America = 3452 = 1 1
+senators = 3453 = 1 1
+Sharp's home = 3454 = 1 1
+Fossett = 3455 = 1 1
+Secretary of State Albright = 3456 = 1 1
+many countries = 3457 = 1 1
+the most conservative states in the country = 3458 = 1 1
+people who read Froistad's chilling words = 3459 = 1 1
+historians = 3460 = 1 1
+victims of armed attack = 3461 = 1 1
+a machine shop in north Carolina, where a  friend of Rudolph worked = 3462 = 1 1
+the University of North Carolina = 3463 = 1 1
+people who like eating the same foods as most of  us, minus the preparation = 3464 = 1 1
+Seton Hall = 3465 = 1 1
+The Islamic Saudi Academy = 3466 = 1 1
+Berger = 3467 = 1 1
+communist regimes = 3468 = 1 1
+Colombian = 3469 = 1 1
+someplace like here in America = 3470 = 1 1
+some of the women who were forced to work in brothels = 3471 = 1 1
+Madeleine Albright = 3472 = 1 1
+Providence, Rhode Island = 3473 = 1 1
+raw  foodists = 3474 = 1 1
+Boston center = 3475 = 1 1
+countries that will not reform themselves = 3476 = 1 1
+Greensboro = 3477 = 1 1
+Larry = 3478 = 1 1
+grieving parents = 3479 = 1 1
+the grammy voters = 3480 = 1 1
+regulators eager to  police its many facets = 3481 = 1 1
+aggressive government officials = 3482 = 1 1
+supporters of the global March = 3483 = 1 1
+Former Japanese Prime Minister Sousuke Uno = 3484 = 1 1
+secretary of state Madeleine Albright = 3485 = 1 1
+those without sufficient funds = 3486 = 1 1
+Commerce = 3487 = 1 1
+his buyers = 3488 = 1 1
+the Southern Poverty Law  Center = 3489 = 1 1
+dad = 3490 = 1 1
+flames = 3491 = 1 1
+the blazing Cargil plant = 3492 = 1 1
+her apartment at the Watergate = 3493 = 1 1
+the man who has been one of Communism's most effective adversaries = 3494 = 1 1
+congresswoman Jane Harmon, who has apparently been  unsuccessful in her attempts to tap into the gender gap = 3495 = 1 1
+Clinton campaign donors = 3496 = 1 1
+Richard Sakwa,  professor of Russian and European politics at Kent University in England = 3497 = 1 1
+Spain's ambassador to Washington = 3498 = 1 1
+a trade unionist = 3499 = 1 1
+one of the attorneys who  until yesterday represented British au pair, Louise Woodward = 3500 = 1 1
+the Republican establishment = 3501 = 1 1
+the northern section of the US = 3502 = 1 1
+one hundred forty-six passengers = 3503 = 1 1
+Professor Michael Hawley = 3504 = 1 1
+army of god = 3505 = 1 1
+a  league of their own = 3506 = 1 1
+Diplomats = 3507 = 1 1
+one of the men = 3508 = 1 1
+a lawyer who'll also help sell a positive story = 3509 = 1 1
+UNOS spokeswoman Donna Henry Wright = 3510 = 1 1
+Billy Taylor = 3511 = 1 1
+Eight  Beach Street = 3512 = 1 1
+Y- you = 3513 = 1 1
+Her lawyer, William Ginsburg = 3514 = 1 1
+thirteen percent of the West  Bank = 3515 = 1 1
+an  umbrella body which will oversee the totality of relationships between the  two islands = 3516 = 1 1
+former press secretary Marlin Fitzwater = 3517 = 1 1
+many state enterprises = 3518 = 1 1
+reporters in Seoul = 3519 = 1 1
+Kennedy = 3520 = 1 1
+ethnic  Albanians = 3521 = 1 1
+ethnic Albanians in the Serbian province of Kosovo = 3522 = 1 1
+countries which included the United States, Japan, China, Russia, and  Germany = 3523 = 1 1
+twenty-five thousand US troops = 3524 = 1 1
+The Federal Reserve chairman = 3525 = 1 1
+highway washed out by mud slides = 3526 = 1 1
+Valerie = 3527 = 1 1
+General Abacha's supporters = 3528 = 1 1
+Virginia Senator Chuck Robb,   who when accused of infidelity also said he had not quote slept with the other woman = 3529 = 1 1
+policymakers = 3530 = 1 1
+the inspectors = 3531 = 1 1
+a two man technical team = 3532 = 1 1
+an NBA opponent = 3533 = 1 1
+an ordinary citizen = 3534 = 1 1
+Investigators from the Kentucky state fire marshal's office = 3535 = 1 1
+exiles now living in the United States = 3536 = 1 1
+your destination = 3537 = 1 1
+the whole nation = 3538 = 1 1
+the larger largest consumer products company in the world = 3539 = 1 1
+a superior foe = 3540 = 1 1
+so many members of Larry Froistad's  support group = 3541 = 1 1
+One source = 3542 = 1 1
+David Ensor = 3543 = 1 1
+the crowd at the University of Illinois = 3544 = 1 1
+the International Labor  Organization = 3545 = 1 1
+Smokers who are exposed to radon = 3546 = 1 1
+BBC correspondent Karyn Coleman = 3547 = 1 1
+The same group most likely to die because of reckless driving = 3548 = 1 1
+her woman = 3549 = 1 1
+Greenspan = 3550 = 1 1
+a  coalition do you think can hang together = 3551 = 1 1
+Mark Philippoussis = 3552 = 1 1
+the capital Kabul = 3553 = 1 1
+Blue Cross Blue Shield policy holders = 3554 = 1 1
+the globe = 3555 = 1 1
+The officials = 3556 = 1 1
+Auncil Martinez = 3557 = 1 1
+Lee = 3558 = 1 1
+one of the communities = 3559 = 1 1
+patients who need  an organ transplant = 3560 = 1 1
+anonymous sources = 3561 = 1 1
+his sponsors = 3562 = 1 1
+a civil rights monitoring group based in  Montgomery, Alabama = 3563 = 1 1
+Jim Wright = 3564 = 1 1
+Bryan = 3565 = 1 1
+The Federal Reserve = 3566 = 1 1
+a House Subcommittee concerned  with the year two thousand computer problem = 3567 = 1 1
+eight political parties = 3568 = 1 1
+Geneva, Switzerland = 3569 = 1 1
+prosecutors = 3570 = 1 1
+neighboring Saudi Arabia = 3571 = 1 1
+concentration camps = 3572 = 1 1
+the vast majority of the foreigners who I've seen in  these communities = 3573 = 1 1
+an upset victim = 3574 = 1 1
+liberals = 3575 = 1 1
+The republicans = 3576 = 1 1
+Lenin = 3577 = 1 1
+an  American = 3578 = 1 1
+former assistant secretary of defense for international  security affairs = 3579 = 1 1
+The President's former chief of staff Leon Panetta = 3580 = 1 1
+Featherstone = 3581 = 1 1
+hate groups = 3582 = 1 1
+ABC's Bob Woodruff = 3583 = 1 1
+Val = 3584 = 1 1
+Larry Froistad's  support group = 3585 = 1 1
+Asephy Bekhali = 3586 = 1 1
+Paula Cole = 3587 = 1 1
+The network = 3588 = 1 1
+merchants who lost everything in recent riots = 3589 = 1 1
+military leader Sani Abacha = 3590 = 1 1
+moviegoers = 3591 = 1 1
+successful department stores = 3592 = 1 1
+their children = 3593 = 1 1
+the secretary general = 3594 = 1 1
+a guy  dressed like me = 3595 = 1 1
+dedicated supporters who'd probably lie in front of a locomotive for him = 3596 = 1 1
+The group pushing for the increase = 3597 = 1 1
+The Cuban government = 3598 = 1 1
+Jim Stevenson = 3599 = 1 1
+American cities = 3600 = 1 1
+Sherri Sylvester, CNN, Los Angeles = 3601 = 1 1
+Panetta = 3602 = 1 1
+President Habibie = 3603 = 1 1
+the number of passengers at US airports = 3604 = 1 1
+Paul Begala = 3605 = 1 1
+sources who wish to remain unidentified = 3606 = 1 1
+The man = 3607 = 1 1
+Spain's American colonies = 3608 = 1 1
+fellas = 3609 = 1 1
+President Zedillo = 3610 = 1 1
+The critics = 3611 = 1 1
+unionists = 3612 = 1 1
+the one billion people worldwide who are at risk = 3613 = 1 1
+fabulous people = 3614 = 1 1
+US Airways = 3615 = 1 1
+Washington DC = 3616 = 1 1
+Jim Laurie = 3617 = 1 1
+dean of the Kennedy School of Government at  Harvard = 3618 = 1 1
+PAC ten Conference Player of the Year = 3619 = 1 1
+the seventeen hundred residents of Bowman, North Dakota = 3620 = 1 1
+creeks = 3621 = 1 1
+the island they regard as a renegade province,  at least for the foreseeable future = 3622 = 1 1
+US politicians = 3623 = 1 1
+Vin Baker = 3624 = 1 1
+Another reviewer = 3625 = 1 1
+the  women of Kabul = 3626 = 1 1
+Nevada = 3627 = 1 1
+its occupying army in Cuba = 3628 = 1 1
+the security forces = 3629 = 1 1
+Lewis Merletti = 3630 = 1 1
+the people there = 3631 = 1 1
+The teachers association = 3632 = 1 1
+an advanced skier on an intermediate run, the Orion trail = 3633 = 1 1
+wife = 3634 = 1 1
+an estimated forty thousand men = 3635 = 1 1
+the property = 3636 = 1 1
+the Christian Coalition = 3637 = 1 1
+ABC News political analyst George Stephanopoulos = 3638 = 1 1
+Alan Simpson = 3639 = 1 1
+The source = 3640 = 1 1
+their would be neighbors = 3641 = 1 1
+some adults = 3642 = 1 1
+all the drivers = 3643 = 1 1
+Tiananmen Square  itself = 3644 = 1 1
+this sixty-four year old man from Maine = 3645 = 1 1
+a professor at George Washington University = 3646 = 1 1
+powerful characters = 3647 = 1 1
+Authorities investigating the bombing of an Alabama women's clinic = 3648 = 1 1
+one of them = 3649 = 1 1
+a British negotiator to the northern  Ireland peace talks = 3650 = 1 1
+Ann  Robinson = 3651 = 1 1
+the families = 3652 = 1 1
+Murphy = 3653 = 1 1
+a team that could contend for the national championship = 3654 = 1 1
+the United Nation = 3655 = 1 1
+Tel Aviv- v, the capital = 3656 = 1 1
+the government of  Rwanda = 3657 = 1 1
+its possessions = 3658 = 1 1
+Secretary Shalala = 3659 = 1 1
+Prosecutors = 3660 = 1 1
+As many as two hundred thousand women across Asia = 3661 = 1 1
+a woman = 3662 = 1 1
+Everyone = 3663 = 1 1
+Anne = 3664 = 1 1
+the Hong Kong exchange = 3665 = 1 1
+six women = 3666 = 1 1
+a guy with a cigarette and a hat = 3667 = 1 1
+different hotels = 3668 = 1 1
+a moderate = 3669 = 1 1
+everybody who talks to a journalist = 3670 = 1 1
+Mainstream nutritionists = 3671 = 1 1
+close friends = 3672 = 1 1
+general assembly = 3673 = 1 1
+more of a hero = 3674 = 1 1
+the hundred thousand passengers who would have flown Air France  today = 3675 = 1 1
+a small group of reporters = 3676 = 1 1
+the pistons = 3677 = 1 1
+the nationalists happy, those people who  want a united Ireland = 3678 = 1 1
+The American taxpayer = 3679 = 1 1
+US officials = 3680 = 1 1
+Most of the hundred thousand passengers who would have flown Air France  today = 3681 = 1 1
+Rome, Italy = 3682 = 1 1
+riot  police = 3683 = 1 1
+students in urban schools = 3684 = 1 1
+states = 3685 = 1 1
+the united nations office in Baghdad = 3686 = 1 1
+western north  Carolina = 3687 = 1 1
+New Haven, Connecticut = 3688 = 1 1
+Aggressive drivers = 3689 = 1 1
+defense  secretary William Cohen = 3690 = 1 1
+Waynesboro, Virginia = 3691 = 1 1
+The controller at Boston center = 3692 = 1 1
+Lincoln Center = 3693 = 1 1
+people like Li = 3694 = 1 1
+some people that're going to talk on there that  we're not going to be able to hear = 3695 = 1 1
+the rest of us = 3696 = 1 1
+Hanson = 3697 = 1 1
+Governor = 3698 = 1 1
+the  last man = 3699 = 1 1
+everyone else who testified at the hearing = 3700 = 1 1
+Ethan Nadelmann = 3701 = 1 1
+Cokie Roberts, who's in the bureau this evening = 3702 = 1 1
+a man   who will tell his story to the Senate tomorrow = 3703 = 1 1
+moderate President Mohammed Khatami = 3704 = 1 1
+a card carrying, practicing conservative Republican = 3705 = 1 1
+The city of light = 3706 = 1 1
+the scholar = 3707 = 1 1
+one UN official = 3708 = 1 1
+the experts = 3709 = 1 1
+group member Kay = 3710 = 1 1
+Uno = 3711 = 1 1
+Italians = 3712 = 1 1
+A group of US politicians = 3713 = 1 1
+Ashburn village,  Virginia = 3714 = 1 1
+sickest = 3715 = 1 1
+the participants in the  talks = 3716 = 1 1
+Raw foodists = 3717 = 1 1
+more ground troops = 3718 = 1 1
+numerous hostesses = 3719 = 1 1
+this community = 3720 = 1 1
+the most straightforward people = 3721 = 1 1
+the French media = 3722 = 1 1
+United Network for Organ  Sharing, or UNOS = 3723 = 1 1
+a chapel in California = 3724 = 1 1
+other parts of the region = 3725 = 1 1
+the US China business council in Beijing = 3726 = 1 1
+Mr. Spock = 3727 = 1 1
+anybody else = 3728 = 1 1
+Crooks = 3729 = 1 1
+American children = 3730 = 1 1
+these two people = 3731 = 1 1
+someone on his staff = 3732 = 1 1
+other members of Monica Lewinsky's White House intern class = 3733 = 1 1
+The overnight delivery service = 3734 = 1 1
+MIT = 3735 = 1 1
+her lawyer = 3736 = 1 1
+Secretary of state Madeleine Albright = 3737 = 1 1
+second seat Lindsey Davenport = 3738 = 1 1
+the  carpet industry = 3739 = 1 1
+the Ritz Carlton hotel in Pentagon City = 3740 = 1 1
+the western Gulf Coast states = 3741 = 1 1
+too many Americans = 3742 = 1 1
+Jordan's King Hussein = 3743 = 1 1
+the Kennedy White House = 3744 = 1 1
+those ladies = 3745 = 1 1
+the Soviets = 3746 = 1 1
+governments around the world = 3747 = 1 1
+St. Louis, Missouri = 3748 = 1 1
+more occupied land = 3749 = 1 1
+the agency that oversees Medicare = 3750 = 1 1
+Whitewater = 3751 = 1 1
+the BBC's Barnaby Mason in Jerusalem = 3752 = 1 1
+the North = 3753 = 1 1
+Kennedy School of Government = 3754 = 1 1
+the three leading candidates = 3755 = 1 1
+kind of a hands off guy = 3756 = 1 1
+a ridge in Brown county = 3757 = 1 1
+creditors in several cities, including New York, London, Tokyo and  Hong Kong = 3758 = 1 1
+Passengers = 3759 = 1 1
+Juliette = 3760 = 1 1
+the people who  want to remain part of the United Kingdom = 3761 = 1 1
+the Kentucky state fire marshal's office = 3762 = 1 1
+many of his generation = 3763 = 1 1
+China scholar Michael Ochsenberg of Stanford University = 3764 = 1 1
+thirty other heads of state = 3765 = 1 1
+Pentagon City = 3766 = 1 1
+too much housing for those who can  afford it = 3767 = 1 1
+the so-called comfort women = 3768 = 1 1
+the Spanish government at  the time = 3769 = 1 1
+Susan = 3770 = 1 1
+the national research council = 3771 = 1 1
+the children of the United States = 3772 = 1 1
+World-class skiers = 3773 = 1 1
+the unemployed = 3774 = 1 1
+the First Team = 3775 = 1 1
+the central character in this scandal = 3776 = 1 1
+an associated press photographer = 3777 = 1 1
+the UN security council = 3778 = 1 1
+Ashburn = 3779 = 1 1
+David Rowley = 3780 = 1 1
+The UN's chief weapons inspector = 3781 = 1 1
+a chain of successful department stores = 3782 = 1 1
+NPR's Kerry Kahn = 3783 = 1 1
+The Beatles = 3784 = 1 1
+Dagestani = 3785 = 1 1
+firefighters = 3786 = 1 1
+a global company = 3787 = 1 1
+ABC's Lisa Salters = 3788 = 1 1
+the Beltway = 3789 = 1 1
+legal counsel = 3790 = 1 1
+the musical figures tapped for grammy awards next month = 3791 = 1 1
+his daughter = 3792 = 1 1
+Steve Goodrich, a history major student with a three five grade point average = 3793 = 1 1
+America's best known Irish Catholic family = 3794 = 1 1
+Gary, Indiana = 3795 = 1 1
+one of these pro Zapatista, uh,  communities, uh, where they have, uh- autonomous municipality that they've  established, the ones that the government says are completely illegal = 3796 = 1 1
+Don Larsen, who did it during the nineteen fifty-six World Series against the  Brooklyn Dodgers = 3797 = 1 1
+Syracuse = 3798 = 1 1
+the new liberals of the Republican Party = 3799 = 1 1
+the Irish rock band U two = 3800 = 1 1
+Joseph Nye, dean of the Kennedy School of Government at  Harvard = 3801 = 1 1
+Miss Lewinsky's attorney = 3802 = 1 1
+Global March participant Diana Mull = 3803 = 1 1
+The  United Nations = 3804 = 1 1
+angry people sitting in their bedrooms uh all alone = 3805 = 1 1
+Tara Lipinsky = 3806 = 1 1
+anybody from the US = 3807 = 1 1
+few if any heavyweights = 3808 = 1 1
+the taxiway = 3809 = 1 1
+this one = 3810 = 1 1
+his players = 3811 = 1 1
+the western state = 3812 = 1 1
+the lifts = 3813 = 1 1
+A Bryan meat plant in Arkansas = 3814 = 1 1
+four  great great great grandchildren = 3815 = 1 1
+urban areas = 3816 = 1 1
+the automakers = 3817 = 1 1
+Michael Jordan = 3818 = 1 1
+people running for sheriff = 3819 = 1 1
+some children = 3820 = 1 1
+five thousand women = 3821 = 1 1
+these countries = 3822 = 1 1
+both developed and  developing countries = 3823 = 1 1
+Brazil = 3824 = 1 1
+some Cuban Americans who left here when Castro came to power and are returning to Havana for the first time = 3825 = 1 1
+the British capital = 3826 = 1 1
+the Leafs' coach = 3827 = 1 1
+fifty-eight percent of freshmen = 3828 = 1 1
+the King Faud Causeway = 3829 = 1 1
+the bankrupt thrift = 3830 = 1 1
+Those observers looking for a battle between uncompromising representatives  and very different ideologies = 3831 = 1 1
+the space agency = 3832 = 1 1
+the younger Serena = 3833 = 1 1
+aggressive drivers = 3834 = 1 1
+Jaime Ojeida, who recently retired as  Spain's ambassador to Washington = 3835 = 1 1
+Eileen Collins = 3836 = 1 1
+many other countries = 3837 = 1 1
+professor of law at New York University = 3838 = 1 1
+the raw foodists = 3839 = 1 1
+his urologist = 3840 = 1 1
+Thousands of people = 3841 = 1 1
+this government = 3842 = 1 1
+Bernie Taupin = 3843 = 1 1
+The singer = 3844 = 1 1
+Speaker of the House = 3845 = 1 1
+United Airlines, the largest US air carrier = 3846 = 1 1
+Pamela Pak = 3847 = 1 1
+the small town = 3848 = 1 1
+father Bob = 3849 = 1 1
+Swiss Air = 3850 = 1 1
+twenty-two people = 3851 = 1 1
+seventeen states where air quality is a problem = 3852 = 1 1
+an ancient and exotic city = 3853 = 1 1
+three or four US attorneys = 3854 = 1 1
+enough in the party = 3855 = 1 1
+the Brazilian government = 3856 = 1 1
+Oklahoma city = 3857 = 1 1
+Kip Kinkel = 3858 = 1 1
+the sea = 3859 = 1 1
+ABC news = 3860 = 1 1
+Catholics, including representatives of the Irish  Republican Army = 3861 = 1 1
+high school = 3862 = 1 1
+Chuck = 3863 = 1 1
+Baltimore, Maryland = 3864 = 1 1
+Harold Ickes, who left after the first term, disappointed he'd not been made chief of staff = 3865 = 1 1
+the man who got us thinking about all this today = 3866 = 1 1
+cyclists = 3867 = 1 1
+colleges = 3868 = 1 1
+none of the twenty-seven batters he faced = 3869 = 1 1
+Number nine Purdue = 3870 = 1 1
+Westborough Massachusetts = 3871 = 1 1
+audiences in all cultures = 3872 = 1 1
+the children = 3873 = 1 1
+middle school = 3874 = 1 1
+Indonesia's new President, BJ Habibie = 3875 = 1 1
+only forty-one percent = 3876 = 1 1
+my dad = 3877 = 1 1
+the  shopping malls = 3878 = 1 1
+the Ohio river = 3879 = 1 1
+An inmate who makes fifty-four thousand dollars a year = 3880 = 1 1
+The sonics = 3881 = 1 1
+New York's John Bartlett = 3882 = 1 1
+Ivy League schools = 3883 = 1 1
+Amnesty = 3884 = 1 1
+Thousands of people in Germany = 3885 = 1 1
+the creep = 3886 = 1 1
+the big city = 3887 = 1 1
+Many of these new members = 3888 = 1 1
+WGBH Boston = 3889 = 1 1
+prominent civil rights lawyer Alissa Abadcova, leader  of the Lagos based civil liberties organization = 3890 = 1 1
+Karla Davis = 3891 = 1 1
+the  rest of the world = 3892 = 1 1
+the old Shanghai, which  she prefers = 3893 = 1 1
+Commission = 3894 = 1 1
+another of its possessions, Cuba = 3895 = 1 1
+a man running uh wearing a wig running  from the scene = 3896 = 1 1
+a large crowd = 3897 = 1 1
+individual nations in Europe, North America, and other parts of the world = 3898 = 1 1
+just about every state in the union = 3899 = 1 1
+Pastor James Allmen of the fellowship church and school in  Ashburn = 3900 = 1 1
+the rest of the crew = 3901 = 1 1
+an extremist = 3902 = 1 1
+Kofi = 3903 = 1 1
+college freshmen, nearly three hundred and fifty thousand of them = 3904 = 1 1
+the women who were forced to work in brothels = 3905 = 1 1
+the President's personal secretary = 3906 = 1 1
+some neighbors = 3907 = 1 1
+local Palestinian representatives = 3908 = 1 1
+the  citizens of Loudon county = 3909 = 1 1
+Cummins = 3910 = 1 1
+that wooded area = 3911 = 1 1
+John Smith = 3912 = 1 1
+British foreign secretary Robin Cook = 3913 = 1 1
+critics = 3914 = 1 1
+every visiting head of state = 3915 = 1 1
+the island's defenders = 3916 = 1 1
+Some crooks = 3917 = 1 1
+Kobe Bryant = 3918 = 1 1
+children in the other twenty-five industrialized nations  combined = 3919 = 1 1
+Casey Martin,  the disabled golfer we told you about last week = 3920 = 1 1
+the BBC world service = 3921 = 1 1
+a fourteen year old boy = 3922 = 1 1
+Athletes = 3923 = 1 1
+Its streets = 3924 = 1 1
+his long time friend = 3925 = 1 1
+The actors = 3926 = 1 1
+Jim Wooten = 3927 = 1 1
+Musicians from Kazakhstan = 3928 = 1 1
+both of you = 3929 = 1 1
+Alan Arkin = 3930 = 1 1
+a cloud of dust remaining after a  great people have galloped down the highway of history = 3931 = 1 1
+those testing the waters = 3932 = 1 1
+one in four Americans = 3933 = 1 1
+Duke  Ellington = 3934 = 1 1
+Betty = 3935 = 1 1
+Canadian = 3936 = 1 1
+the Republican Party = 3937 = 1 1
+conscripted soldiers who were in Cuba only  because they couldn't afford to buy their way out of the draft as the  aristocracy could = 3938 = 1 1
+Elaine Corey = 3939 = 1 1
+someone with specific knowledge of what it is that Monica Lewinsky says really took place between her and the President = 3940 = 1 1
+nationwide = 3941 = 1 1
+the department of  agriculture = 3942 = 1 1
+the state banking system = 3943 = 1 1
+Jamison, the Atlantic Coast  Conference Player of the Year = 3944 = 1 1
+some analysts = 3945 = 1 1
+The most famous anonymous source in the modern history of political journalism = 3946 = 1 1
+the bulls = 3947 = 1 1
+Congressman Sonny  Bono = 3948 = 1 1
+Jaime Ojeida = 3949 = 1 1
+Voters = 3950 = 1 1
+Hitchcock = 3951 = 1 1
+an actor = 3952 = 1 1
+ones with the ear pieces and the walkie-talkies at the President's sleeve = 3953 = 1 1
+The Secretary of State = 3954 = 1 1
+role  models = 3955 = 1 1
+Palestinians = 3956 = 1 1
+Scores of people, many of them looters = 3957 = 1 1
+Betty Currie = 3958 = 1 1
+baseball commissioner = 3959 = 1 1
+a new women's league = 3960 = 1 1
+how many of those = 3961 = 1 1
+victims of extra-judicial killings carried out by Serb soldiers = 3962 = 1 1
+the  biggest occupied territory = 3963 = 1 1
+Chinese government = 3964 = 1 1
+a risk taker on the concert stage = 3965 = 1 1
+NFC = 3966 = 1 1
+Johns Hopkins  University Hospital in Baltimore, Maryland = 3967 = 1 1
+UN weapons inspectors = 3968 = 1 1
+the shooter = 3969 = 1 1
+people in Springfield, Oregon = 3970 = 1 1
+her Washington apartment = 3971 = 1 1
+a fertilizer warehouse on the Ohio river = 3972 = 1 1
+Indian officials = 3973 = 1 1
+YM magazine = 3974 = 1 1
+a guy named Bob in Michigan = 3975 = 1 1
+a North South  Council = 3976 = 1 1
+American banks who have made unwise, risky investments = 3977 = 1 1
+hundreds of law enforcement officers = 3978 = 1 1
+Terry Moran = 3979 = 1 1
+diplomats = 3980 = 1 1
+historian Edward Malifakis = 3981 = 1 1
+eight hundred  people = 3982 = 1 1
+Richard Hamilton = 3983 = 1 1
+the Mideast = 3984 = 1 1
+A California judge = 3985 = 1 1
+the nearby suburban housing  tracts = 3986 = 1 1
+a companion = 3987 = 1 1
+some seven thousand jazz players = 3988 = 1 1
+additional political  prisoners = 3989 = 1 1
+Six thousand = 3990 = 1 1
+one or more Secret Service agents assigned to the White House who might have information about the President   and Monica Lewinsky = 3991 = 1 1
+additional fact witness = 3992 = 1 1
+the House That Ruth  Built = 3993 = 1 1
+the very uh sickest patients = 3994 = 1 1
+the two  sides = 3995 = 1 1
+a courier service which Lewinsky used at least seven times between October the seventh and December the eighth for deliveries from her Pentagon office to the White House = 3996 = 1 1
+an empire = 3997 = 1 1
+your successor = 3998 = 1 1
+Ms. melin- welinsk- Ms. Lewinsky = 3999 = 1 1
+some of the older people = 4000 = 1 1
+the Zapatista rebels = 4001 = 1 1
+Brentwood = 4002 = 1 1
+Joe Califano = 4003 = 1 1
+a good pitcher = 4004 = 1 1
+Virginia Welch = 4005 = 1 1
+a renegade province = 4006 = 1 1
+the United  Nations = 4007 = 1 1
+a brand new baby boy = 4008 = 1 1
+Williams = 4009 = 1 1
+computer experts = 4010 = 1 1
+a politician = 4011 = 1 1
+Miles Simon = 4012 = 1 1
+Many members of Congress = 4013 = 1 1
+Spartak Moscow of Russia = 4014 = 1 1
+Lewinsky's lawyer = 4015 = 1 1
+nations that violate the  human rights of their citizens = 4016 = 1 1
+the New York  Mets = 4017 = 1 1
+John McKenzie = 4018 = 1 1
+gulf = 4019 = 1 1
+this pro Zapatista  communities = 4020 = 1 1
+Fourteen million people in a hurry = 4021 = 1 1
+producer  and performer Kenneth Babyface Edmonds, with eight = 4022 = 1 1
+the  security council = 4023 = 1 1
+ABC's Robert  Krulwich = 4024 = 1 1
+Zeese = 4025 = 1 1
+Marie Louise Maeur = 4026 = 1 1
+Princeton, one of the nation's most prestigious universities = 4027 = 1 1
+The administration = 4028 = 1 1
+the icy roads = 4029 = 1 1
+plenty of people who do think the government is acting in a  very anachronistic way = 4030 = 1 1
+The Russian foreign minister = 4031 = 1 1
+Myla Ryava = 4032 = 1 1
+the press = 4033 = 1 1
+Rockefeller University = 4034 = 1 1
+a French woman = 4035 = 1 1
+the secretaries of state = 4036 = 1 1
+Five year old Amanda  Froistad = 4037 = 1 1
+a raw  foodist who goes by the name Rhio = 4038 = 1 1
+the southeast = 4039 = 1 1
+Many in the French media = 4040 = 1 1
+filmmakers = 4041 = 1 1
+several industrialized countries, including Canada, the United  States, Russia, France, and Switzerland = 4042 = 1 1
+now ABC News political ana- analyst, George Stephanopoulos = 4043 = 1 1
+a secret organization that hates abortion providers,  homosexuals and the US government = 4044 = 1 1
+cities, such as the capital Kabul = 4045 = 1 1
+northern  Illinois = 4046 = 1 1
+the  Associated Press All-America First Team = 4047 = 1 1
+the MiamI hurricanes = 4048 = 1 1
+This man, Eric Rudolph = 4049 = 1 1
+Stormont Castle = 4050 = 1 1
+blues musicians Junior Wells = 4051 = 1 1
+readers = 4052 = 1 1
+Anaheim Angels = 4053 = 1 1
+The Catholic minority = 4054 = 1 1
+the  Nazis = 4055 = 1 1
+The underwater world = 4056 = 1 1
+two = 4057 = 1 1
+those people = 4058 = 1 1
+a real pioneer of rock and roll = 4059 = 1 1
+a former president = 4060 = 1 1
+Grant Hill = 4061 = 1 1
+A White House official = 4062 = 1 1
+the  government = 4063 = 1 1
+two classmates = 4064 = 1 1
+the Archdiocese of Havana = 4065 = 1 1
+the thirty-seven year old Nadia Solerno Sonnenberg = 4066 = 1 1
+Michael Kennedy = 4067 = 1 1
+the Lagos based civil liberties organization = 4068 = 1 1
+Zhao  Zujang = 4069 = 1 1
+dean of Kennedy School of Government at Harvard = 4070 = 1 1
+Hopkins international airport = 4071 = 1 1
+new hirees = 4072 = 1 1
+the British-ruled  province = 4073 = 1 1
+some women's groups = 4074 = 1 1
+Breathatarian = 4075 = 1 1
+newsman Charles Kuralt, twice  nominated in spoken word categories = 4076 = 1 1
+Jim Shirk in Bremerton, Washington = 4077 = 1 1
+Xu  Kuangdi = 4078 = 1 1
+Jack Markey = 4079 = 1 1
+China expert David Shambaugh, a professor at George Washington University = 4080 = 1 1
+a  very influential group of people who believe that Japan acted in a completely  justifiable way given that uh- it was a time of war = 4081 = 1 1
+that  network = 4082 = 1 1
+the mainstream Protestant and Catholic groups = 4083 = 1 1
+Canada = 4084 = 1 1
+Myla's parents = 4085 = 1 1
+all the hitherto  existing societies = 4086 = 1 1
+education week newspaper = 4087 = 1 1
+Ms. Solerno Sonnenberg = 4088 = 1 1
+Public Radio International = 4089 = 1 1
+Monica  Lewinsky = 4090 = 1 1
+a  developing country = 4091 = 1 1
+You guys = 4092 = 1 1
+Mom = 4093 = 1 1
+anyone who gets on an airplane = 4094 = 1 1
+fifty-seven great great grandchildren = 4095 = 1 1
+delegations from the five UN  security council members = 4096 = 1 1
+San Cristobal = 4097 = 1 1
+its people = 4098 = 1 1
+the CIA = 4099 = 1 1
+a football fan = 4100 = 1 1
+Secretary of  state Madeline Albright = 4101 = 1 1
+over four hundred hate groups = 4102 = 1 1
+people in parts of the northeastern US and eastern Canada = 4103 = 1 1
+both teams = 4104 = 1 1
+Armed supporters of a top Muslim leader in southern Russia = 4105 = 1 1
+a kid = 4106 = 1 1
+Republican Senator Alphonse D'Amato = 4107 = 1 1
+the shooter's grandmother = 4108 = 1 1
+Megan Cox Gerden = 4109 = 1 1
+A highly placed source = 4110 = 1 1
+the pro Zapatista  communities = 4111 = 1 1
+security forces = 4112 = 1 1
+your son = 4113 = 1 1
+a former economic advisor to President Bush = 4114 = 1 1
+the eastern United States = 4115 = 1 1
+this team = 4116 = 1 1
+Keeler = 4117 = 1 1
+the existing  society = 4118 = 1 1
+this president = 4119 = 1 1
+the people speaking on the record and for microphones = 4120 = 1 1
+Competitors = 4121 = 1 1
+Betty Currie, the President's personal secretary = 4122 = 1 1
+Alice Featherstone = 4123 = 1 1
+Petr Korda = 4124 = 1 1
+Byron Miranda = 4125 = 1 1
+most others in the group = 4126 = 1 1
+a California judge = 4127 = 1 1
+the Wizards = 4128 = 1 1
+a volunteer force = 4129 = 1 1
+UNESCO = 4130 = 1 1
+the former Commerce secretary = 4131 = 1 1
+the island nation = 4132 = 1 1
+the laboratorio alto prestazione, the high performance  lab, in Santa Caterina, Italy = 4133 = 1 1
+BBC news = 4134 = 1 1
+his mother = 4135 = 1 1
+forty sponsors = 4136 = 1 1
+Stock markets = 4137 = 1 1
+an Israeli settlement in Jerusalem = 4138 = 1 1
+Israeli Prime Minister Benjamin Netanyahu = 4139 = 1 1
+the emerging financial hub of China = 4140 = 1 1
+Cammi Granato = 4141 = 1 1
+Paula Jones' attorneys = 4142 = 1 1
+Oklahoma City = 4143 = 1 1
+a few agents = 4144 = 1 1
+The broader markets = 4145 = 1 1
+A music critic = 4146 = 1 1
+James Rubin who said to reporters a little bit later on that, ah,  that the optimism was not high based on the evidence that uh has been seen so  far, but they're going to continue to work at it, th- ah, meaning the United  States = 4147 = 1 1
+Kip, who  is also accused of killing two classmates and wounding twenty-two people at his  high school = 4148 = 1 1
+businesses = 4149 = 1 1
+my mom = 4150 = 1 1
+Corebet = 4151 = 1 1
+the Watergate = 4152 = 1 1
+many westerners = 4153 = 1 1
+Kenya = 4154 = 1 1
+twenty-one year old Kristin Kinkel = 4155 = 1 1
+thirty-five countries = 4156 = 1 1
+forty-eight per cent of Americans = 4157 = 1 1
+men in the highest twenty-fifth percentile of IGF one levels = 4158 = 1 1
+witnesses to criminal activity = 4159 = 1 1
+the  largest city in America = 4160 = 1 1
+independent counsel Kenneth Starr = 4161 = 1 1
+a small minority of people = 4162 = 1 1
+The ones who seem to be supporting the Zapatistas = 4163 = 1 1
+the communist party leadership = 4164 = 1 1
+the White Fork Pub = 4165 = 1 1
+the Asia Pacific Region = 4166 = 1 1
+the Taliban = 4167 = 1 1
+their babies = 4168 = 1 1
+Leonardo DiCaprio = 4169 = 1 1
+Wake Forest = 4170 = 1 1
+The UN security council = 4171 = 1 1
+outside investors = 4172 = 1 1
+Alexei  Pushkoff, political columnist at The Independent newspaper in Moscow = 4173 = 1 1
+Carrie Bye = 4174 = 1 1
+center = 4175 = 1 1
+Chinese military thinkers = 4176 = 1 1
+Bahrain = 4177 = 1 1
+the proposed  site of an Israeli settlement in Jerusalem = 4178 = 1 1
+Alissa  Abadcova = 4179 = 1 1
+the Empire State  Building in New York = 4180 = 1 1
+advisors = 4181 = 1 1
+one Secret Service official = 4182 = 1 1
+many developing nations = 4183 = 1 1
+other politicians = 4184 = 1 1
+Tom = 4185 = 1 1
+regular folks = 4186 = 1 1
+a nation of widows = 4187 = 1 1
+Party = 4188 = 1 1
+the so called Christian  Identity Movement which cites Biblical scripture as a foundation for a  belief in white supremacy and anti-semitism = 4189 = 1 1
+this island = 4190 = 1 1
+an area that was not off limits = 4191 = 1 1
+the production facilities = 4192 = 1 1
+a nurse = 4193 = 1 1
+Most doctors = 4194 = 1 1
+Ben LeBowe, tobacco executive who you know well = 4195 = 1 1
+the island nation of  Bahrain = 4196 = 1 1
+the Gaza Strip = 4197 = 1 1
+the Treasury Department official who supervised the Secret Service during   at least one part of the Clinton administration = 4198 = 1 1
+the first ever co-pilot = 4199 = 1 1
+Mitchell's father = 4200 = 1 1
+his predecessors = 4201 = 1 1
+Newsweek magazine = 4202 = 1 1
+the Secret Service agents looking after John F Kennedy = 4203 = 1 1
+the other twenty-five industrialized nations  combined = 4204 = 1 1
+The former White House intern who could challenge President Clinton's sworn testimony = 4205 = 1 1
+a friend overseas  who was contemplating a visit = 4206 = 1 1
+the first to float around the world nonstop = 4207 = 1 1
+The minister = 4208 = 1 1
+Bernie Williams = 4209 = 1 1
+its empire = 4210 = 1 1
+Bill = 4211 = 1 1
+USA = 4212 = 1 1
+The US ambassador to the UN = 4213 = 1 1
+The World's Nancy Marshall = 4214 = 1 1
+the countries that grow illegal drugs = 4215 = 1 1
+Lazio = 4216 = 1 1
+four continents = 4217 = 1 1
+chief of staff = 4218 = 1 1
+good students = 4219 = 1 1
+the adults = 4220 = 1 1
+Two hundred members of the group = 4221 = 1 1
+Homira Atimadi = 4222 = 1 1
+the raptors = 4223 = 1 1
+the older people = 4224 = 1 1
+an interesting coalition that the uh opponents have put together between conservatives and liberals = 4225 = 1 1
+Residents of Maysville = 4226 = 1 1
+Palestinian leader Yasser Arafat = 4227 = 1 1
+Senator Goldwater = 4228 = 1 1
+commander of the Space Shuttle Columbia = 4229 = 1 1
+Clinton haters = 4230 = 1 1
+this historic Russian city  on the banks of the Volga river = 4231 = 1 1
+Melton = 4232 = 1 1
+such a highly industrialized country = 4233 = 1 1
+then kidnaper, now politician Fernando Gabeira = 4234 = 1 1
+the Islamic Saudi Academy = 4235 = 1 1
+The US = 4236 = 1 1
+The dissidents = 4237 = 1 1
+The VA = 4238 = 1 1
+Bob Woodruff = 4239 = 1 1
+Larry Froistad = 4240 = 1 1
+Officials = 4241 = 1 1
+ABC's Jon  Frankel = 4242 = 1 1
+Elmer Bernstein, a film composer for the past forty years = 4243 = 1 1
+the Persian Gulf = 4244 = 1 1
+such members = 4245 = 1 1
+Election officials = 4246 = 1 1
+the US heartland = 4247 = 1 1
+your HMO = 4248 = 1 1
+five counties = 4249 = 1 1
+such groups as the Ku Klux Klan = 4250 = 1 1
+the western state of Arizona, to which he was so  deeply attached = 4251 = 1 1
+prime  minister Blair = 4252 = 1 1
+Media critics = 4253 = 1 1
+political columnist at The Independent newspaper in Moscow = 4254 = 1 1
+Dylan = 4255 = 1 1
+professor  Song Ko Ching of Beijing University = 4256 = 1 1
+the former White House intern = 4257 = 1 1
+Perkins = 4258 = 1 1
+VOA Today = 4259 = 1 1
+shopping areas of Jakarta  that were destroyed during anti-government rioting two weeks ago = 4260 = 1 1
+Palestinian authority leader Yasser Arafat = 4261 = 1 1
+crowd = 4262 = 1 1
+an already angry  community = 4263 = 1 1
+the notorious BIG = 4264 = 1 1
+The best source = 4265 = 1 1
+US Secretary of State Madeleine Albright = 4266 = 1 1
+Senator Mitchell = 4267 = 1 1
+Lundberg = 4268 = 1 1
+their countries = 4269 = 1 1
+Mark Martin = 4270 = 1 1
+Kwantam = 4271 = 1 1
+a senior official of a group called the  International Working Group on Afghan Women = 4272 = 1 1
+a drug policy research institute = 4273 = 1 1
+people from the US = 4274 = 1 1
+A majority of Americans = 4275 = 1 1
+members of Congress = 4276 = 1 1
+the driver = 4277 = 1 1
